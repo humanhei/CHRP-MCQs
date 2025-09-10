@@ -1,0 +1,170 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>HR Quiz Cards with Button Choices and Correct Answer Reveal</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7fa;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #score {
+    font-weight: bold;
+    color: #007f7f;
+    font-size: 22px;
+    margin-bottom: 24px;
+  }
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+  }
+  .card {
+    width: 385px;
+    min-height: 200px;
+    background: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+    padding: 18px;
+    box-sizing: border-box;
+    position: relative;
+  }
+  .question-number {
+    font-weight: bold;
+    font-size: 18px;
+    color: #007f7f;
+    margin-bottom: 8px;
+  }
+  .question {
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+  .choices {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .choice-btn {
+    font-size: 15px;
+    padding: 10px 18px;
+    border-radius: 7px;
+    border: 1px solid #007f7f;
+    cursor: pointer;
+    background: #e1eef1;
+    color: #007f7f;
+    margin-bottom: 6px;
+    transition: background 0.18s, color 0.18s;
+    outline: none;
+  }
+  .choice-btn.correct {
+    background: #28a745;
+    color: white;
+    border-color: #28a745;
+  }
+  .choice-btn.incorrect {
+    background: #dc3545;
+    color: white;
+    border-color: #dc3545;
+  }
+  .explanation {
+    margin-top: 16px;
+    font-style: italic;
+    background: #f7f7fa;
+    border-left: 4px solid #007f7f;
+    padding: 10px 16px;
+    border-radius: 7px;
+    font-size: 14px;
+  }
+</style>
+</head>
+<body>
+<div id="score">Score: 0 / 0</div>
+<div class="container" id="container"></div>
+<script>
+let correctCount = 0;
+let answeredCount = 0;
+function updateScore() {
+  document.getElementById('score').textContent = `Score: ${correctCount} / ${answeredCount}`;
+}
+async function loadData(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error('Could not fetch data');
+    const quizData = await response.json();
+    renderCards(quizData);
+  } catch (error) {
+    alert('Failed to load the quiz data. Please check the URL and try again.');
+  }
+}
+function renderCards(data) {
+  const container = document.getElementById('container');
+  container.innerHTML = '';
+  updateScore();
+  data.forEach((item, idx) => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    const qNum = document.createElement('div');
+    qNum.className = 'question-number';
+    qNum.textContent = `Question ${idx + 1}`;
+    card.appendChild(qNum);
+    const qElem = document.createElement('div');
+    qElem.className = 'question';
+    qElem.textContent = item.question;
+    card.appendChild(qElem);
+    const choicesDiv = document.createElement('div');
+    choicesDiv.className = 'choices';
+    let answered = false;
+    Object.entries(item.choices).forEach(([key, val]) => {
+      const btn = document.createElement('button');
+      btn.className = 'choice-btn';
+      btn.textContent = `${key}) ${val}`;
+      btn.onclick = function () {
+        if (answered) return;
+        answered = true;
+        answeredCount++;
+        if (key === item.answer) {
+          btn.classList.add('correct');
+          correctCount++;
+        } else {
+          btn.classList.add('incorrect');
+          // Show correct answer button
+          Array.from(choicesDiv.children).forEach((cb) => {
+            if (cb.textContent.startsWith(item.answer + ')')) cb.classList.add('correct');
+          });
+        }
+        showExplanation(item, card);
+        updateScore();
+      };
+      choicesDiv.appendChild(btn);
+    });
+    card.appendChild(choicesDiv);
+    container.appendChild(card);
+  });
+}
+function showExplanation(item, card) {
+  const expl = document.createElement('div');
+  expl.className = 'explanation';
+  expl.textContent = item.explanation;
+  card.appendChild(expl);
+}
+window.onload = () => {
+  const url = prompt('Enter the URL of the quiz JSON file:');
+  if (url != null && url.trim() !== '') {
+    loadData(url.trim());
+  } else {
+    alert('No URL entered. Please reload and enter a valid URL.');
+  }
+};
+</script>
+</body>
+</html>
