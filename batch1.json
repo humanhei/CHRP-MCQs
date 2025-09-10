@@ -548,5 +548,1654 @@
     },
     "answer": "c",
     "explanation": "Experimental design evaluations allow organizations to rigorously assess program impact on performance by comparing trained and untrained groups."
+  },
+  {
+    "question": "What is the primary goal of management development programs?",
+    "choices": {
+      "a": "To increase employee salaries",
+      "b": "To prepare employees for leadership roles",
+      "c": "To reduce training costs",
+      "d": "To automate HR functions"
+    },
+    "answer": "b",
+    "explanation": "Management development programs aim to prepare employees for higher-level responsibilities and leadership positions."
+  },
+  {
+    "question": "Which training evaluation level measures changes in job performance after training?",
+    "choices": {
+      "a": "Reaction",
+      "b": "Learning",
+      "c": "Behavior",
+      "d": "Results"
+    },
+    "answer": "c",
+    "explanation": "The behavior level of training evaluation measures whether participants apply what they learned to their job performance."
+  },
+  {
+    "question": "Which of the following best describes mentoring?",
+    "choices": {
+      "a": "Short-term technical skills training",
+      "b": "A formal classroom-based program",
+      "c": "A relationship where an experienced employee guides a less experienced one",
+      "d": "An online learning module"
+    },
+    "answer": "c",
+    "explanation": "Mentoring involves guidance and support from a more experienced employee to help the mentee grow professionally."
+  },
+  {
+    "question": "Job rotation primarily helps employees by:",
+    "choices": {
+      "a": "Increasing their salaries",
+      "b": "Exposing them to different roles and functions",
+      "c": "Reducing their workload",
+      "d": "Specializing them in one area"
+    },
+    "answer": "b",
+    "explanation": "Job rotation exposes employees to different tasks and roles, which helps broaden their skills and organizational understanding."
+  },
+  {
+    "question": "Which type of training focuses on learning by solving real workplace problems in teams?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Role-playing"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves working in teams on real problems, combining learning with problem-solving."
+  },
+  {
+    "question": "Which training delivery method is most effective for teaching interpersonal skills?",
+    "choices": {
+      "a": "Self-paced online learning",
+      "b": "Role-playing exercises",
+      "c": "Reading manuals",
+      "d": "Video lectures only"
+    },
+    "answer": "b",
+    "explanation": "Role-playing is highly effective for developing interpersonal and communication skills through practice and feedback."
+  },
+  {
+    "question": "Which evaluation method compares the performance of trained and untrained groups?",
+    "choices": {
+      "a": "ROI analysis",
+      "b": "Experimental design",
+      "c": "Reaction survey",
+      "d": "Case study"
+    },
+    "answer": "b",
+    "explanation": "Experimental design compares outcomes between trained and untrained groups to evaluate program effectiveness."
+  },
+  {
+    "question": "What is the main purpose of succession planning?",
+    "choices": {
+      "a": "To replace underperforming employees",
+      "b": "To ensure continuity in key positions",
+      "c": "To reduce employee turnover",
+      "d": "To improve job satisfaction"
+    },
+    "answer": "b",
+    "explanation": "Succession planning ensures that critical roles can be filled quickly by preparing internal talent in advance."
+  },
+  {
+    "question": "What is the primary goal of management development programs?",
+    "choices": {
+      "a": "To increase employee salaries",
+      "b": "To prepare employees for leadership roles",
+      "c": "To reduce training costs",
+      "d": "To automate HR functions"
+    },
+    "answer": "b",
+    "explanation": "Management development programs aim to prepare employees for higher-level responsibilities and leadership positions."
+  },
+  {
+    "question": "Which training evaluation level measures changes in job performance after training?",
+    "choices": {
+      "a": "Reaction",
+      "b": "Learning",
+      "c": "Behavior",
+      "d": "Results"
+    },
+    "answer": "c",
+    "explanation": "The behavior level of training evaluation measures whether participants apply what they learned to their job performance."
+  },
+  {
+    "question": "Which of the following best describes mentoring?",
+    "choices": {
+      "a": "Short-term technical skills training",
+      "b": "A formal classroom-based program",
+      "c": "A relationship where an experienced employee guides a less experienced one",
+      "d": "An online learning module"
+    },
+    "answer": "c",
+    "explanation": "Mentoring involves guidance and support from a more experienced employee to help the mentee grow professionally."
+  },
+  {
+    "question": "Job rotation primarily helps employees by:",
+    "choices": {
+      "a": "Increasing their salaries",
+      "b": "Exposing them to different roles and functions",
+      "c": "Reducing their workload",
+      "d": "Specializing them in one area"
+    },
+    "answer": "b",
+    "explanation": "Job rotation exposes employees to different tasks and roles, which helps broaden their skills and organizational understanding."
+  },
+  {
+    "question": "Which type of training focuses on learning by solving real workplace problems in teams?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Role-playing"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves working in teams on real problems, combining learning with problem-solving."
+  },
+  {
+    "question": "Which training delivery method is most effective for teaching interpersonal skills?",
+    "choices": {
+      "a": "Self-paced online learning",
+      "b": "Role-playing exercises",
+      "c": "Reading manuals",
+      "d": "Video lectures only"
+    },
+    "answer": "b",
+    "explanation": "Role-playing is highly effective for developing interpersonal and communication skills through practice and feedback."
+  },
+  {
+    "question": "Which evaluation method compares the performance of trained and untrained groups?",
+    "choices": {
+      "a": "ROI analysis",
+      "b": "Experimental design",
+      "c": "Reaction survey",
+      "d": "Case study"
+    },
+    "answer": "b",
+    "explanation": "Experimental design compares outcomes between trained and untrained groups to evaluate program effectiveness."
+  },
+  {
+    "question": "What is the main purpose of succession planning?",
+    "choices": {
+      "a": "To replace underperforming employees",
+      "b": "To ensure continuity in key positions",
+      "c": "To reduce employee turnover",
+      "d": "To improve job satisfaction"
+    },
+    "answer": "b",
+    "explanation": "Succession planning ensures that critical roles can be filled quickly by preparing internal talent in advance."
+  },
+  {
+    "question": "What is the primary goal of management development programs?",
+    "choices": {
+      "a": "To increase employee salaries",
+      "b": "To prepare employees for leadership roles",
+      "c": "To reduce training costs",
+      "d": "To automate HR functions"
+    },
+    "answer": "b",
+    "explanation": "Management development programs aim to prepare employees for higher-level responsibilities and leadership positions."
+  },
+  {
+    "question": "Which training evaluation level measures changes in job performance after training?",
+    "choices": {
+      "a": "Reaction",
+      "b": "Learning",
+      "c": "Behavior",
+      "d": "Results"
+    },
+    "answer": "c",
+    "explanation": "The behavior level of training evaluation measures whether participants apply what they learned to their job performance."
+  },
+  {
+    "question": "Which of the following best describes mentoring?",
+    "choices": {
+      "a": "Short-term technical skills training",
+      "b": "A formal classroom-based program",
+      "c": "A relationship where an experienced employee guides a less experienced one",
+      "d": "An online learning module"
+    },
+    "answer": "c",
+    "explanation": "Mentoring involves guidance and support from a more experienced employee to help the mentee grow professionally."
+  },
+  {
+    "question": "Job rotation primarily helps employees by:",
+    "choices": {
+      "a": "Increasing their salaries",
+      "b": "Exposing them to different roles and functions",
+      "c": "Reducing their workload",
+      "d": "Specializing them in one area"
+    },
+    "answer": "b",
+    "explanation": "Job rotation exposes employees to different tasks and roles, which helps broaden their skills and organizational understanding."
+  },
+  {
+    "question": "Which type of training focuses on learning by solving real workplace problems in teams?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Role-playing"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves working in teams on real problems, combining learning with problem-solving."
+  },
+  {
+    "question": "Which training delivery method is most effective for teaching interpersonal skills?",
+    "choices": {
+      "a": "Self-paced online learning",
+      "b": "Role-playing exercises",
+      "c": "Reading manuals",
+      "d": "Video lectures only"
+    },
+    "answer": "b",
+    "explanation": "Role-playing is highly effective for developing interpersonal and communication skills through practice and feedback."
+  },
+  {
+    "question": "Which evaluation method compares the performance of trained and untrained groups?",
+    "choices": {
+      "a": "ROI analysis",
+      "b": "Experimental design",
+      "c": "Reaction survey",
+      "d": "Case study"
+    },
+    "answer": "b",
+    "explanation": "Experimental design compares outcomes between trained and untrained groups to evaluate program effectiveness."
+  },
+  {
+    "question": "What is the main purpose of succession planning?",
+    "choices": {
+      "a": "To replace underperforming employees",
+      "b": "To ensure continuity in key positions",
+      "c": "To reduce employee turnover",
+      "d": "To improve job satisfaction"
+    },
+    "answer": "b",
+    "explanation": "Succession planning ensures that critical roles can be filled quickly by preparing internal talent in advance."
+  },
+  {
+    "question": "What is the primary goal of management development programs?",
+    "choices": {
+      "a": "To increase employee salaries",
+      "b": "To prepare employees for leadership roles",
+      "c": "To reduce training costs",
+      "d": "To automate HR functions"
+    },
+    "answer": "b",
+    "explanation": "Management development programs aim to prepare employees for higher-level responsibilities and leadership positions."
+  },
+  {
+    "question": "Which training evaluation level measures changes in job performance after training?",
+    "choices": {
+      "a": "Reaction",
+      "b": "Learning",
+      "c": "Behavior",
+      "d": "Results"
+    },
+    "answer": "c",
+    "explanation": "The behavior level of training evaluation measures whether participants apply what they learned to their job performance."
+  },
+  {
+    "question": "Which of the following best describes mentoring?",
+    "choices": {
+      "a": "Short-term technical skills training",
+      "b": "A formal classroom-based program",
+      "c": "A relationship where an experienced employee guides a less experienced one",
+      "d": "An online learning module"
+    },
+    "answer": "c",
+    "explanation": "Mentoring involves guidance and support from a more experienced employee to help the mentee grow professionally."
+  },
+  {
+    "question": "Job rotation primarily helps employees by:",
+    "choices": {
+      "a": "Increasing their salaries",
+      "b": "Exposing them to different roles and functions",
+      "c": "Reducing their workload",
+      "d": "Specializing them in one area"
+    },
+    "answer": "b",
+    "explanation": "Job rotation exposes employees to different tasks and roles, which helps broaden their skills and organizational understanding."
+  },
+  {
+    "question": "Which type of training focuses on learning by solving real workplace problems in teams?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Role-playing"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves working in teams on real problems, combining learning with problem-solving."
+  },
+  {
+    "question": "Which training delivery method is most effective for teaching interpersonal skills?",
+    "choices": {
+      "a": "Self-paced online learning",
+      "b": "Role-playing exercises",
+      "c": "Reading manuals",
+      "d": "Video lectures only"
+    },
+    "answer": "b",
+    "explanation": "Role-playing is highly effective for developing interpersonal and communication skills through practice and feedback."
+  },
+  {
+    "question": "Which evaluation method compares the performance of trained and untrained groups?",
+    "choices": {
+      "a": "ROI analysis",
+      "b": "Experimental design",
+      "c": "Reaction survey",
+      "d": "Case study"
+    },
+    "answer": "b",
+    "explanation": "Experimental design compares outcomes between trained and untrained groups to evaluate program effectiveness."
+  },
+  {
+    "question": "What is the main purpose of succession planning?",
+    "choices": {
+      "a": "To replace underperforming employees",
+      "b": "To ensure continuity in key positions",
+      "c": "To reduce employee turnover",
+      "d": "To improve job satisfaction"
+    },
+    "answer": "b",
+    "explanation": "Succession planning ensures that critical roles can be filled quickly by preparing internal talent in advance."
+  },
+  {
+    "question": "What is the primary goal of management development programs?",
+    "choices": {
+      "a": "To increase employee salaries",
+      "b": "To prepare employees for leadership roles",
+      "c": "To reduce training costs",
+      "d": "To automate HR functions"
+    },
+    "answer": "b",
+    "explanation": "Management development programs aim to prepare employees for higher-level responsibilities and leadership positions."
+  },
+  {
+    "question": "Which training evaluation level measures changes in job performance after training?",
+    "choices": {
+      "a": "Reaction",
+      "b": "Learning",
+      "c": "Behavior",
+      "d": "Results"
+    },
+    "answer": "c",
+    "explanation": "The behavior level of training evaluation measures whether participants apply what they learned to their job performance."
+  },
+  {
+    "question": "Which of the following best describes mentoring?",
+    "choices": {
+      "a": "Short-term technical skills training",
+      "b": "A formal classroom-based program",
+      "c": "A relationship where an experienced employee guides a less experienced one",
+      "d": "An online learning module"
+    },
+    "answer": "c",
+    "explanation": "Mentoring involves guidance and support from a more experienced employee to help the mentee grow professionally."
+  },
+  {
+    "question": "Job rotation primarily helps employees by:",
+    "choices": {
+      "a": "Increasing their salaries",
+      "b": "Exposing them to different roles and functions",
+      "c": "Reducing their workload",
+      "d": "Specializing them in one area"
+    },
+    "answer": "b",
+    "explanation": "Job rotation exposes employees to different tasks and roles, which helps broaden their skills and organizational understanding."
+  },
+  {
+    "question": "Which type of training focuses on learning by solving real workplace problems in teams?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Role-playing"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves working in teams on real problems, combining learning with problem-solving."
+  },
+  {
+    "question": "Which training delivery method is most effective for teaching interpersonal skills?",
+    "choices": {
+      "a": "Self-paced online learning",
+      "b": "Role-playing exercises",
+      "c": "Reading manuals",
+      "d": "Video lectures only"
+    },
+    "answer": "b",
+    "explanation": "Role-playing is highly effective for developing interpersonal and communication skills through practice and feedback."
+  },
+  {
+    "question": "Which evaluation method compares the performance of trained and untrained groups?",
+    "choices": {
+      "a": "ROI analysis",
+      "b": "Experimental design",
+      "c": "Reaction survey",
+      "d": "Case study"
+    },
+    "answer": "b",
+    "explanation": "Experimental design compares outcomes between trained and untrained groups to evaluate program effectiveness."
+  },
+  {
+    "question": "What is the main purpose of succession planning?",
+    "choices": {
+      "a": "To replace underperforming employees",
+      "b": "To ensure continuity in key positions",
+      "c": "To reduce employee turnover",
+      "d": "To improve job satisfaction"
+    },
+    "answer": "b",
+    "explanation": "Succession planning ensures that critical roles can be filled quickly by preparing internal talent in advance."
+  },
+  {
+    "question": "What is the primary goal of management development programs?",
+    "choices": {
+      "a": "To increase employee salaries",
+      "b": "To prepare employees for leadership roles",
+      "c": "To reduce training costs",
+      "d": "To automate HR functions"
+    },
+    "answer": "b",
+    "explanation": "Management development programs aim to prepare employees for higher-level responsibilities and leadership positions."
+  },
+  {
+    "question": "Which training evaluation level measures changes in job performance after training?",
+    "choices": {
+      "a": "Reaction",
+      "b": "Learning",
+      "c": "Behavior",
+      "d": "Results"
+    },
+    "answer": "c",
+    "explanation": "The behavior level of training evaluation measures whether participants apply what they learned to their job performance."
+  },
+  {
+    "question": "Which of the following best describes mentoring?",
+    "choices": {
+      "a": "Short-term technical skills training",
+      "b": "A formal classroom-based program",
+      "c": "A relationship where an experienced employee guides a less experienced one",
+      "d": "An online learning module"
+    },
+    "answer": "c",
+    "explanation": "Mentoring involves guidance and support from a more experienced employee to help the mentee grow professionally."
+  },
+  {
+    "question": "Job rotation primarily helps employees by:",
+    "choices": {
+      "a": "Increasing their salaries",
+      "b": "Exposing them to different roles and functions",
+      "c": "Reducing their workload",
+      "d": "Specializing them in one area"
+    },
+    "answer": "b",
+    "explanation": "Job rotation exposes employees to different tasks and roles, which helps broaden their skills and organizational understanding."
+  },
+  {
+    "question": "Which type of training focuses on learning by solving real workplace problems in teams?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Role-playing"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves working in teams on real problems, combining learning with problem-solving."
+  },
+  {
+    "question": "Which training delivery method is most effective for teaching interpersonal skills?",
+    "choices": {
+      "a": "Self-paced online learning",
+      "b": "Role-playing exercises",
+      "c": "Reading manuals",
+      "d": "Video lectures only"
+    },
+    "answer": "b",
+    "explanation": "Role-playing is highly effective for developing interpersonal and communication skills through practice and feedback."
+  },
+  {
+    "question": "Which evaluation method compares the performance of trained and untrained groups?",
+    "choices": {
+      "a": "ROI analysis",
+      "b": "Experimental design",
+      "c": "Reaction survey",
+      "d": "Case study"
+    },
+    "answer": "b",
+    "explanation": "Experimental design compares outcomes between trained and untrained groups to evaluate program effectiveness."
+  },
+  {
+    "question": "What is the main purpose of succession planning?",
+    "choices": {
+      "a": "To replace underperforming employees",
+      "b": "To ensure continuity in key positions",
+      "c": "To reduce employee turnover",
+      "d": "To improve job satisfaction"
+    },
+    "answer": "b",
+    "explanation": "Succession planning ensures that critical roles can be filled quickly by preparing internal talent in advance."
+  },
+  {
+    "question": "What is the primary goal of management development programs?",
+    "choices": {
+      "a": "To increase employee salaries",
+      "b": "To prepare employees for leadership roles",
+      "c": "To reduce training costs",
+      "d": "To automate HR functions"
+    },
+    "answer": "b",
+    "explanation": "Management development programs aim to prepare employees for higher-level responsibilities and leadership positions."
+  },
+  {
+    "question": "Which training evaluation level measures changes in job performance after training?",
+    "choices": {
+      "a": "Reaction",
+      "b": "Learning",
+      "c": "Behavior",
+      "d": "Results"
+    },
+    "answer": "c",
+    "explanation": "The behavior level of training evaluation measures whether participants apply what they learned to their job performance."
+  },
+  {
+    "question": "Which of the following best describes coaching in management development?",
+    "choices": {
+      "a": "Formal classroom training",
+      "b": "Ongoing one-on-one guidance to improve performance",
+      "c": "Self-paced online learning",
+      "d": "Job rotation across departments"
+    },
+    "answer": "b",
+    "explanation": "Coaching provides individualized support and feedback to improve specific skills and performance."
+  },
+  {
+    "question": "What is the primary purpose of a needs assessment before training?",
+    "choices": {
+      "a": "To evaluate training outcomes",
+      "b": "To identify skill gaps and training requirements",
+      "c": "To reduce training costs",
+      "d": "To promote e-learning platforms"
+    },
+    "answer": "b",
+    "explanation": "A needs assessment ensures training addresses actual gaps in skills, knowledge, or performance."
+  },
+  {
+    "question": "Which training method uses realistic equipment to mimic work tasks?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Lecture-based training",
+      "c": "Mentorship",
+      "d": "Self-study"
+    },
+    "answer": "a",
+    "explanation": "Simulation training replicates job conditions to allow practice in a safe, controlled environment."
+  },
+  {
+    "question": "What is the focus of summative training evaluation?",
+    "choices": {
+      "a": "Improving training design during development",
+      "b": "Determining overall program effectiveness after completion",
+      "c": "Measuring trainer performance only",
+      "d": "Identifying participant preferences"
+    },
+    "answer": "b",
+    "explanation": "Summative evaluation assesses whether the training achieved its intended outcomes after delivery."
+  },
+  {
+    "question": "Which of the following is an example of informal learning?",
+    "choices": {
+      "a": "Participating in an online certification course",
+      "b": "Learning from peers during daily work interactions",
+      "c": "Completing mandatory compliance training",
+      "d": "Attending a structured seminar"
+    },
+    "answer": "b",
+    "explanation": "Informal learning happens naturally, such as gaining knowledge from peers during work."
+  },
+  {
+    "question": "Which concept suggests that adults learn best when training is problem-centered rather than content-oriented?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Experiential learning",
+      "c": "Andragogy",
+      "d": "Constructivism"
+    },
+    "answer": "c",
+    "explanation": "Andragogy emphasizes problem-centered learning approaches for adults, focusing on real-world applications."
+  },
+  {
+    "question": "Which of the following is the best way to measure the return on investment (ROI) of a training program?",
+    "choices": {
+      "a": "Surveying participant satisfaction",
+      "b": "Comparing training costs with organizational performance improvements",
+      "c": "Measuring training attendance rates",
+      "d": "Tracking trainer preparation hours"
+    },
+    "answer": "b",
+    "explanation": "ROI compares the costs of training to the tangible performance and financial benefits it generates."
+  },
+  {
+    "question": "What is a key disadvantage of lecture-based training?",
+    "choices": {
+      "a": "It is too interactive for most learners",
+      "b": "It limits active participation and engagement",
+      "c": "It is more expensive than simulations",
+      "d": "It cannot be used for large groups"
+    },
+    "answer": "b",
+    "explanation": "Lecture-based training often restricts interaction, making it less effective for engaging participants."
+  },
+  {
+    "question": "Which of the following best describes coaching in management development?",
+    "choices": {
+      "a": "Formal classroom training",
+      "b": "Ongoing one-on-one guidance to improve performance",
+      "c": "Self-paced online learning",
+      "d": "Job rotation across departments"
+    },
+    "answer": "b",
+    "explanation": "Coaching provides individualized support and feedback to improve specific skills and performance."
+  },
+  {
+    "question": "What is the primary purpose of a needs assessment before training?",
+    "choices": {
+      "a": "To evaluate training outcomes",
+      "b": "To identify skill gaps and training requirements",
+      "c": "To reduce training costs",
+      "d": "To promote e-learning platforms"
+    },
+    "answer": "b",
+    "explanation": "A needs assessment ensures training addresses actual gaps in skills, knowledge, or performance."
+  },
+  {
+    "question": "Which training method uses realistic equipment to mimic work tasks?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Lecture-based training",
+      "c": "Mentorship",
+      "d": "Self-study"
+    },
+    "answer": "a",
+    "explanation": "Simulation training replicates job conditions to allow practice in a safe, controlled environment."
+  },
+  {
+    "question": "What is the focus of summative training evaluation?",
+    "choices": {
+      "a": "Improving training design during development",
+      "b": "Determining overall program effectiveness after completion",
+      "c": "Measuring trainer performance only",
+      "d": "Identifying participant preferences"
+    },
+    "answer": "b",
+    "explanation": "Summative evaluation assesses whether the training achieved its intended outcomes after delivery."
+  },
+  {
+    "question": "Which of the following is an example of informal learning?",
+    "choices": {
+      "a": "Participating in an online certification course",
+      "b": "Learning from peers during daily work interactions",
+      "c": "Completing mandatory compliance training",
+      "d": "Attending a structured seminar"
+    },
+    "answer": "b",
+    "explanation": "Informal learning happens naturally, such as gaining knowledge from peers during work."
+  },
+  {
+    "question": "Which concept suggests that adults learn best when training is problem-centered rather than content-oriented?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Experiential learning",
+      "c": "Andragogy",
+      "d": "Constructivism"
+    },
+    "answer": "c",
+    "explanation": "Andragogy emphasizes problem-centered learning approaches for adults, focusing on real-world applications."
+  },
+  {
+    "question": "Which of the following is the best way to measure the return on investment (ROI) of a training program?",
+    "choices": {
+      "a": "Surveying participant satisfaction",
+      "b": "Comparing training costs with organizational performance improvements",
+      "c": "Measuring training attendance rates",
+      "d": "Tracking trainer preparation hours"
+    },
+    "answer": "b",
+    "explanation": "ROI compares the costs of training to the tangible performance and financial benefits it generates."
+  },
+  {
+    "question": "What is a key disadvantage of lecture-based training?",
+    "choices": {
+      "a": "It is too interactive for most learners",
+      "b": "It limits active participation and engagement",
+      "c": "It is more expensive than simulations",
+      "d": "It cannot be used for large groups"
+    },
+    "answer": "b",
+    "explanation": "Lecture-based training often restricts interaction, making it less effective for engaging participants."
+  },
+  {
+    "question": "Which of the following best describes coaching in management development?",
+    "choices": {
+      "a": "Formal classroom training",
+      "b": "Ongoing one-on-one guidance to improve performance",
+      "c": "Self-paced online learning",
+      "d": "Job rotation across departments"
+    },
+    "answer": "b",
+    "explanation": "Coaching provides individualized support and feedback to improve specific skills and performance."
+  },
+  {
+    "question": "What is the primary purpose of a needs assessment before training?",
+    "choices": {
+      "a": "To evaluate training outcomes",
+      "b": "To identify skill gaps and training requirements",
+      "c": "To reduce training costs",
+      "d": "To promote e-learning platforms"
+    },
+    "answer": "b",
+    "explanation": "A needs assessment ensures training addresses actual gaps in skills, knowledge, or performance."
+  },
+  {
+    "question": "Which training method uses realistic equipment to mimic work tasks?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Lecture-based training",
+      "c": "Mentorship",
+      "d": "Self-study"
+    },
+    "answer": "a",
+    "explanation": "Simulation training replicates job conditions to allow practice in a safe, controlled environment."
+  },
+  {
+    "question": "What is the focus of summative training evaluation?",
+    "choices": {
+      "a": "Improving training design during development",
+      "b": "Determining overall program effectiveness after completion",
+      "c": "Measuring trainer performance only",
+      "d": "Identifying participant preferences"
+    },
+    "answer": "b",
+    "explanation": "Summative evaluation assesses whether the training achieved its intended outcomes after delivery."
+  },
+  {
+    "question": "Which of the following is an example of informal learning?",
+    "choices": {
+      "a": "Participating in an online certification course",
+      "b": "Learning from peers during daily work interactions",
+      "c": "Completing mandatory compliance training",
+      "d": "Attending a structured seminar"
+    },
+    "answer": "b",
+    "explanation": "Informal learning happens naturally, such as gaining knowledge from peers during work."
+  },
+  {
+    "question": "Which concept suggests that adults learn best when training is problem-centered rather than content-oriented?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Experiential learning",
+      "c": "Andragogy",
+      "d": "Constructivism"
+    },
+    "answer": "c",
+    "explanation": "Andragogy emphasizes problem-centered learning approaches for adults, focusing on real-world applications."
+  },
+  {
+    "question": "Which of the following is the best way to measure the return on investment (ROI) of a training program?",
+    "choices": {
+      "a": "Surveying participant satisfaction",
+      "b": "Comparing training costs with organizational performance improvements",
+      "c": "Measuring training attendance rates",
+      "d": "Tracking trainer preparation hours"
+    },
+    "answer": "b",
+    "explanation": "ROI compares the costs of training to the tangible performance and financial benefits it generates."
+  },
+  {
+    "question": "What is a key disadvantage of lecture-based training?",
+    "choices": {
+      "a": "It is too interactive for most learners",
+      "b": "It limits active participation and engagement",
+      "c": "It is more expensive than simulations",
+      "d": "It cannot be used for large groups"
+    },
+    "answer": "b",
+    "explanation": "Lecture-based training often restricts interaction, making it less effective for engaging participants."
+  },
+  {
+    "question": "Which of the following best describes coaching in management development?",
+    "choices": {
+      "a": "Formal classroom training",
+      "b": "Ongoing one-on-one guidance to improve performance",
+      "c": "Self-paced online learning",
+      "d": "Job rotation across departments"
+    },
+    "answer": "b",
+    "explanation": "Coaching provides individualized support and feedback to improve specific skills and performance."
+  },
+  {
+    "question": "What is the primary purpose of a needs assessment before training?",
+    "choices": {
+      "a": "To evaluate training outcomes",
+      "b": "To identify skill gaps and training requirements",
+      "c": "To reduce training costs",
+      "d": "To promote e-learning platforms"
+    },
+    "answer": "b",
+    "explanation": "A needs assessment ensures training addresses actual gaps in skills, knowledge, or performance."
+  },
+  {
+    "question": "Which training method uses realistic equipment to mimic work tasks?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Lecture-based training",
+      "c": "Mentorship",
+      "d": "Self-study"
+    },
+    "answer": "a",
+    "explanation": "Simulation training replicates job conditions to allow practice in a safe, controlled environment."
+  },
+  {
+    "question": "What is the focus of summative training evaluation?",
+    "choices": {
+      "a": "Improving training design during development",
+      "b": "Determining overall program effectiveness after completion",
+      "c": "Measuring trainer performance only",
+      "d": "Identifying participant preferences"
+    },
+    "answer": "b",
+    "explanation": "Summative evaluation assesses whether the training achieved its intended outcomes after delivery."
+  },
+  {
+    "question": "Which of the following is an example of informal learning?",
+    "choices": {
+      "a": "Participating in an online certification course",
+      "b": "Learning from peers during daily work interactions",
+      "c": "Completing mandatory compliance training",
+      "d": "Attending a structured seminar"
+    },
+    "answer": "b",
+    "explanation": "Informal learning happens naturally, such as gaining knowledge from peers during work."
+  },
+  {
+    "question": "Which concept suggests that adults learn best when training is problem-centered rather than content-oriented?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Experiential learning",
+      "c": "Andragogy",
+      "d": "Constructivism"
+    },
+    "answer": "c",
+    "explanation": "Andragogy emphasizes problem-centered learning approaches for adults, focusing on real-world applications."
+  },
+  {
+    "question": "Which of the following is the best way to measure the return on investment (ROI) of a training program?",
+    "choices": {
+      "a": "Surveying participant satisfaction",
+      "b": "Comparing training costs with organizational performance improvements",
+      "c": "Measuring training attendance rates",
+      "d": "Tracking trainer preparation hours"
+    },
+    "answer": "b",
+    "explanation": "ROI compares the costs of training to the tangible performance and financial benefits it generates."
+  },
+  {
+    "question": "What is a key disadvantage of lecture-based training?",
+    "choices": {
+      "a": "It is too interactive for most learners",
+      "b": "It limits active participation and engagement",
+      "c": "It is more expensive than simulations",
+      "d": "It cannot be used for large groups"
+    },
+    "answer": "b",
+    "explanation": "Lecture-based training often restricts interaction, making it less effective for engaging participants."
+  },
+  {
+    "question": "Which of the following best describes coaching in management development?",
+    "choices": {
+      "a": "Formal classroom training",
+      "b": "Ongoing one-on-one guidance to improve performance",
+      "c": "Self-paced online learning",
+      "d": "Job rotation across departments"
+    },
+    "answer": "b",
+    "explanation": "Coaching provides individualized support and feedback to improve specific skills and performance."
+  },
+  {
+    "question": "What is the primary purpose of a needs assessment before training?",
+    "choices": {
+      "a": "To evaluate training outcomes",
+      "b": "To identify skill gaps and training requirements",
+      "c": "To reduce training costs",
+      "d": "To promote e-learning platforms"
+    },
+    "answer": "b",
+    "explanation": "A needs assessment ensures training addresses actual gaps in skills, knowledge, or performance."
+  },
+  {
+    "question": "Which training method uses realistic equipment to mimic work tasks?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Lecture-based training",
+      "c": "Mentorship",
+      "d": "Self-study"
+    },
+    "answer": "a",
+    "explanation": "Simulation training replicates job conditions to allow practice in a safe, controlled environment."
+  },
+  {
+    "question": "What is the focus of summative training evaluation?",
+    "choices": {
+      "a": "Improving training design during development",
+      "b": "Determining overall program effectiveness after completion",
+      "c": "Measuring trainer performance only",
+      "d": "Identifying participant preferences"
+    },
+    "answer": "b",
+    "explanation": "Summative evaluation assesses whether the training achieved its intended outcomes after delivery."
+  },
+  {
+    "question": "Which of the following is an example of informal learning?",
+    "choices": {
+      "a": "Participating in an online certification course",
+      "b": "Learning from peers during daily work interactions",
+      "c": "Completing mandatory compliance training",
+      "d": "Attending a structured seminar"
+    },
+    "answer": "b",
+    "explanation": "Informal learning happens naturally, such as gaining knowledge from peers during work."
+  },
+  {
+    "question": "Which concept suggests that adults learn best when training is problem-centered rather than content-oriented?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Experiential learning",
+      "c": "Andragogy",
+      "d": "Constructivism"
+    },
+    "answer": "c",
+    "explanation": "Andragogy emphasizes problem-centered learning approaches for adults, focusing on real-world applications."
+  },
+  {
+    "question": "Which of the following is the best way to measure the return on investment (ROI) of a training program?",
+    "choices": {
+      "a": "Surveying participant satisfaction",
+      "b": "Comparing training costs with organizational performance improvements",
+      "c": "Measuring training attendance rates",
+      "d": "Tracking trainer preparation hours"
+    },
+    "answer": "b",
+    "explanation": "ROI compares the costs of training to the tangible performance and financial benefits it generates."
+  },
+  {
+    "question": "What is a key disadvantage of lecture-based training?",
+    "choices": {
+      "a": "It is too interactive for most learners",
+      "b": "It limits active participation and engagement",
+      "c": "It is more expensive than simulations",
+      "d": "It cannot be used for large groups"
+    },
+    "answer": "b",
+    "explanation": "Lecture-based training often restricts interaction, making it less effective for engaging participants."
+  },
+  {
+    "question": "Which of the following best describes coaching in management development?",
+    "choices": {
+      "a": "Formal classroom training",
+      "b": "Ongoing one-on-one guidance to improve performance",
+      "c": "Self-paced online learning",
+      "d": "Job rotation across departments"
+    },
+    "answer": "b",
+    "explanation": "Coaching provides individualized support and feedback to improve specific skills and performance."
+  },
+  {
+    "question": "What is the primary purpose of a needs assessment before training?",
+    "choices": {
+      "a": "To evaluate training outcomes",
+      "b": "To identify skill gaps and training requirements",
+      "c": "To reduce training costs",
+      "d": "To promote e-learning platforms"
+    },
+    "answer": "b",
+    "explanation": "A needs assessment ensures training addresses actual gaps in skills, knowledge, or performance."
+  },
+  {
+    "question": "Which training method uses realistic equipment to mimic work tasks?",
+    "choices": {
+      "a": "Simulation training",
+      "b": "Lecture-based training",
+      "c": "Mentorship",
+      "d": "Self-study"
+    },
+    "answer": "a",
+    "explanation": "Simulation training replicates job conditions to allow practice in a safe, controlled environment."
+  },
+  {
+    "question": "What is the focus of summative training evaluation?",
+    "choices": {
+      "a": "Improving training design during development",
+      "b": "Determining overall program effectiveness after completion",
+      "c": "Measuring trainer performance only",
+      "d": "Identifying participant preferences"
+    },
+    "answer": "b",
+    "explanation": "Summative evaluation assesses whether the training achieved its intended outcomes after delivery."
+  },
+  {
+    "question": "Which of the following is an example of informal learning?",
+    "choices": {
+      "a": "Participating in an online certification course",
+      "b": "Learning from peers during daily work interactions",
+      "c": "Completing mandatory compliance training",
+      "d": "Attending a structured seminar"
+    },
+    "answer": "b",
+    "explanation": "Informal learning happens naturally, such as gaining knowledge from peers during work."
+  },
+  {
+    "question": "Which concept suggests that adults learn best when training is problem-centered rather than content-oriented?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Experiential learning",
+      "c": "Andragogy",
+      "d": "Constructivism"
+    },
+    "answer": "c",
+    "explanation": "Andragogy emphasizes problem-centered learning approaches for adults, focusing on real-world applications."
+  },
+  {
+    "question": "Which of the following is the best way to measure the return on investment (ROI) of a training program?",
+    "choices": {
+      "a": "Surveying participant satisfaction",
+      "b": "Comparing training costs with organizational performance improvements",
+      "c": "Measuring training attendance rates",
+      "d": "Tracking trainer preparation hours"
+    },
+    "answer": "b",
+    "explanation": "ROI compares the costs of training to the tangible performance and financial benefits it generates."
+  },
+  {
+    "question": "What is a key disadvantage of lecture-based training?",
+    "choices": {
+      "a": "It is too interactive for most learners",
+      "b": "It limits active participation and engagement",
+      "c": "It is more expensive than simulations",
+      "d": "It cannot be used for large groups"
+    },
+    "answer": "b",
+    "explanation": "Lecture-based training often restricts interaction, making it less effective for engaging participants."
+  },
+  {
+    "question": "Which of the following best describes coaching in management development?",
+    "choices": {
+      "a": "Formal classroom training",
+      "b": "Ongoing one-on-one guidance to improve performance",
+      "c": "Self-paced online learning",
+      "d": "Job rotation across departments"
+    },
+    "answer": "b",
+    "explanation": "Coaching provides individualized support and feedback to improve specific skills and performance."
+  },
+  {
+    "question": "What is the primary purpose of a needs assessment before training?",
+    "choices": {
+      "a": "To evaluate training outcomes",
+      "b": "To identify skill gaps and training requirements",
+      "c": "To reduce training costs",
+      "d": "To promote e-learning platforms"
+    },
+    "answer": "b",
+    "explanation": "A needs assessment ensures training addresses actual gaps in skills, knowledge, or performance."
+  },{
+    "question": "Which type of learning involves observing others and modeling their behavior?",
+    "choices": {
+      "a": "Experiential learning",
+      "b": "Social learning",
+      "c": "Constructivist learning",
+      "d": "Self-directed learning"
+    },
+    "answer": "b",
+    "explanation": "Social learning theory emphasizes learning through observation, imitation, and modeling of others’ behaviors."
+  },
+  {
+    "question": "Which training delivery method is most effective for high-risk jobs such as pilots or surgeons?",
+    "choices": {
+      "a": "Lecture-based training",
+      "b": "Simulation training",
+      "c": "Self-paced e-learning",
+      "d": "Mentorship programs"
+    },
+    "answer": "b",
+    "explanation": "Simulation training provides a safe environment to practice high-risk tasks, making it ideal for jobs like pilots and surgeons."
+  },
+  {
+    "question": "What is the primary purpose of cross-training employees?",
+    "choices": {
+      "a": "To reduce the need for employee development",
+      "b": "To ensure flexibility and coverage across roles",
+      "c": "To lower training costs",
+      "d": "To specialize employees in one function"
+    },
+    "answer": "b",
+    "explanation": "Cross-training prepares employees to perform multiple roles, increasing flexibility and operational resilience."
+  },
+  {
+    "question": "Which type of evaluation determines whether training outcomes align with organizational goals?",
+    "choices": {
+      "a": "Summative evaluation",
+      "b": "Reaction evaluation",
+      "c": "Results evaluation",
+      "d": "Formative evaluation"
+    },
+    "answer": "c",
+    "explanation": "Results evaluation measures the organizational impact of training, ensuring outcomes align with strategic goals."
+  },
+  {
+    "question": "Which of the following best describes experiential learning?",
+    "choices": {
+      "a": "Learning by listening to lectures",
+      "b": "Learning by doing and reflecting on experiences",
+      "c": "Learning solely through reading textbooks",
+      "d": "Learning only from observation"
+    },
+    "answer": "b",
+    "explanation": "Experiential learning emphasizes hands-on experiences and reflection to reinforce knowledge and skills."
+  },
+  {
+    "question": "In the context of training, what does the term 'transfer of learning' mean?",
+    "choices": {
+      "a": "The ability to pass exams after training",
+      "b": "The application of training content to the job",
+      "c": "The cost of moving training materials between locations",
+      "d": "The process of switching trainers during a program"
+    },
+    "answer": "b",
+    "explanation": "Transfer of learning refers to applying skills and knowledge gained in training back to the workplace."
+  },
+  {
+    "question": "What is the main advantage of blended learning programs?",
+    "choices": {
+      "a": "They eliminate the need for instructors",
+      "b": "They combine online and face-to-face methods for flexibility and effectiveness",
+      "c": "They are cheaper than all other methods",
+      "d": "They replace performance evaluations"
+    },
+    "answer": "b",
+    "explanation": "Blended learning combines online and in-person approaches, maximizing flexibility and learner engagement."
+  },
+  {
+    "question": "Which of the following is a disadvantage of on-the-job training (OJT)?",
+    "choices": {
+      "a": "It allows immediate practice of skills",
+      "b": "It provides real-world experience",
+      "c": "It can disrupt workflow and productivity",
+      "d": "It increases knowledge retention"
+    },
+    "answer": "c",
+    "explanation": "On-the-job training can disrupt workflow since training occurs during actual job tasks."
+  },
+  {
+    "question": "Which type of learning involves observing others and modeling their behavior?",
+    "choices": {
+      "a": "Experiential learning",
+      "b": "Social learning",
+      "c": "Constructivist learning",
+      "d": "Self-directed learning"
+    },
+    "answer": "b",
+    "explanation": "Social learning theory emphasizes learning through observation, imitation, and modeling of others’ behaviors."
+  },
+  {
+    "question": "Which training delivery method is most effective for high-risk jobs such as pilots or surgeons?",
+    "choices": {
+      "a": "Lecture-based training",
+      "b": "Simulation training",
+      "c": "Self-paced e-learning",
+      "d": "Mentorship programs"
+    },
+    "answer": "b",
+    "explanation": "Simulation training provides a safe environment to practice high-risk tasks, making it ideal for jobs like pilots and surgeons."
+  },
+  {
+    "question": "What is the primary purpose of cross-training employees?",
+    "choices": {
+      "a": "To reduce the need for employee development",
+      "b": "To ensure flexibility and coverage across roles",
+      "c": "To lower training costs",
+      "d": "To specialize employees in one function"
+    },
+    "answer": "b",
+    "explanation": "Cross-training prepares employees to perform multiple roles, increasing flexibility and operational resilience."
+  },
+  {
+    "question": "Which type of evaluation determines whether training outcomes align with organizational goals?",
+    "choices": {
+      "a": "Summative evaluation",
+      "b": "Reaction evaluation",
+      "c": "Results evaluation",
+      "d": "Formative evaluation"
+    },
+    "answer": "c",
+    "explanation": "Results evaluation measures the organizational impact of training, ensuring outcomes align with strategic goals."
+  },
+  {
+    "question": "Which of the following best describes experiential learning?",
+    "choices": {
+      "a": "Learning by listening to lectures",
+      "b": "Learning by doing and reflecting on experiences",
+      "c": "Learning solely through reading textbooks",
+      "d": "Learning only from observation"
+    },
+    "answer": "b",
+    "explanation": "Experiential learning emphasizes hands-on experiences and reflection to reinforce knowledge and skills."
+  },
+  {
+    "question": "In the context of training, what does the term 'transfer of learning' mean?",
+    "choices": {
+      "a": "The ability to pass exams after training",
+      "b": "The application of training content to the job",
+      "c": "The cost of moving training materials between locations",
+      "d": "The process of switching trainers during a program"
+    },
+    "answer": "b",
+    "explanation": "Transfer of learning refers to applying skills and knowledge gained in training back to the workplace."
+  },
+  {
+    "question": "What is the main advantage of blended learning programs?",
+    "choices": {
+      "a": "They eliminate the need for instructors",
+      "b": "They combine online and face-to-face methods for flexibility and effectiveness",
+      "c": "They are cheaper than all other methods",
+      "d": "They replace performance evaluations"
+    },
+    "answer": "b",
+    "explanation": "Blended learning combines online and in-person approaches, maximizing flexibility and learner engagement."
+  },
+  {
+    "question": "Which of the following is a disadvantage of on-the-job training (OJT)?",
+    "choices": {
+      "a": "It allows immediate practice of skills",
+      "b": "It provides real-world experience",
+      "c": "It can disrupt workflow and productivity",
+      "d": "It increases knowledge retention"
+    },
+    "answer": "c",
+    "explanation": "On-the-job training can disrupt workflow since training occurs during actual job tasks."
+  },
+  {
+    "question": "Which type of learning involves observing others and modeling their behavior?",
+    "choices": {
+      "a": "Experiential learning",
+      "b": "Social learning",
+      "c": "Constructivist learning",
+      "d": "Self-directed learning"
+    },
+    "answer": "b",
+    "explanation": "Social learning theory emphasizes learning through observation, imitation, and modeling of others’ behaviors."
+  },
+  {
+    "question": "Which training delivery method is most effective for high-risk jobs such as pilots or surgeons?",
+    "choices": {
+      "a": "Lecture-based training",
+      "b": "Simulation training",
+      "c": "Self-paced e-learning",
+      "d": "Mentorship programs"
+    },
+    "answer": "b",
+    "explanation": "Simulation training provides a safe environment to practice high-risk tasks, making it ideal for jobs like pilots and surgeons."
+  },
+  {
+    "question": "What is the primary purpose of cross-training employees?",
+    "choices": {
+      "a": "To reduce the need for employee development",
+      "b": "To ensure flexibility and coverage across roles",
+      "c": "To lower training costs",
+      "d": "To specialize employees in one function"
+    },
+    "answer": "b",
+    "explanation": "Cross-training prepares employees to perform multiple roles, increasing flexibility and operational resilience."
+  },
+  {
+    "question": "Which type of evaluation determines whether training outcomes align with organizational goals?",
+    "choices": {
+      "a": "Summative evaluation",
+      "b": "Reaction evaluation",
+      "c": "Results evaluation",
+      "d": "Formative evaluation"
+    },
+    "answer": "c",
+    "explanation": "Results evaluation measures the organizational impact of training, ensuring outcomes align with strategic goals."
+  },
+  {
+    "question": "Which of the following best describes experiential learning?",
+    "choices": {
+      "a": "Learning by listening to lectures",
+      "b": "Learning by doing and reflecting on experiences",
+      "c": "Learning solely through reading textbooks",
+      "d": "Learning only from observation"
+    },
+    "answer": "b",
+    "explanation": "Experiential learning emphasizes hands-on experiences and reflection to reinforce knowledge and skills."
+  },
+  {
+    "question": "In the context of training, what does the term 'transfer of learning' mean?",
+    "choices": {
+      "a": "The ability to pass exams after training",
+      "b": "The application of training content to the job",
+      "c": "The cost of moving training materials between locations",
+      "d": "The process of switching trainers during a program"
+    },
+    "answer": "b",
+    "explanation": "Transfer of learning refers to applying skills and knowledge gained in training back to the workplace."
+  },
+  {
+    "question": "What is the main advantage of blended learning programs?",
+    "choices": {
+      "a": "They eliminate the need for instructors",
+      "b": "They combine online and face-to-face methods for flexibility and effectiveness",
+      "c": "They are cheaper than all other methods",
+      "d": "They replace performance evaluations"
+    },
+    "answer": "b",
+    "explanation": "Blended learning combines online and in-person approaches, maximizing flexibility and learner engagement."
+  },
+  {
+    "question": "Which of the following is a disadvantage of on-the-job training (OJT)?",
+    "choices": {
+      "a": "It allows immediate practice of skills",
+      "b": "It provides real-world experience",
+      "c": "It can disrupt workflow and productivity",
+      "d": "It increases knowledge retention"
+    },
+    "answer": "c",
+    "explanation": "On-the-job training can disrupt workflow since training occurs during actual job tasks."
+  },
+  {
+    "question": "Which type of learning involves observing others and modeling their behavior?",
+    "choices": {
+      "a": "Experiential learning",
+      "b": "Social learning",
+      "c": "Constructivist learning",
+      "d": "Self-directed learning"
+    },
+    "answer": "b",
+    "explanation": "Social learning theory emphasizes learning through observation, imitation, and modeling of others’ behaviors."
+  },
+  {
+    "question": "Which training delivery method is most effective for high-risk jobs such as pilots or surgeons?",
+    "choices": {
+      "a": "Lecture-based training",
+      "b": "Simulation training",
+      "c": "Self-paced e-learning",
+      "d": "Mentorship programs"
+    },
+    "answer": "b",
+    "explanation": "Simulation training provides a safe environment to practice high-risk tasks, making it ideal for jobs like pilots and surgeons."
+  },
+  {
+    "question": "What is the primary purpose of cross-training employees?",
+    "choices": {
+      "a": "To reduce the need for employee development",
+      "b": "To ensure flexibility and coverage across roles",
+      "c": "To lower training costs",
+      "d": "To specialize employees in one function"
+    },
+    "answer": "b",
+    "explanation": "Cross-training prepares employees to perform multiple roles, increasing flexibility and operational resilience."
+  },
+  {
+    "question": "Which type of evaluation determines whether training outcomes align with organizational goals?",
+    "choices": {
+      "a": "Summative evaluation",
+      "b": "Reaction evaluation",
+      "c": "Results evaluation",
+      "d": "Formative evaluation"
+    },
+    "answer": "c",
+    "explanation": "Results evaluation measures the organizational impact of training, ensuring outcomes align with strategic goals."
+  },
+  {
+    "question": "Which of the following best describes experiential learning?",
+    "choices": {
+      "a": "Learning by listening to lectures",
+      "b": "Learning by doing and reflecting on experiences",
+      "c": "Learning solely through reading textbooks",
+      "d": "Learning only from observation"
+    },
+    "answer": "b",
+    "explanation": "Experiential learning emphasizes hands-on experiences and reflection to reinforce knowledge and skills."
+  },
+  {
+    "question": "In the context of training, what does the term 'transfer of learning' mean?",
+    "choices": {
+      "a": "The ability to pass exams after training",
+      "b": "The application of training content to the job",
+      "c": "The cost of moving training materials between locations",
+      "d": "The process of switching trainers during a program"
+    },
+    "answer": "b",
+    "explanation": "Transfer of learning refers to applying skills and knowledge gained in training back to the workplace."
+  },
+  {
+    "question": "What is the main advantage of blended learning programs?",
+    "choices": {
+      "a": "They eliminate the need for instructors",
+      "b": "They combine online and face-to-face methods for flexibility and effectiveness",
+      "c": "They are cheaper than all other methods",
+      "d": "They replace performance evaluations"
+    },
+    "answer": "b",
+    "explanation": "Blended learning combines online and in-person approaches, maximizing flexibility and learner engagement."
+  },
+  {
+    "question": "Which of the following is a disadvantage of on-the-job training (OJT)?",
+    "choices": {
+      "a": "It allows immediate practice of skills",
+      "b": "It provides real-world experience",
+      "c": "It can disrupt workflow and productivity",
+      "d": "It increases knowledge retention"
+    },
+    "answer": "c",
+    "explanation": "On-the-job training can disrupt workflow since training occurs during actual job tasks."
+  },
+  {
+    "question": "Which type of learning involves observing others and modeling their behavior?",
+    "choices": {
+      "a": "Experiential learning",
+      "b": "Social learning",
+      "c": "Constructivist learning",
+      "d": "Self-directed learning"
+    },
+    "answer": "b",
+    "explanation": "Social learning theory emphasizes learning through observation, imitation, and modeling of others’ behaviors."
+  },
+  {
+    "question": "Which training delivery method is most effective for high-risk jobs such as pilots or surgeons?",
+    "choices": {
+      "a": "Lecture-based training",
+      "b": "Simulation training",
+      "c": "Self-paced e-learning",
+      "d": "Mentorship programs"
+    },
+    "answer": "b",
+    "explanation": "Simulation training provides a safe environment to practice high-risk tasks, making it ideal for jobs like pilots and surgeons."
+  },
+  {
+    "question": "What is the primary purpose of cross-training employees?",
+    "choices": {
+      "a": "To reduce the need for employee development",
+      "b": "To ensure flexibility and coverage across roles",
+      "c": "To lower training costs",
+      "d": "To specialize employees in one function"
+    },
+    "answer": "b",
+    "explanation": "Cross-training prepares employees to perform multiple roles, increasing flexibility and operational resilience."
+  },
+  {
+    "question": "Which type of evaluation determines whether training outcomes align with organizational goals?",
+    "choices": {
+      "a": "Summative evaluation",
+      "b": "Reaction evaluation",
+      "c": "Results evaluation",
+      "d": "Formative evaluation"
+    },
+    "answer": "c",
+    "explanation": "Results evaluation measures the organizational impact of training, ensuring outcomes align with strategic goals."
+  },
+  {
+    "question": "Which of the following best describes experiential learning?",
+    "choices": {
+      "a": "Learning by listening to lectures",
+      "b": "Learning by doing and reflecting on experiences",
+      "c": "Learning solely through reading textbooks",
+      "d": "Learning only from observation"
+    },
+    "answer": "b",
+    "explanation": "Experiential learning emphasizes hands-on experiences and reflection to reinforce knowledge and skills."
+  },
+  {
+    "question": "In the context of training, what does the term 'transfer of learning' mean?",
+    "choices": {
+      "a": "The ability to pass exams after training",
+      "b": "The application of training content to the job",
+      "c": "The cost of moving training materials between locations",
+      "d": "The process of switching trainers during a program"
+    },
+    "answer": "b",
+    "explanation": "Transfer of learning refers to applying skills and knowledge gained in training back to the workplace."
+  },
+  {
+    "question": "What is the main advantage of blended learning programs?",
+    "choices": {
+      "a": "They eliminate the need for instructors",
+      "b": "They combine online and face-to-face methods for flexibility and effectiveness",
+      "c": "They are cheaper than all other methods",
+      "d": "They replace performance evaluations"
+    },
+    "answer": "b",
+    "explanation": "Blended learning combines online and in-person approaches, maximizing flexibility and learner engagement."
+  },
+  {
+    "question": "Which of the following is a disadvantage of on-the-job training (OJT)?",
+    "choices": {
+      "a": "It allows immediate practice of skills",
+      "b": "It provides real-world experience",
+      "c": "It can disrupt workflow and productivity",
+      "d": "It increases knowledge retention"
+    },
+    "answer": "c",
+    "explanation": "On-the-job training can disrupt workflow since training occurs during actual job tasks."
+  },
+  {
+    "question": "Which type of learning involves observing others and modeling their behavior?",
+    "choices": {
+      "a": "Experiential learning",
+      "b": "Social learning",
+      "c": "Constructivist learning",
+      "d": "Self-directed learning"
+    },
+    "answer": "b",
+    "explanation": "Social learning theory emphasizes learning through observation, imitation, and modeling of others’ behaviors."
+  },
+  {
+    "question": "Which training delivery method is most effective for high-risk jobs such as pilots or surgeons?",
+    "choices": {
+      "a": "Lecture-based training",
+      "b": "Simulation training",
+      "c": "Self-paced e-learning",
+      "d": "Mentorship programs"
+    },
+    "answer": "b",
+    "explanation": "Simulation training provides a safe environment to practice high-risk tasks, making it ideal for jobs like pilots and surgeons."
+  },
+  {
+    "question": "What is the primary purpose of cross-training employees?",
+    "choices": {
+      "a": "To reduce the need for employee development",
+      "b": "To ensure flexibility and coverage across roles",
+      "c": "To lower training costs",
+      "d": "To specialize employees in one function"
+    },
+    "answer": "b",
+    "explanation": "Cross-training prepares employees to perform multiple roles, increasing flexibility and operational resilience."
+  },
+  {
+    "question": "Which type of evaluation determines whether training outcomes align with organizational goals?",
+    "choices": {
+      "a": "Summative evaluation",
+      "b": "Reaction evaluation",
+      "c": "Results evaluation",
+      "d": "Formative evaluation"
+    },
+    "answer": "c",
+    "explanation": "Results evaluation measures the organizational impact of training, ensuring outcomes align with strategic goals."
+  },
+  {
+    "question": "Which of the following best describes experiential learning?",
+    "choices": {
+      "a": "Learning by listening to lectures",
+      "b": "Learning by doing and reflecting on experiences",
+      "c": "Learning solely through reading textbooks",
+      "d": "Learning only from observation"
+    },
+    "answer": "b",
+    "explanation": "Experiential learning emphasizes hands-on experiences and reflection to reinforce knowledge and skills."
+  },
+  {
+    "question": "In the context of training, what does the term 'transfer of learning' mean?",
+    "choices": {
+      "a": "The ability to pass exams after training",
+      "b": "The application of training content to the job",
+      "c": "The cost of moving training materials between locations",
+      "d": "The process of switching trainers during a program"
+    },
+    "answer": "b",
+    "explanation": "Transfer of learning refers to applying skills and knowledge gained in training back to the workplace."
+  },
+  {
+    "question": "What is the main advantage of blended learning programs?",
+    "choices": {
+      "a": "They eliminate the need for instructors",
+      "b": "They combine online and face-to-face methods for flexibility and effectiveness",
+      "c": "They are cheaper than all other methods",
+      "d": "They replace performance evaluations"
+    },
+    "answer": "b",
+    "explanation": "Blended learning combines online and in-person approaches, maximizing flexibility and learner engagement."
+  },
+  {
+    "question": "Which of the following is a disadvantage of on-the-job training (OJT)?",
+    "choices": {
+      "a": "It allows immediate practice of skills",
+      "b": "It provides real-world experience",
+      "c": "It can disrupt workflow and productivity",
+      "d": "It increases knowledge retention"
+    },
+    "answer": "c",
+    "explanation": "On-the-job training can disrupt workflow since training occurs during actual job tasks."
+  },
+  {
+    "question": "Which type of learning involves observing others and modeling their behavior?",
+    "choices": {
+      "a": "Experiential learning",
+      "b": "Social learning",
+      "c": "Constructivist learning",
+      "d": "Self-directed learning"
+    },
+    "answer": "b",
+    "explanation": "Social learning theory emphasizes learning through observation, imitation, and modeling of others’ behaviors."
+  },
+  {
+    "question": "Which training delivery method is most effective for high-risk jobs such as pilots or surgeons?",
+    "choices": {
+      "a": "Lecture-based training",
+      "b": "Simulation training",
+      "c": "Self-paced e-learning",
+      "d": "Mentorship programs"
+    },
+    "answer": "b",
+    "explanation": "Simulation training provides a safe environment to practice high-risk tasks, making it ideal for jobs like pilots and surgeons."
   }
 ]
