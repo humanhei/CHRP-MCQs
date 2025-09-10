@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which of the following should an organization do if it wants to strengthen the training transfer climate of its management development program?",
+    "choices": {
+      "a": "Increase trainee workload immediately after training",
+      "b": "Provide post-training coaching on the job",
+      "c": "Eliminate follow-up sessions to reduce costs",
+      "d": "Rely solely on e-learning modules"
+    },
+    "answer": "b",
+    "explanation": "Providing post-training coaching on the job reinforces learning and helps ensure that skills are transferred effectively to the workplace."
+  },
+  {
+    "question": "What type of evaluation should an organization use to assess whether its management development program increased its managers' performance?",
+    "choices": {
+      "a": "Reaction surveys",
+      "b": "Formative evaluations",
+      "c": "Experimental design evaluations",
+      "d": "Self-reflection journals"
+    },
+    "answer": "c",
+    "explanation": "Experimental design evaluations allow organizations to rigorously assess program impact on performance by comparing trained and untrained groups."
+  },
+  {
+    "question": "Which of the following statements reflects a participant's opinion about the utility of a training program?",
+    "choices": {
+      "a": "The training lasted three hours",
+      "b": "The training covered organizational policy",
+      "c": "I found the training useful",
+      "d": "The training was held in the main office"
+    },
+    "answer": "c",
+    "explanation": "The statement 'I found the training useful' indicates a subjective opinion about the program's utility, not factual details."
+  },
+  {
+    "question": "Which of the following is an adult learning approach to training?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Rote learning",
+      "c": "Behavioural conditioning",
+      "d": "Andragogy"
+    },
+    "answer": "d",
+    "explanation": "Andragogy is the theory of adult learning, emphasizing self-direction, experience-based learning, and problem-centered approaches."
+  },
+  {
+    "question": "What type of HR strategies are promotions, job rotations, and special assignments?",
+    "choices": {
+      "a": "Recruitment",
+      "b": "Compensation planning",
+      "c": "Labour relations",
+      "d": "Management development"
+    },
+    "answer": "d",
+    "explanation": "Promotions, job rotations, and special assignments are tools used in management development to prepare employees for leadership roles."
+  },
+  {
+    "question": "What type of evaluation provides data on the clarity, complexity, and relevance of a training program?",
+    "choices": {
+      "a": "Formative",
+      "b": "Summative",
+      "c": "Behavioural",
+      "d": "ROI evaluation"
+    },
+    "answer": "a",
+    "explanation": "Formative evaluation provides ongoing feedback about clarity, complexity, and relevance to improve training while it is being developed."
+  },
+  {
+    "question": "Assigning a group of emerging managers a supply chain problem to solve is an example of what type of development activity?",
+    "choices": {
+      "a": "Case study",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Mentorship"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves solving real organizational problems in teams, which helps managers develop critical thinking and leadership skills."
+  },
+  {
+    "question": "Which of the following statements about error management training is true?",
+    "choices": {
+      "a": "Participants are penalized for making mistakes during training",
+      "b": "Errors must always be avoided to maintain program integrity",
+      "c": "Participants are encouraged to make errors during training",
+      "d": "Only trainers are allowed to make errors for demonstration purposes"
+    },
+    "answer": "c",
+    "explanation": "Error management training emphasizes learning from mistakes, which helps participants build resilience and problem-solving skills."
+  },
+  {
+    "question": "Which of the following should an organization do if it wants to strengthen the training transfer climate of its management development program?",
+    "choices": {
+      "a": "Increase trainee workload immediately after training",
+      "b": "Provide post-training coaching on the job",
+      "c": "Eliminate follow-up sessions to reduce costs",
+      "d": "Rely solely on e-learning modules"
+    },
+    "answer": "b",
+    "explanation": "Providing post-training coaching on the job reinforces learning and helps ensure that skills are transferred effectively to the workplace."
+  },
+  {
+    "question": "What type of evaluation should an organization use to assess whether its management development program increased its managers' performance?",
+    "choices": {
+      "a": "Reaction surveys",
+      "b": "Formative evaluations",
+      "c": "Experimental design evaluations",
+      "d": "Self-reflection journals"
+    },
+    "answer": "c",
+    "explanation": "Experimental design evaluations allow organizations to rigorously assess program impact on performance by comparing trained and untrained groups."
+  },
+  {
+    "question": "Which of the following statements reflects a participant's opinion about the utility of a training program?",
+    "choices": {
+      "a": "The training lasted three hours",
+      "b": "The training covered organizational policy",
+      "c": "I found the training useful",
+      "d": "The training was held in the main office"
+    },
+    "answer": "c",
+    "explanation": "The statement 'I found the training useful' indicates a subjective opinion about the program's utility, not factual details."
+  },
+  {
+    "question": "Which of the following is an adult learning approach to training?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Rote learning",
+      "c": "Behavioural conditioning",
+      "d": "Andragogy"
+    },
+    "answer": "d",
+    "explanation": "Andragogy is the theory of adult learning, emphasizing self-direction, experience-based learning, and problem-centered approaches."
+  },
+  {
+    "question": "What type of HR strategies are promotions, job rotations, and special assignments?",
+    "choices": {
+      "a": "Recruitment",
+      "b": "Compensation planning",
+      "c": "Labour relations",
+      "d": "Management development"
+    },
+    "answer": "d",
+    "explanation": "Promotions, job rotations, and special assignments are tools used in management development to prepare employees for leadership roles."
+  },
+  {
+    "question": "What type of evaluation provides data on the clarity, complexity, and relevance of a training program?",
+    "choices": {
+      "a": "Formative",
+      "b": "Summative",
+      "c": "Behavioural",
+      "d": "ROI evaluation"
+    },
+    "answer": "a",
+    "explanation": "Formative evaluation provides ongoing feedback about clarity, complexity, and relevance to improve training while it is being developed."
+  },
+  {
+    "question": "Assigning a group of emerging managers a supply chain problem to solve is an example of what type of development activity?",
+    "choices": {
+      "a": "Case study",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Mentorship"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves solving real organizational problems in teams, which helps managers develop critical thinking and leadership skills."
+  },
+  {
+    "question": "Which of the following statements about error management training is true?",
+    "choices": {
+      "a": "Participants are penalized for making mistakes during training",
+      "b": "Errors must always be avoided to maintain program integrity",
+      "c": "Participants are encouraged to make errors during training",
+      "d": "Only trainers are allowed to make errors for demonstration purposes"
+    },
+    "answer": "c",
+    "explanation": "Error management training emphasizes learning from mistakes, which helps participants build resilience and problem-solving skills."
+  },
+  {
+    "question": "Which of the following should an organization do if it wants to strengthen the training transfer climate of its management development program?",
+    "choices": {
+      "a": "Increase trainee workload immediately after training",
+      "b": "Provide post-training coaching on the job",
+      "c": "Eliminate follow-up sessions to reduce costs",
+      "d": "Rely solely on e-learning modules"
+    },
+    "answer": "b",
+    "explanation": "Providing post-training coaching on the job reinforces learning and helps ensure that skills are transferred effectively to the workplace."
+  },
+  {
+    "question": "What type of evaluation should an organization use to assess whether its management development program increased its managers' performance?",
+    "choices": {
+      "a": "Reaction surveys",
+      "b": "Formative evaluations",
+      "c": "Experimental design evaluations",
+      "d": "Self-reflection journals"
+    },
+    "answer": "c",
+    "explanation": "Experimental design evaluations allow organizations to rigorously assess program impact on performance by comparing trained and untrained groups."
+  },
+  {
+    "question": "Which of the following statements reflects a participant's opinion about the utility of a training program?",
+    "choices": {
+      "a": "The training lasted three hours",
+      "b": "The training covered organizational policy",
+      "c": "I found the training useful",
+      "d": "The training was held in the main office"
+    },
+    "answer": "c",
+    "explanation": "The statement 'I found the training useful' indicates a subjective opinion about the program's utility, not factual details."
+  },
+  {
+    "question": "Which of the following is an adult learning approach to training?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Rote learning",
+      "c": "Behavioural conditioning",
+      "d": "Andragogy"
+    },
+    "answer": "d",
+    "explanation": "Andragogy is the theory of adult learning, emphasizing self-direction, experience-based learning, and problem-centered approaches."
+  },
+  {
+    "question": "What type of HR strategies are promotions, job rotations, and special assignments?",
+    "choices": {
+      "a": "Recruitment",
+      "b": "Compensation planning",
+      "c": "Labour relations",
+      "d": "Management development"
+    },
+    "answer": "d",
+    "explanation": "Promotions, job rotations, and special assignments are tools used in management development to prepare employees for leadership roles."
+  },
+  {
+    "question": "What type of evaluation provides data on the clarity, complexity, and relevance of a training program?",
+    "choices": {
+      "a": "Formative",
+      "b": "Summative",
+      "c": "Behavioural",
+      "d": "ROI evaluation"
+    },
+    "answer": "a",
+    "explanation": "Formative evaluation provides ongoing feedback about clarity, complexity, and relevance to improve training while it is being developed."
+  },
+  {
+    "question": "Assigning a group of emerging managers a supply chain problem to solve is an example of what type of development activity?",
+    "choices": {
+      "a": "Case study",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Mentorship"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves solving real organizational problems in teams, which helps managers develop critical thinking and leadership skills."
+  },
+  {
+    "question": "Which of the following statements about error management training is true?",
+    "choices": {
+      "a": "Participants are penalized for making mistakes during training",
+      "b": "Errors must always be avoided to maintain program integrity",
+      "c": "Participants are encouraged to make errors during training",
+      "d": "Only trainers are allowed to make errors for demonstration purposes"
+    },
+    "answer": "c",
+    "explanation": "Error management training emphasizes learning from mistakes, which helps participants build resilience and problem-solving skills."
+  },
+  {
+    "question": "Which of the following should an organization do if it wants to strengthen the training transfer climate of its management development program?",
+    "choices": {
+      "a": "Increase trainee workload immediately after training",
+      "b": "Provide post-training coaching on the job",
+      "c": "Eliminate follow-up sessions to reduce costs",
+      "d": "Rely solely on e-learning modules"
+    },
+    "answer": "b",
+    "explanation": "Providing post-training coaching on the job reinforces learning and helps ensure that skills are transferred effectively to the workplace."
+  },
+  {
+    "question": "What type of evaluation should an organization use to assess whether its management development program increased its managers' performance?",
+    "choices": {
+      "a": "Reaction surveys",
+      "b": "Formative evaluations",
+      "c": "Experimental design evaluations",
+      "d": "Self-reflection journals"
+    },
+    "answer": "c",
+    "explanation": "Experimental design evaluations allow organizations to rigorously assess program impact on performance by comparing trained and untrained groups."
+  },
+  {
+    "question": "Which of the following statements reflects a participant's opinion about the utility of a training program?",
+    "choices": {
+      "a": "The training lasted three hours",
+      "b": "The training covered organizational policy",
+      "c": "I found the training useful",
+      "d": "The training was held in the main office"
+    },
+    "answer": "c",
+    "explanation": "The statement 'I found the training useful' indicates a subjective opinion about the program's utility, not factual details."
+  },
+  {
+    "question": "Which of the following is an adult learning approach to training?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Rote learning",
+      "c": "Behavioural conditioning",
+      "d": "Andragogy"
+    },
+    "answer": "d",
+    "explanation": "Andragogy is the theory of adult learning, emphasizing self-direction, experience-based learning, and problem-centered approaches."
+  },
+  {
+    "question": "What type of HR strategies are promotions, job rotations, and special assignments?",
+    "choices": {
+      "a": "Recruitment",
+      "b": "Compensation planning",
+      "c": "Labour relations",
+      "d": "Management development"
+    },
+    "answer": "d",
+    "explanation": "Promotions, job rotations, and special assignments are tools used in management development to prepare employees for leadership roles."
+  },
+  {
+    "question": "What type of evaluation provides data on the clarity, complexity, and relevance of a training program?",
+    "choices": {
+      "a": "Formative",
+      "b": "Summative",
+      "c": "Behavioural",
+      "d": "ROI evaluation"
+    },
+    "answer": "a",
+    "explanation": "Formative evaluation provides ongoing feedback about clarity, complexity, and relevance to improve training while it is being developed."
+  },
+  {
+    "question": "Assigning a group of emerging managers a supply chain problem to solve is an example of what type of development activity?",
+    "choices": {
+      "a": "Case study",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Mentorship"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves solving real organizational problems in teams, which helps managers develop critical thinking and leadership skills."
+  },
+  {
+    "question": "Which of the following statements about error management training is true?",
+    "choices": {
+      "a": "Participants are penalized for making mistakes during training",
+      "b": "Errors must always be avoided to maintain program integrity",
+      "c": "Participants are encouraged to make errors during training",
+      "d": "Only trainers are allowed to make errors for demonstration purposes"
+    },
+    "answer": "c",
+    "explanation": "Error management training emphasizes learning from mistakes, which helps participants build resilience and problem-solving skills."
+  },
+  {
+    "question": "Which of the following should an organization do if it wants to strengthen the training transfer climate of its management development program?",
+    "choices": {
+      "a": "Increase trainee workload immediately after training",
+      "b": "Provide post-training coaching on the job",
+      "c": "Eliminate follow-up sessions to reduce costs",
+      "d": "Rely solely on e-learning modules"
+    },
+    "answer": "b",
+    "explanation": "Providing post-training coaching on the job reinforces learning and helps ensure that skills are transferred effectively to the workplace."
+  },
+  {
+    "question": "What type of evaluation should an organization use to assess whether its management development program increased its managers' performance?",
+    "choices": {
+      "a": "Reaction surveys",
+      "b": "Formative evaluations",
+      "c": "Experimental design evaluations",
+      "d": "Self-reflection journals"
+    },
+    "answer": "c",
+    "explanation": "Experimental design evaluations allow organizations to rigorously assess program impact on performance by comparing trained and untrained groups."
+  },
+  {
+    "question": "Which of the following statements reflects a participant's opinion about the utility of a training program?",
+    "choices": {
+      "a": "The training lasted three hours",
+      "b": "The training covered organizational policy",
+      "c": "I found the training useful",
+      "d": "The training was held in the main office"
+    },
+    "answer": "c",
+    "explanation": "The statement 'I found the training useful' indicates a subjective opinion about the program's utility, not factual details."
+  },
+  {
+    "question": "Which of the following is an adult learning approach to training?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Rote learning",
+      "c": "Behavioural conditioning",
+      "d": "Andragogy"
+    },
+    "answer": "d",
+    "explanation": "Andragogy is the theory of adult learning, emphasizing self-direction, experience-based learning, and problem-centered approaches."
+  },
+  {
+    "question": "What type of HR strategies are promotions, job rotations, and special assignments?",
+    "choices": {
+      "a": "Recruitment",
+      "b": "Compensation planning",
+      "c": "Labour relations",
+      "d": "Management development"
+    },
+    "answer": "d",
+    "explanation": "Promotions, job rotations, and special assignments are tools used in management development to prepare employees for leadership roles."
+  },
+  {
+    "question": "What type of evaluation provides data on the clarity, complexity, and relevance of a training program?",
+    "choices": {
+      "a": "Formative",
+      "b": "Summative",
+      "c": "Behavioural",
+      "d": "ROI evaluation"
+    },
+    "answer": "a",
+    "explanation": "Formative evaluation provides ongoing feedback about clarity, complexity, and relevance to improve training while it is being developed."
+  },
+  {
+    "question": "Assigning a group of emerging managers a supply chain problem to solve is an example of what type of development activity?",
+    "choices": {
+      "a": "Case study",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Mentorship"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves solving real organizational problems in teams, which helps managers develop critical thinking and leadership skills."
+  },
+  {
+    "question": "Which of the following statements about error management training is true?",
+    "choices": {
+      "a": "Participants are penalized for making mistakes during training",
+      "b": "Errors must always be avoided to maintain program integrity",
+      "c": "Participants are encouraged to make errors during training",
+      "d": "Only trainers are allowed to make errors for demonstration purposes"
+    },
+    "answer": "c",
+    "explanation": "Error management training emphasizes learning from mistakes, which helps participants build resilience and problem-solving skills."
+  },
+  {
+    "question": "Which of the following should an organization do if it wants to strengthen the training transfer climate of its management development program?",
+    "choices": {
+      "a": "Increase trainee workload immediately after training",
+      "b": "Provide post-training coaching on the job",
+      "c": "Eliminate follow-up sessions to reduce costs",
+      "d": "Rely solely on e-learning modules"
+    },
+    "answer": "b",
+    "explanation": "Providing post-training coaching on the job reinforces learning and helps ensure that skills are transferred effectively to the workplace."
+  },
+  {
+    "question": "What type of evaluation should an organization use to assess whether its management development program increased its managers' performance?",
+    "choices": {
+      "a": "Reaction surveys",
+      "b": "Formative evaluations",
+      "c": "Experimental design evaluations",
+      "d": "Self-reflection journals"
+    },
+    "answer": "c",
+    "explanation": "Experimental design evaluations allow organizations to rigorously assess program impact on performance by comparing trained and untrained groups."
+  },
+  {
+    "question": "Which of the following statements reflects a participant's opinion about the utility of a training program?",
+    "choices": {
+      "a": "The training lasted three hours",
+      "b": "The training covered organizational policy",
+      "c": "I found the training useful",
+      "d": "The training was held in the main office"
+    },
+    "answer": "c",
+    "explanation": "The statement 'I found the training useful' indicates a subjective opinion about the program's utility, not factual details."
+  },
+  {
+    "question": "Which of the following is an adult learning approach to training?",
+    "choices": {
+      "a": "Pedagogy",
+      "b": "Rote learning",
+      "c": "Behavioural conditioning",
+      "d": "Andragogy"
+    },
+    "answer": "d",
+    "explanation": "Andragogy is the theory of adult learning, emphasizing self-direction, experience-based learning, and problem-centered approaches."
+  },
+  {
+    "question": "What type of HR strategies are promotions, job rotations, and special assignments?",
+    "choices": {
+      "a": "Recruitment",
+      "b": "Compensation planning",
+      "c": "Labour relations",
+      "d": "Management development"
+    },
+    "answer": "d",
+    "explanation": "Promotions, job rotations, and special assignments are tools used in management development to prepare employees for leadership roles."
+  },
+  {
+    "question": "What type of evaluation provides data on the clarity, complexity, and relevance of a training program?",
+    "choices": {
+      "a": "Formative",
+      "b": "Summative",
+      "c": "Behavioural",
+      "d": "ROI evaluation"
+    },
+    "answer": "a",
+    "explanation": "Formative evaluation provides ongoing feedback about clarity, complexity, and relevance to improve training while it is being developed."
+  },
+  {
+    "question": "Assigning a group of emerging managers a supply chain problem to solve is an example of what type of development activity?",
+    "choices": {
+      "a": "Case study",
+      "b": "Action learning",
+      "c": "Lecture-based training",
+      "d": "Mentorship"
+    },
+    "answer": "b",
+    "explanation": "Action learning involves solving real organizational problems in teams, which helps managers develop critical thinking and leadership skills."
+  },
+  {
+    "question": "Which of the following statements about error management training is true?",
+    "choices": {
+      "a": "Participants are penalized for making mistakes during training",
+      "b": "Errors must always be avoided to maintain program integrity",
+      "c": "Participants are encouraged to make errors during training",
+      "d": "Only trainers are allowed to make errors for demonstration purposes"
+    },
+    "answer": "c",
+    "explanation": "Error management training emphasizes learning from mistakes, which helps participants build resilience and problem-solving skills."
+  },
+  {
+    "question": "Which of the following should an organization do if it wants to strengthen the training transfer climate of its management development program?",
+    "choices": {
+      "a": "Increase trainee workload immediately after training",
+      "b": "Provide post-training coaching on the job",
+      "c": "Eliminate follow-up sessions to reduce costs",
+      "d": "Rely solely on e-learning modules"
+    },
+    "answer": "b",
+    "explanation": "Providing post-training coaching on the job reinforces learning and helps ensure that skills are transferred effectively to the workplace."
+  },
+  {
+    "question": "What type of evaluation should an organization use to assess whether its management development program increased its managers' performance?",
+    "choices": {
+      "a": "Reaction surveys",
+      "b": "Formative evaluations",
+      "c": "Experimental design evaluations",
+      "d": "Self-reflection journals"
+    },
+    "answer": "c",
+    "explanation": "Experimental design evaluations allow organizations to rigorously assess program impact on performance by comparing trained and untrained groups."
+  }
+]
