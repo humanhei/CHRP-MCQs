@@ -1,0 +1,1168 @@
+[
+  {
+    "question": "When a manager routinely belittles employees who make mistakes, what type of workplace injustice is occurring?",
+    "choices": {
+      "a": "Procedural",
+      "b": "Distributive",
+      "c": "Interactional",
+      "d": "Systemic"
+    },
+    "answer": "c",
+    "explanation": "Interactional justice refers to the perceived fairness of interpersonal treatment. Belittling employees is a clear example of unfair and disrespectful interpersonal treatment."
+  },
+  {
+    "question": "What process identifies all the direct and indirect expenditures of a program?",
+    "choices": {
+      "a": "Costing",
+      "b": "Auditing",
+      "c": "Budgeting",
+      "d": "Forecasting"
+    },
+    "answer": "a",
+    "explanation": "Costing is the specific process of determining the total cost of a program or activity by identifying all associated direct and indirect expenditures."
+  },
+  {
+    "question": "When is the four-fifths rule applied?",
+    "choices": {
+      "a": "When calculating employee turnover ratios.",
+      "b": "When measuring adverse impact in employment selection rates.",
+      "c": "During pay equity analysis.",
+      "d": "In the final step of a grievance procedure."
+    },
+    "answer": "b",
+    "explanation": "The four-fifths (or 80%) rule is a guideline used to determine if a selection procedure has an adverse impact on a protected group. It compares the selection rates of different groups."
+  },
+  {
+    "question": "Which of the following is a metric of HR program effectiveness?",
+    "choices": {
+      "a": "The number of employees in the HR department.",
+      "b": "The speed of payroll processing.",
+      "c": "The physical size of the HR office.",
+      "d": "Employee engagement survey results."
+    },
+    "answer": "d",
+    "explanation": "Employee engagement is a key outcome that reflects the effectiveness of various HR programs, such as onboarding, training, and recognition, on the workforce's commitment and satisfaction."
+  },
+  {
+    "question": "Which of the following is a key effect that an HR Information System (HRIS) has on an organization?",
+    "choices": {
+      "a": "It increases the amount of administrative paperwork for managers.",
+      "b": "It streamlines processes and refocuses HR efforts on organizational strategy.",
+      "c": "It eliminates the need for an HR department.",
+      "d": "It is primarily used for tracking employee attendance."
+    },
+    "answer": "b",
+    "explanation": "An HRIS automates many routine administrative tasks, which frees up HR professionals' time to focus on more strategic initiatives that align with organizational goals."
+  },
+  {
+    "question": "Among the following types of validity, which will be the determining factor for choosing a selection test for recruitment purposes?",
+    "choices": {
+      "a": "Content validity",
+      "b": "Construct validity",
+      "c": "Criterion-related validity",
+      "d": "Face validity"
+    },
+    "answer": "c",
+    "explanation": "Criterion-related validity demonstrates a statistical relationship between test scores and job performance, making it the most critical factor for predicting a candidate's future success on the job."
+  },
+  {
+    "question": "An organization's annual turnover was 5% last year. Its target for this year was 4% but actual turnover was 7%. What is the organization's performance compared with its target?",
+    "choices": {
+      "a": "0.75",
+      "b": "-3",
+      "c": "1.75",
+      "d": "-1.75"
+    },
+    "answer": "d",
+    "explanation": "The formula is (Target - Actual) / Target, but expressed as a ratio. Here, (4% - 7%) / 4% = -0.75. Multiplying the percentage variance by the original target doesn't yield a standard metric. The question likely refers to the percentage point difference (7%-4%=3%) divided by the target (3/4=0.75) and then inverting it because it is underperformance, leading to a non-standard calculation. However, if calculated as (Actual-Target)/Target = (7-4)/4 = 0.75, showing a 75% miss. If expressed as a multiplier of the target miss, 7/4 = 1.75, which is -0.75 performance against target. The intended answer seems to be a non-standard calculation of (7/4) representing how much worse the actual was than the target."
+  },
+  {
+    "question": "Which of the following describes assets?",
+    "choices": {
+      "a": "Things of value owned by an organization.",
+      "b": "Debts owed by an organization.",
+      "c": "The total revenue of an organization.",
+      "d": "The equity held by shareholders."
+    },
+    "answer": "a",
+    "explanation": "Assets are economic resources, such as cash, inventory, and equipment, that are owned by a company and have future economic value."
+  },
+  {
+    "question": "Which of the following is important for determining the composition of a bargaining unit?",
+    "choices": {
+      "a": "The employer's preference.",
+      "b": "Community of interests.",
+      "c": "The geographic location of employees.",
+      "d": "The average age of employees."
+    },
+    "answer": "b",
+    "explanation": "A 'community of interests' is the primary criterion used by labour relations boards. It means grouping employees who share similar skills, working conditions, and interests to ensure effective collective bargaining."
+  },
+  {
+    "question": "What is the term for parties no longer being able to negotiate settlements without third-party assistance because of the frequent use of arbitration?",
+    "choices": {
+      "a": "Chilling effect",
+      "b": "Narcotic effect",
+      "c": "Dependency effect",
+      "d": "Hawthorne effect"
+    },
+    "answer": "c",
+    "explanation": "The dependency or narcotic effect describes a situation where parties become so reliant on arbitration to resolve disputes that they lose the ability or incentive to negotiate settlements on their own."
+  },
+  {
+    "question": "If employees are picketing, what dispute resolution process is the employer likely undertaking?",
+    "choices": {
+      "a": "Conciliation",
+      "b": "Mediation",
+      "c": "Grievance procedure",
+      "d": "Interest arbitration"
+    },
+    "answer": "d",
+    "explanation": "Picketing occurs during a legal strike or lockout, which happens when parties fail to reach a collective agreement. Interest arbitration is a process used to resolve such an impasse by having a third party determine the terms of the new contract."
+  },
+  {
+    "question": "What are the 3 basic occupational health and safety rights of all employees?",
+    "choices": {
+      "a": "The right to training, the right to promotion, and the right to fair pay.",
+      "b": "The right to know, the right to participate, and the right to refuse unsafe work.",
+      "c": "The right to unionize, the right to strike, and the right to picket.",
+      "d": "The right to privacy, the right to due process, and the right to free speech."
+    },
+    "answer": "b",
+    "explanation": "These three fundamental rights are the cornerstone of Canadian occupational health and safety legislation, empowering workers to be active participants in ensuring a safe workplace."
+  },
+  {
+    "question": "An organization is charged with a safety offence and defends itself on the grounds that it took all reasonable steps to avoid the particular event. What is this defence known as?",
+    "choices": {
+      "a": "Reasonable accommodation",
+      "b": "Corporate liability",
+      "c": "Due diligence",
+      "d": "Negligence"
+    },
+    "answer": "c",
+    "explanation": "The due diligence defence requires an employer to prove that they took every reasonable precaution in the circumstances to protect the health and safety of their workers."
+  },
+  {
+    "question": "Which of the following is an engineering intervention in a health and safety program?",
+    "choices": {
+      "a": "Modifying work processes and equipment.",
+      "b": "Providing personal protective equipment.",
+      "c": "Conducting safety training sessions.",
+      "d": "Implementing a wellness program."
+    },
+    "answer": "a",
+    "explanation": "Engineering interventions are part of the hierarchy of controls and focus on physically changing the work environment or equipment to eliminate or reduce hazards at the source."
+  },
+  {
+    "question": "What type of controls are employee training, employee rotation, environmental sampling, and medical surveillance to protect workers from hazards?",
+    "choices": {
+      "a": "Engineering controls",
+      "b": "Personal protective equipment",
+      "c": "Procedural controls",
+      "d": "Administrative controls"
+    },
+    "answer": "d",
+    "explanation": "Administrative controls are changes to work procedures and policies, such as scheduling, training, and job rotation, designed to reduce the duration, frequency, and severity of exposure to hazards."
+  },
+  {
+    "question": "The statement 'every incident is a result of a series of events' demonstrates which analysis model?",
+    "choices": {
+      "a": "Domino theory",
+      "b": "Swiss cheese model",
+      "c": "Fishbone diagram",
+      "d": "Root cause analysis"
+    },
+    "answer": "a",
+    "explanation": "The domino theory, developed by H.W. Heinrich, posits that accidents result from a chain reaction of sequential events, and removing any one of the 'dominos' (like an unsafe act or condition) can prevent the accident."
+  },
+  {
+    "question": "Which of the following is true after an employee refuses unsafe work?",
+    "choices": {
+      "a": "The employee is immediately sent home without pay.",
+      "b": "A supervisor and a worker representative must conduct a joint investigation.",
+      "c": "The employer can discipline the employee for insubordination.",
+      "d": "Work in the entire facility must cease until the issue is resolved."
+    },
+    "answer": "b",
+    "explanation": "Occupational health and safety legislation requires a specific procedure following a work refusal, which begins with an internal investigation by the supervisor and a worker representative to resolve the safety concern."
+  },
+  {
+    "question": "A test yields the same results over repeated applications. What quality measure has the test achieved?",
+    "choices": {
+      "a": "Reliability",
+      "b": "Validity",
+      "c": "Accuracy",
+      "d": "Objectivity"
+    },
+    "answer": "a",
+    "explanation": "Reliability refers to the consistency of a measurement. A reliable test will produce stable and consistent results over time."
+  },
+  {
+    "question": "Which of the following measures an organization's demand for labour?",
+    "choices": {
+      "a": "Unemployment rates",
+      "b": "Employee satisfaction surveys",
+      "c": "Management forecasts",
+      "d": "Exit interview data"
+    },
+    "answer": "c",
+    "explanation": "Management forecasts, which consider factors like business strategy, sales projections, and technological changes, are a primary tool for estimating an organization's future need for employees (labour demand)."
+  },
+  {
+    "question": "Which of the following is a direct cost of a training program?",
+    "choices": {
+      "a": "Lost productivity while employees are in training.",
+      "b": "The salary of the training department manager.",
+      "c": "Administrative overhead.",
+      "d": "Refreshments provided during the training."
+    },
+    "answer": "d",
+    "explanation": "Direct costs are expenses that are directly attributable to a specific project or program, such as materials, instructor fees, and refreshments for that specific training session."
+  },
+  {
+    "question": "What term describes the percentage of job candidates who make it to the next stage in the selection process?",
+    "choices": {
+      "a": "Selection ratio",
+      "b": "Yield ratio",
+      "c": "Success ratio",
+      "d": "Turnover rate"
+    },
+    "answer": "b",
+    "explanation": "A yield ratio compares the number of candidates at one stage of the recruiting process to the number who moved on to the next stage, helping to measure the efficiency of recruitment sources and methods."
+  },
+  {
+    "question": "Which of the following describes a 'real' wage increase?",
+    "choices": {
+      "a": "Any increase to an employee's base pay.",
+      "b": "An increase negotiated by a union.",
+      "c": "A one-time bonus payment.",
+      "d": "An increase greater than the cost of living."
+    },
+    "answer": "d",
+    "explanation": "A 'real' wage increase refers to a rise in pay that outpaces the rate of inflation, meaning the employee's purchasing power has actually increased."
+  },
+  {
+    "question": "A job applicant applied twice to the same organization. The first time the applicant did very poorly on the selection test, but then scored very high 4 weeks later. What can be concluded about the selection test?",
+    "choices": {
+      "a": "It has low reliability.",
+      "b": "It has high validity.",
+      "c": "It is culturally biased.",
+      "d": "It has low face validity."
+    },
+    "answer": "a",
+    "explanation": "Reliability is the consistency of a measure. A test that produces vastly different results for the same person in a short period lacks test-retest reliability."
+  },
+  {
+    "question": "What is the term for a collection of tables that allows connections between the information in each table?",
+    "choices": {
+      "a": "Spreadsheet",
+      "b": "Flat file",
+      "c": "Data warehouse",
+      "d": "Relational database"
+    },
+    "answer": "d",
+    "explanation": "A relational database stores data in separate tables that are linked (related) by common fields, allowing for complex queries and efficient data management."
+  },
+  {
+    "question": "What is an outcome of effective rights arbitration?",
+    "choices": {
+      "a": "A new collective agreement is signed.",
+      "b": "A strike is averted.",
+      "c": "A union is certified.",
+      "d": "A grievance settlement is reached."
+    },
+    "answer": "d",
+    "explanation": "Rights arbitration is used to resolve disputes over the interpretation or application of an existing collective agreement, resulting in a final and binding settlement of a grievance."
+  },
+  {
+    "question": "When do employees have the right to picket their employer?",
+    "choices": {
+      "a": "During a legal strike.",
+      "b": "Any time they have a grievance.",
+      "c": "During the union certification process.",
+      "d": "When a collective agreement is in force."
+    },
+    "answer": "a",
+    "explanation": "Picketing is a tool used during a legal labour dispute (a strike or lockout) to pressure the employer and inform the public. It is generally not permitted when a collective agreement is active."
+  },
+  {
+    "question": "Which of the following is a legal labour practice?",
+    "choices": {
+      "a": "Locking out employees during collective bargaining.",
+      "b": "Firing an employee for trying to organize a union.",
+      "c": "Refusing to bargain in good faith.",
+      "d": "Threatening employees with plant closure if they unionize."
+    },
+    "answer": "a",
+    "explanation": "A lockout is the employer's equivalent of a strike and is a legal tool that can be used during collective bargaining after certain procedural requirements, such as reaching an impasse, have been met."
+  },
+  {
+    "question": "Which of the following is true of labour boards?",
+    "choices": {
+      "a": "They negotiate collective agreements on behalf of employers.",
+      "b": "They represent employees in grievance arbitrations.",
+      "c": "They hear claims of illegal strikes and lockouts.",
+      "d": "They are federal bodies that oversee all labour relations."
+    },
+    "answer": "c",
+    "explanation": "Labour relations boards are independent, quasi-judicial tribunals that interpret and apply labour laws, including ruling on matters like unfair labour practices, certification applications, and the legality of strikes and lockouts."
+  },
+  {
+    "question": "Which of the following could lead to a constructive dismissal claim by an employee?",
+    "choices": {
+      "a": "A negative performance review.",
+      "b": "A lateral transfer to a different department.",
+      "c": "Demotion",
+      "d": "A small change in job duties."
+    },
+    "answer": "c",
+    "explanation": "Constructive dismissal occurs when an employer makes a fundamental and unilateral change to an employment contract, such as a significant demotion or pay cut, forcing the employee to resign."
+  },
+  {
+    "question": "The super seniority clause in a collective agreement refers to what?",
+    "choices": {
+      "a": "The highest seniority granted to a union representative while in office.",
+      "b": "The seniority granted to employees with the longest service.",
+      "c": "A clause that allows management to bypass seniority in promotions.",
+      "d": "The seniority rights of employees in the event of a merger."
+    },
+    "answer": "a",
+    "explanation": "Super seniority protects union representatives (e.g., stewards) from layoff, regardless of their actual length of service, to ensure continuity of union representation in the workplace."
+  },
+  {
+    "question": "Which of the following is true of the Rand formula?",
+    "choices": {
+      "a": "All employees in the bargaining unit must become union members.",
+      "b": "Only union members are required to pay dues.",
+      "c": "It is a formula for calculating retroactive pay increases.",
+      "d": "Bargaining unit employees who choose not to join the union still pay union dues."
+    },
+    "answer": "d",
+    "explanation": "The Rand formula, a common union security clause, requires all employees in a bargaining unit to pay union dues, whether they are members or not, on the principle that everyone benefits from the collective agreement."
+  },
+  {
+    "question": "Which of the following is true of a union shop security clause?",
+    "choices": {
+      "a": "Employees in the bargaining unit must join the union but only after a probationary period.",
+      "b": "Employees are not required to join the union.",
+      "c": "New employees must be union members before being hired.",
+      "d": "The employer can only hire existing union members."
+    },
+    "answer": "a",
+    "explanation": "A union shop clause requires that all employees in the bargaining unit must become members of the union as a condition of continued employment, typically after a set period of time."
+  },
+  {
+    "question": "During a union certification drive, what does voluntary recognition mean?",
+    "choices": {
+      "a": "Employees voluntarily sign union authorization cards.",
+      "b": "The union voluntarily agrees to the employer's terms.",
+      "c": "The employer voluntarily recognizes the union as its employees' representative.",
+      "d": "The labour relations board voluntarily certifies the union."
+    },
+    "answer": "c",
+    "explanation": "Voluntary recognition is when an employer agrees to recognize and bargain with a union without requiring a formal certification vote, usually after the union demonstrates it has majority support."
+  },
+  {
+    "question": "Which of the following demonstrates an elastic supply of labour?",
+    "choices": {
+      "a": "An increase in pay rates results in many more applications being received.",
+      "b": "A change in pay rates has no effect on the number of applications.",
+      "c": "The supply of labour is fixed regardless of wages.",
+      "d": "The organization has difficulty finding qualified candidates."
+    },
+    "answer": "a",
+    "explanation": "Elasticity in economics refers to how sensitive one variable is to changes in another. An elastic labour supply means a small change in wages causes a large change in the number of people willing and able to work."
+  },
+  {
+    "question": "When negotiating a new collective agreement, management offers the union a much lower pay increase than what it is ultimately willing to give. What kind of bargaining tactic is this?",
+    "choices": {
+      "a": "An integrative tactic.",
+      "b": "A distributive tactic.",
+      "c": "A good faith tactic.",
+      "d": "An attitudinal structuring tactic."
+    },
+    "answer": "b",
+    "explanation": "Distributive bargaining is a competitive, win-lose approach where each party tries to maximize its share of a fixed resource (like money). Making a low initial offer is a classic distributive tactic."
+  },
+  {
+    "question": "What labour relations strategy will counteract the chilling effect?",
+    "choices": {
+      "a": "Final offer arbitration",
+      "b": "Conciliation",
+      "c": "Mediation",
+      "d": "Grievance arbitration"
+    },
+    "answer": "a",
+    "explanation": "The 'chilling effect' is when parties are hesitant to make concessions, fearing it will weaken their position in arbitration. Final offer arbitration counteracts this by requiring the arbitrator to choose one party's final offer without modification, incentivizing both sides to make reasonable proposals."
+  },
+  {
+    "question": "What training and development approach combines in-class lectures with on-the-job application?",
+    "choices": {
+      "a": "Job rotation",
+      "b": "E-learning",
+      "c": "Coaching",
+      "d": "Apprenticeship"
+    },
+    "answer": "d",
+    "explanation": "Apprenticeship is a structured training method that formally combines practical, on-the-job training with theoretical classroom instruction over a specified period."
+  },
+  {
+    "question": "At what stage of a fire are flames first visible?",
+    "choices": {
+      "a": "Incipient stage",
+      "b": "Free-burning stage",
+      "c": "Smoldering stage",
+      "d": "Decay stage"
+    },
+    "answer": "b",
+    "explanation": "During the free-burning (or growth) stage, the fire consumes more fuel, intensifies, and spreads, which is when flames become clearly visible and heat is generated rapidly."
+  },
+  {
+    "question": "The electrical wires in a photocopier catch fire. What class of fire is this?",
+    "choices": {
+      "a": "Class A",
+      "b": "Class B",
+      "c": "Class C",
+      "d": "Class D"
+    },
+    "answer": "c",
+    "explanation": "Class C fires involve energized electrical equipment. It's crucial to use a non-conductive extinguishing agent on them to avoid electric shock."
+  },
+  {
+    "question": "What would a power failure that causes an accident be classified as?",
+    "choices": {
+      "a": "A human factor.",
+      "b": "An environmental factor.",
+      "c": "A situational factor.",
+      "d": "A systemic factor."
+    },
+    "answer": "c",
+    "explanation": "Situational factors are unsafe conditions in the work environment that contribute to accidents. A power failure is a condition related to the equipment and immediate environment, rather than a human error."
+  },
+  {
+    "question": "What accommodation would an employer provide to a worker who has experienced a permanent disability?",
+    "choices": {
+      "a": "Early retirement.",
+      "b": "A severance package.",
+      "c": "A leave of absence.",
+      "d": "Supported work."
+    },
+    "answer": "d",
+    "explanation": "Supported work is an accommodation that might involve modifying job duties, providing assistive devices, or offering flexible work arrangements to enable an employee with a permanent disability to continue working productively."
+  },
+  {
+    "question": "Which of the following should an organization do if it wants to strengthen the training transfer climate of its management development program?",
+    "choices": {
+      "a": "Focus solely on theoretical knowledge during training.",
+      "b": "Provide post-training coaching on the job.",
+      "c": "Use a pass/fail grading system for the training.",
+      "d": "Make the training program voluntary."
+    },
+    "answer": "b",
+    "explanation": "A positive training transfer climate is supported by post-training reinforcement activities, such as coaching and manager support, which help employees apply what they've learned back on the job."
+  },
+  {
+    "question": "Which of the following is an adult learning approach to training?",
+    "choices": {
+      "a": "Andragogy",
+      "b": "Pedagogy",
+      "c": "Epistemology",
+      "d": "Ontology"
+    },
+    "answer": "a",
+    "explanation": "Andragogy is the theory and practice of educating adults. It emphasizes that adults are self-directed, bring life experiences to learning, and are problem-centered in their orientation to learning."
+  },
+  {
+    "question": "What type of evaluation provides data on the clarity, complexity, and relevance of a training program?",
+    "choices": {
+      "a": "Summative",
+      "b": "Reaction",
+      "c": "Results",
+      "d": "Formative"
+    },
+    "answer": "d",
+    "explanation": "Formative evaluation is conducted during the development or improvement of a program. It provides feedback to the designers to help 'form' or shape the program to be more effective, clear, and relevant."
+  },
+  {
+    "question": "Which of the following statements about error management training is true?",
+    "choices": {
+      "a": "Participants are encouraged to make errors during training.",
+      "b": "The goal is to eliminate all errors from the workplace.",
+      "c": "It is only suitable for training on simple tasks.",
+      "d": "It focuses on punishing employees who make mistakes."
+    },
+    "answer": "a",
+    "explanation": "Error management training is based on the idea that making and learning from mistakes in a controlled training environment can lead to deeper understanding, better problem-solving skills, and improved performance."
+  },
+  {
+    "question": "Individuals who believe their success is the result of being in the right place at the right time are demonstrating what type of belief?",
+    "choices": {
+      "a": "Internal locus of control",
+      "b": "External locus of control",
+      "c": "High self-efficacy",
+      "d": "Growth mindset"
+    },
+    "answer": "b",
+    "explanation": "An external locus of control is the belief that outcomes are the result of external forces beyond one's personal control, such as luck, fate, or the actions of others."
+  },
+  {
+    "question": "Which of the following is characteristic of a learning organization?",
+    "choices": {
+      "a": "Learning is confined to formal training sessions.",
+      "b": "Mistakes are viewed as failures and are punished.",
+      "c": "Employees are aware of their mental models and their impact on behaviour.",
+      "d": "Information is tightly controlled by management."
+    },
+    "answer": "c",
+    "explanation": "A key discipline of a learning organization, as described by Peter Senge, is understanding 'mental models'—the deep-seated assumptions and generalizations that influence how we act—and being open to challenging them."
+  },
+  {
+    "question": "In what stage of Lewin's change management model should the urgency for the change be communicated?",
+    "choices": {
+      "a": "Unfreezing stage",
+      "b": "Changing stage",
+      "c": "Refreezing stage",
+      "d": "Planning stage"
+    },
+    "answer": "a",
+    "explanation": "The 'Unfreezing' stage involves preparing the organization for change by breaking down the existing status quo. A key part of this is creating a compelling need or urgency for why the change is necessary."
+  },
+  {
+    "question": "What is the term for a worker's role being expanded to include additional responsibilities over which they have some decision-making power?",
+    "choices": {
+      "a": "Job enlargement",
+      "b": "Job rotation",
+      "c": "Job enrichment",
+      "d": "Job simplification"
+    },
+    "answer": "c",
+    "explanation": "Job enrichment (vertical loading) involves increasing the depth of a job by adding responsibilities that require more autonomy, control, and decision-making power, which can increase motivation."
+  },
+  {
+    "question": "According to the job characteristics theory of motivation, which of the following is an intrinsically motivating job dimension?",
+    "choices": {
+      "a": "Salary",
+      "b": "Working conditions",
+      "c": "Job security",
+      "d": "Job feedback"
+    },
+    "answer": "d",
+    "explanation": "In the Job Characteristics Model, feedback from the job itself is a core dimension that provides employees with direct information about their performance effectiveness, leading to intrinsic motivation."
+  },
+  {
+    "question": "What is the first step in Kotter's 8-step model of change?",
+    "choices": {
+      "a": "Form a powerful guiding coalition.",
+      "b": "Create a vision for change.",
+      "c": "Establish a sense of urgency.",
+      "d": "Communicate the vision."
+    },
+    "answer": "c",
+    "explanation": "According to John Kotter, the first and most critical step in any successful change effort is to establish a strong sense of urgency to motivate people to act and get the change process started."
+  },
+  {
+    "question": "In the past an organization has always promised it would provide long-term career opportunities to hard-working employees. Now, organizational restructuring has resulted in it not being able to keep that promise. What is this an example of?",
+    "choices": {
+      "a": "Violation of the collective agreement.",
+      "b": "Breach of a psychological contract.",
+      "c": "Constructive dismissal.",
+      "d": "A strategic realignment."
+    },
+    "answer": "b",
+    "explanation": "A psychological contract consists of the unwritten expectations and obligations between an employee and an employer. The inability to fulfill a long-standing promise of career opportunities constitutes a breach of this implicit contract."
+  },
+  {
+    "question": "What are the 3 regimes of employment law?",
+    "choices": {
+      "a": "Federal law, provincial law, and municipal law.",
+      "b": "Common law, statutory regulation, and collective bargaining and arbitration law.",
+      "c": "Criminal law, civil law, and administrative law.",
+      "d": "Contract law, tort law, and property law."
+    },
+    "answer": "b",
+    "explanation": "These three regimes govern the employment relationship in Canada: common law (judge-made law for non-union workplaces), statutory regulation (employment standards, OH&S), and collective bargaining law (for unionized workplaces)."
+  },
+  {
+    "question": "When an HR strategic plan directly supports the goals identified in an organization's strategic plan, what type of alignment does it have?",
+    "choices": {
+      "a": "Horizontal fit",
+      "b": "External fit",
+      "c": "Vertical fit",
+      "d": "Cultural fit"
+    },
+    "answer": "c",
+    "explanation": "Vertical fit (or alignment) refers to the alignment of HR strategies and practices with the overall strategic goals and objectives of the organization."
+  },
+  {
+    "question": "A local grocery store strives to provide its customers with better value for their money while providing an upscale differentiation. What competitive strategy is the store engaging in?",
+    "choices": {
+      "a": "Low-cost provider strategy.",
+      "b": "Broad differentiation strategy.",
+      "c": "Focused low-cost strategy.",
+      "d": "Best-cost provider strategy."
+    },
+    "answer": "d",
+    "explanation": "A best-cost provider strategy is a hybrid approach where a company aims to offer more value (e.g., upscale features, better quality) for a lower price than competitors, blending elements of low-cost and differentiation strategies."
+  },
+  {
+    "question": "Which of the following is a compensable factor under the Pay Equity Act?",
+    "choices": {
+      "a": "Gender",
+      "b": "Years of service",
+      "c": "Performance rating",
+      "d": "Responsibility"
+    },
+    "answer": "d",
+    "explanation": "Compensable factors are the criteria used to evaluate the value of a job for pay equity purposes. The four standard factors are skill, effort, responsibility, and working conditions."
+  },
+  {
+    "question": "A non-governmental organization is comparing jobs for the purpose of complying with pay equity legislation. The organization has no equivalent male job classes. What method of comparison should it use?",
+    "choices": {
+      "a": "Job-to-job comparison",
+      "b": "Proportional value",
+      "c": "Proxy comparison",
+      "d": "Market pricing"
+    },
+    "answer": "b",
+    "explanation": "The proportional value method is used when there are no male-dominated job classes within the organization against which to compare female-dominated job classes. It compares the female job class to the relationship between value and pay in the rest of the organization."
+  },
+  {
+    "question": "Which of the following is true of compensation market pricing?",
+    "choices": {
+      "a": "It ensures internal equity within the organization.",
+      "b": "It is a complex and time-consuming job evaluation method.",
+      "c": "Market pricing is not suitable for unique jobs.",
+      "d": "It ignores external market rates."
+    },
+    "answer": "c",
+    "explanation": "Market pricing relies on finding comparable jobs in external salary surveys to set pay rates. This method is difficult or impossible to use for jobs that are highly unique to the organization and have no external equivalent."
+  },
+  {
+    "question": "Why would an organization's overall average compa ratio be below 1 (or 100%)?",
+    "choices": {
+      "a": "The organization's pay ranges are too low.",
+      "b": "Most employees are long-tenured and at the top of their pay range.",
+      "c": "The organization is paying above market rates.",
+      "d": "The organization has many new employees."
+    },
+    "answer": "d",
+    "explanation": "New employees are typically hired at or near the minimum of a pay range. A workforce with a large proportion of new, less-tenured employees will pull the average salary down, resulting in a compa-ratio below 1.0 or 100%."
+  },
+  {
+    "question": "Why should an organization conduct a compa ratio analysis?",
+    "choices": {
+      "a": "To determine the appropriate budget for salary increases.",
+      "b": "To understand the distribution of employees within pay ranges.",
+      "c": "To comply with pay equity legislation.",
+      "d": "To evaluate the effectiveness of its recruitment strategies."
+    },
+    "answer": "b",
+    "explanation": "Compa-ratio analysis shows how employees' actual pay levels compare to the midpoint of their salary range. This helps identify issues like salary compression, green-circled (low-paid) or red-circled (high-paid) employees, and potential equity concerns."
+  },
+  {
+    "question": "Which of the following describes employees who are red-circled?",
+    "choices": {
+      "a": "Employees who have been identified for promotion.",
+      "b": "Employees who are paid above the maximum of their pay range.",
+      "c": "Employees who are on a performance improvement plan.",
+      "d": "Employees who are paid below the minimum of their pay range."
+    },
+    "answer": "b",
+    "explanation": "An employee is 'red-circled' when their salary is above the maximum of the established pay range for their job. This situation is typically managed by freezing their base pay until the range catches up."
+  },
+  {
+    "question": "What type of career plateau can occur when an employee has learned a job completely and is bored with their day-to-day activities?",
+    "choices": {
+      "a": "Structural",
+      "b": "Life",
+      "c": "Organizational",
+      "d": "Content"
+    },
+    "answer": "d",
+    "explanation": "A content plateau happens when an employee masters their job to the point where it is no longer challenging or engaging, leading to boredom and a lack of motivation."
+  },
+  {
+    "question": "Evaluating candidates using a relative rating scale can lead to what type of rater error?",
+    "choices": {
+      "a": "Contrast",
+      "b": "Leniency",
+      "c": "Central tendency",
+      "d": "Halo effect"
+    },
+    "answer": "a",
+    "explanation": "A contrast error occurs when a rater's evaluation of a candidate is influenced by their comparison with the candidate who was evaluated immediately before. A relative scale forces this comparison, making the error more likely."
+  },
+  {
+    "question": "The selection rate for a protected group identified in human rights legislation is lower than the selection rate for the comparison group. What problem is occurring in this situation?",
+    "choices": {
+      "a": "Direct discrimination",
+      "b": "Systemic bias",
+      "c": "Adverse impact",
+      "d": "Lack of accommodation"
+    },
+    "answer": "c",
+    "explanation": "Adverse impact (or adverse effect discrimination) refers to a situation where a seemingly neutral policy or practice has a disproportionately negative effect on members of a protected group."
+  },
+  {
+    "question": "What is one of the characteristics of the 5-factor personality model used to predict successful performance on international assignments?",
+    "choices": {
+      "a": "Intelligence",
+      "b": "Technical skill",
+      "c": "Extraversion",
+      "d": "Creativity"
+    },
+    "answer": "c",
+    "explanation": "The 'Big Five' personality traits are Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. Extraversion (being sociable and assertive) is often linked to success in roles requiring significant interpersonal interaction, such as international assignments."
+  },
+  {
+    "question": "The candidate with the highest score on a selection assessment was hired, but was ultimately unsuccessful on the job. What type of error likely occurred in the selection assessment?",
+    "choices": {
+      "a": "False negative",
+      "b": "False positive",
+      "c": "True positive",
+      "d": "True negative"
+    },
+    "answer": "b",
+    "explanation": "A 'false positive' is a selection error where a candidate is predicted to succeed (positive) based on the assessment, but ultimately fails on the job (false)."
+  },
+  {
+    "question": "What process anticipates future staffing needs and provides for the movement of people into, within, and out of an organization?",
+    "choices": {
+      "a": "Recruitment",
+      "b": "Succession planning",
+      "c": "Performance management",
+      "d": "HR planning"
+    },
+    "answer": "d",
+    "explanation": "Human Resources (HR) planning is the strategic process of forecasting an organization's future human capital needs (demand) and determining how the current workforce (supply) can meet those needs."
+  },
+  {
+    "question": "Which of the following is true of the 9-box approach to assessing employees?",
+    "choices": {
+      "a": "It is used to rank employees from best to worst.",
+      "b": "It focuses solely on past performance.",
+      "c": "It is a tool for setting compensation.",
+      "d": "It measures employee performance and potential."
+    },
+    "answer": "d",
+    "explanation": "The 9-box grid is a talent management tool that plots employees on two axes: their current performance and their future potential. This helps identify high-potential employees, future leaders, and those who may need development."
+  },
+  {
+    "question": "In the acronym related to workplace aggression SAV-T, what does the 'T' stand for?",
+    "choices": {
+      "a": "Threat assessment.",
+      "b": "Training.",
+      "c": "Time management.",
+      "d": "Take care of others."
+    },
+    "answer": "d",
+    "explanation": "The SAV-T model for preventing workplace violence stands for Scheduling, Authority, Valuables, and Taking care of others, representing different risk factors to consider."
+  },
+  {
+    "question": "A worker believes her employer has reduced her work hours after she refused to continue with what she believed was unsafe work. If proven true, docking her hours would be a contravention of the Occupational Health and Safety Act. In this situation, who has the burden of proof?",
+    "choices": {
+      "a": "The worker",
+      "b": "The employer",
+      "c": "The union",
+      "d": "The Ministry of Labour"
+    },
+    "answer": "b",
+    "explanation": "In cases of alleged reprisal for exercising a right under OH&S legislation (like the right to refuse unsafe work), the burden of proof is typically reversed. The employer must prove that their action was not a reprisal."
+  },
+  {
+    "question": "Which type of conflict involves a customer, patient, or client?",
+    "choices": {
+      "a": "Type 1",
+      "b": "Type 2",
+      "c": "Type 3",
+      "d": "Type 4"
+    },
+    "answer": "b",
+    "explanation": "The four types of workplace violence classify the perpetrator's relationship to the workplace. Type 2 violence is perpetrated by a customer, client, patient, or anyone else receiving a service from the organization."
+  },
+  {
+    "question": "Which of the following is an indirect cost of a training program?",
+    "choices": {
+      "a": "The trainer's salary.",
+      "b": "The cost of training materials.",
+      "c": "Rental fees for the training facility.",
+      "d": "The cost of marketing the training."
+    },
+    "answer": "d",
+    "explanation": "Indirect costs are not tied to a single, specific training event. Marketing, along with administrative overhead and training department salaries, are examples of costs that support the overall training function rather than one specific session."
+  },
+  {
+    "question": "When using concurrent validity to assess the predictive value of a candidate selection assessment, what type of error can occur?",
+    "choices": {
+      "a": "Range restriction",
+      "b": "Sampling error",
+      "c": "Systematic error",
+      "d": "Measurement bias"
+    },
+    "answer": "a",
+    "explanation": "Concurrent validity involves testing current employees. This can lead to range restriction because the sample consists of only successful hires, not the full range of applicants, which may understate the test's true predictive power."
+  },
+  {
+    "question": "Which 2 statistical metrics should be used to interpret the central tendencies of market data in salary surveys?",
+    "choices": {
+      "a": "Standard deviation and variance.",
+      "b": "Median and mean.",
+      "c": "Range and interquartile range.",
+      "d": "Mode and frequency."
+    },
+    "answer": "b",
+    "explanation": "The mean (average) and median (middle value) are the two primary measures of central tendency. Using both helps to understand the data distribution and the impact of any extreme outliers on the average salary."
+  },
+  {
+    "question": "An organization's sales revenue increased by $100,000 following sales training that cost the organization $10,000 to deliver. What is the return on investment (ROI) of the training?",
+    "choices": {
+      "a": "10",
+      "b": "9",
+      "c": "0.9",
+      "d": "1.1"
+    },
+    "answer": "b",
+    "explanation": "The ROI formula is (Gain from Investment - Cost of Investment) / Cost of Investment. In this case, ($100,000 - $10,000) / $10,000 = $90,000 / $10,000 = 9. This can also be expressed as 900%."
+  },
+  {
+    "question": "An organization's target for the average performance rating of new employees after 8 months was 4 on a 5-point Likert scale. The actual average performance rating was 3. What is the organization's performance achievement against target for this metric?",
+    "choices": {
+      "a": "1.33",
+      "b": "-1",
+      "c": "0.75",
+      "d": "75"
+    },
+    "answer": "c",
+    "explanation": "Performance achievement against a target can be calculated as Actual / Target. In this case, 3 / 4 = 0.75, meaning the organization achieved 75% of its goal."
+  },
+  {
+    "question": "What is the purpose of a balanced scorecard?",
+    "choices": {
+      "a": "To measure contributions to an organization's performance.",
+      "b": "To track daily stock market performance.",
+      "c": "To evaluate the financial health of competitors.",
+      "d": "To manage employee payroll and benefits."
+    },
+    "answer": "a",
+    "explanation": "A balanced scorecard is a strategic performance management tool that measures organizational performance across four key perspectives: Financial, Customer, Internal Business Processes, and Learning & Growth."
+  },
+  {
+    "question": "When drawing conclusions about an employee survey, what does an analysis of variance (ANOVA) measure?",
+    "choices": {
+      "a": "The correlation between two variables.",
+      "b": "Meaningful differences between the means of groups.",
+      "c": "The average response to a question.",
+      "d": "The frequency of a particular response."
+    },
+    "answer": "b",
+    "explanation": "ANOVA is a statistical test used to determine whether there are any statistically significant differences between the means (averages) of two or more independent groups."
+  },
+  {
+    "question": "What is the strongest desired correlation between an organization's employee engagement scores and its turnover?",
+    "choices": {
+      "a": "0.92",
+      "b": "-0.92",
+      "c": "0.05",
+      "d": "-0.15"
+    },
+    "answer": "b",
+    "explanation": "A strong negative correlation (close to -1.0) is desired. This would indicate that as employee engagement scores go up, employee turnover goes down, which is a highly desirable business outcome."
+  },
+  {
+    "question": "What strategy is an employer adopting when it provides non-union employees with all the advantages of unionization?",
+    "choices": {
+      "a": "Union substitution",
+      "b": "Union suppression",
+      "c": "Union acceptance",
+      "d": "Union collaboration"
+    },
+    "answer": "a",
+    "explanation": "Union substitution is a proactive HR strategy where management provides competitive wages, benefits, and fair treatment to make unions seem unnecessary to employees, thereby preventing organizing efforts."
+  },
+  {
+    "question": "During a collective bargaining process, the parties are reluctant to make concessions during negotiations for fear of reducing the arbitrated outcome. What has occurred in this situation?",
+    "choices": {
+      "a": "Narcotic effect",
+      "b": "Halo effect",
+      "c": "Chilling effect",
+      "d": "Bargaining impasse"
+    },
+    "answer": "c",
+    "explanation": "The chilling effect occurs when the possibility of arbitration discourages parties from making compromises during negotiations, as they believe they will get a better outcome by holding firm and letting the arbitrator decide."
+  },
+  {
+    "question": "Striking employees are handing out information pamphlets about their dispute outside a retail store that sells the products they produce. Which of the following describes their action?",
+    "choices": {
+      "a": "Primary picketing",
+      "b": "Secondary picketing",
+      "c": "Wildcat strike",
+      "d": "Work-to-rule"
+    },
+    "answer": "b",
+    "explanation": "Secondary picketing involves picketing a neutral employer (the retail store) that does business with the primary employer in the dispute, with the aim of putting indirect pressure on the primary employer."
+  },
+  {
+    "question": "Which of the following management actions is allowed during a union certification drive?",
+    "choices": {
+      "a": "Threatening to close the plant if the union is certified.",
+      "b": "Promising a wage increase if employees vote against the union.",
+      "c": "Advising employees that they have the right to not join a union.",
+      "d": "Spying on union meetings."
+    },
+    "answer": "c",
+    "explanation": "Employers are allowed to communicate facts and opinions, as long as they do not use intimidation, coercion, or threats. Informing employees of their legal rights is a permissible form of communication."
+  },
+  {
+    "question": "Which party determines the composition of the bargaining unit?",
+    "choices": {
+      "a": "The employer",
+      "b": "The union",
+      "c": "The Labour Relations Board",
+      "d": "The employees through a vote"
+    },
+    "answer": "c",
+    "explanation": "The appropriate bargaining unit—the group of employees that the union is certified to represent—is determined by the Labour Relations Board, based on criteria such as community of interest."
+  },
+  {
+    "question": "What process determines whether a union can become the representative for the employees at a workplace?",
+    "choices": {
+      "a": "Collective bargaining",
+      "b": "Arbitration",
+      "c": "Ratification",
+      "d": "Certification"
+    },
+    "answer": "d",
+    "explanation": "Certification is the formal, legal process by which a Labour Relations Board grants a union the exclusive right to act as the bargaining agent for a specific group of employees."
+  },
+  {
+    "question": "An employee is trained on a new software program and her productivity temporarily decreases until she becomes more proficient at using the new program. What is this situation called?",
+    "choices": {
+      "a": "Learning curve",
+      "b": "Negative transfer",
+      "c": "Zero transfer",
+      "d": "Positive transfer"
+    },
+    "answer": "b",
+    "explanation": "Negative transfer of training occurs when learning in one situation hinders performance in another. The initial dip in productivity as the employee unlearns old habits and adapts to the new system is an example of this."
+  },
+  {
+    "question": "Which of the following sequences demonstrates conditioning theory?",
+    "choices": {
+      "a": "Need-motive-behaviour",
+      "b": "Goal-intention-action",
+      "c": "Stimulus-behaviour-consequence",
+      "d": "Input-process-output"
+    },
+    "answer": "c",
+    "explanation": "Conditioning theory (or reinforcement theory) states that behaviour is a function of its consequences. A stimulus triggers a behaviour, and the consequence (positive or negative) that follows influences whether the behaviour will be repeated."
+  },
+  {
+    "question": "What type of evaluation should be conducted to assess whether the skills learned during a training session were being successfully transferred to the job?",
+    "choices": {
+      "a": "Reaction evaluation",
+      "b": "Learning evaluation",
+      "c": "Behaviour evaluation",
+      "d": "Results evaluation"
+    },
+    "answer": "c",
+    "explanation": "According to the Kirkpatrick model of training evaluation, a behaviour evaluation (Level 3) assesses the extent to which participants have changed their on-the-job behaviour as a result of the training."
+  },
+  {
+    "question": "What is another name for programmed instruction?",
+    "choices": {
+      "a": "Instructor-led training",
+      "b": "On-the-job training",
+      "c": "Action learning",
+      "d": "Self-paced learning"
+    },
+    "answer": "d",
+    "explanation": "Programmed instruction is a method of self-paced learning that presents material in small, sequential steps and provides immediate feedback, allowing learners to progress at their own speed."
+  },
+  {
+    "question": "Which motivation theory identifies job satisfiers and dis-satisfiers?",
+    "choices": {
+      "a": "Two-factor theory",
+      "b": "Maslow's hierarchy of needs",
+      "c": "Expectancy theory",
+      "d": "Goal-setting theory"
+    },
+    "answer": "a",
+    "explanation": "Herzberg's Two-Factor Theory proposes that certain factors in the workplace cause job satisfaction (motivators, like achievement and recognition), while a separate set of factors cause dissatisfaction (hygiene factors, like salary and company policies)."
+  },
+  {
+    "question": "In expectancy motivation theory, what does the term 'instrumentality' refer to?",
+    "choices": {
+      "a": "The value an individual places on a particular reward.",
+      "b": "The belief that effort will lead to successful performance.",
+      "c": "The perceived likelihood that performance achievement will lead to a reward.",
+      "d": "The intrinsic satisfaction derived from performing the task."
+    },
+    "answer": "c",
+    "explanation": "Instrumentality is the second link in Vroom's Expectancy Theory. It is an individual's belief that if they meet performance expectations, they will receive a specific outcome or reward."
+  },
+  {
+    "question": "Bounded rationality leads to what decision-making behaviour?",
+    "choices": {
+      "a": "Optimizing",
+      "b": "Satisficing",
+      "c": "Maximizing",
+      "d": "Rationalizing"
+    },
+    "answer": "b",
+    "explanation": "The concept of bounded rationality suggests that decision-makers are limited by information and cognitive capacity. As a result, they tend to 'satisfice'—choosing the first option that is satisfactory or 'good enough,' rather than searching for the optimal solution."
+  },
+  {
+    "question": "An HR manager advises the other department managers of the protocols they need to follow regarding HR policies and practices. What kind of authority is the HR manager exercising?",
+    "choices": {
+      "a": "Line authority",
+      "b": "Staff authority",
+      "c": "Functional authority",
+      "d": "Implied authority"
+    },
+    "answer": "b",
+    "explanation": "Staff authority is the authority to advise and assist others. HR managers exercise staff authority when they provide guidance and support to line managers on HR-related matters."
+  },
+  {
+    "question": "In Ontario, what legislation outlines the process a union must follow to obtain the right to represent employees?",
+    "choices": {
+      "a": "Employment Standards Act, 2000",
+      "b": "Labour Relations Act, 1995",
+      "c": "Occupational Health and Safety Act",
+      "d": "Human Rights Code"
+    },
+    "answer": "b",
+    "explanation": "The Labour Relations Act is the primary piece of legislation governing the relationship between provincially regulated employers, trade unions, and employees in Ontario, including the certification process."
+  },
+  {
+    "question": "An organization has male and female employees doing essentially the same work. The male employees are classified as administrators and the female employees are classified as clerks and receive a lower wage rate. Which of the following has the organization breached?",
+    "choices": {
+      "a": "Employment standards legislation",
+      "b": "The collective agreement",
+      "c": "Pay equity legislation",
+      "d": "Occupational health and safety legislation"
+    },
+    "answer": "c",
+    "explanation": "Pay equity legislation requires equal pay for work of equal value. Classifying similar jobs with different titles and pay rates based on the gender of the incumbents is a direct violation of this principle."
+  },
+  {
+    "question": "Which of the following statements is true of employment equity legislation?",
+    "choices": {
+      "a": "It requires employers to hire unqualified candidates from designated groups.",
+      "b": "It applies to all employers in Canada, regardless of size.",
+      "c": "It is designed to create reverse discrimination.",
+      "d": "The legislation addresses employment and promotion opportunities, not pay."
+    },
+    "answer": "d",
+    "explanation": "Employment equity focuses on removing systemic barriers to employment opportunities for four designated groups. Pay equity, which is governed by separate legislation, deals specifically with equal pay for work of equal value."
+  },
+  {
+    "question": "What type of pension plan allows both employers and employees to make contributions?",
+    "choices": {
+      "a": "Non-contributory",
+      "b": "Defined benefit",
+      "c": "Defined contribution",
+      "d": "Contributory"
+    },
+    "answer": "d",
+    "explanation": "A contributory pension plan is one in which both the employee and the employer make monetary contributions to fund the future pension benefit."
+  },
+  {
+    "question": "What kind of benefit plan provides a standard set of benefits to all employees?",
+    "choices": {
+      "a": "Flexible",
+      "b": "Cafeteria",
+      "c": "Fixed",
+      "d": "Voluntary"
+    },
+    "answer": "c",
+    "explanation": "A fixed (or traditional) benefit plan offers a single, standardized package of benefits to all employees, with no opportunity for choice or customization."
+  },
+  {
+    "question": "Which of the following actions would be best to help an employee get past a content plateau?",
+    "choices": {
+      "a": "Promote the employee to a management position.",
+      "b": "Increase the employee's salary.",
+      "c": "Offer the employee a sabbatical.",
+      "d": "Assign the employee more of the same tasks."
+    },
+    "answer": "c",
+    "explanation": "To overcome a content plateau (boredom with the work itself), the solution is to provide new challenges and learning opportunities. A sabbatical, special project, or job rotation could reinvigorate the employee, whereas more of the same work would worsen the problem."
+  },
+  {
+    "question": "How can an organization solve the problem of the internal demand for labour exceeding the internal supply?",
+    "choices": {
+      "a": "Implement a hiring freeze.",
+      "b": "Offer early retirement packages.",
+      "c": "Hire temporary workers.",
+      "d": "Reduce work hours."
+    },
+    "answer": "c",
+    "explanation": "When an organization has a labour shortage (demand > supply), it must bring in more people. Hiring temporary workers, recruiting new permanent staff, or outsourcing are common strategies to address this."
+  },
+  {
+    "question": "How do you calculate the compa-ratio?",
+    "choices": {
+      "a": "Divide the pay range midpoint by the mean base pay of all employees in a job.",
+      "b": "Multiply the number of employees by the pay range midpoint.",
+      "c": "Take the mean base pay of all employees holding a particular job and divide this amount by the midpoint of the pay range for that job.",
+      "d": "Subtract the pay range minimum from the maximum and divide by two."
+    },
+    "answer": "c",
+    "explanation": "The formula for a compa-ratio is (Average Actual Salary / Pay Range Midpoint). It is a key metric for analyzing how actual pay practices align with the organization's pay structure."
+  },
+  {
+    "question": "What are the three levels of intervention of hazard control?",
+    "choices": {
+      "a": "Engineering, administrative, and personal",
+      "b": "Primary, secondary, and tertiary",
+      "c": "Identification, assessment, and control",
+      "d": "Pre-contact, contact, and post-contact"
+    },
+    "answer": "d",
+    "explanation": "This model classifies interventions based on when they occur relative to an incident. Pre-contact controls prevent contact with the hazard, contact controls minimize harm during an incident, and post-contact controls address the aftermath."
+  },
+  {
+    "question": "What's a PEST analysis?",
+    "choices": {
+      "a": "An internal analysis of an organization's People, Environment, Systems, and Technology",
+      "b": "An external macro perspective on the Political, Economic, Social, and Technological variables that shape an organization's environment",
+      "c": "A project management tool for Planning, Executing, Supervising, and Testing",
+      "d": "A performance evaluation method assessing an employee's Professionalism, Efficiency, Skills, and Teamwork"
+    },
+    "answer": "b",
+    "explanation": "PEST (or PESTLE, including Legal and Environmental factors) analysis is a strategic framework used to scan and understand the broad external factors that can impact an organization."
+  },
+  {
+    "question": "The two-factor theory (also known as Herzberg's motivation-hygiene theory and dual-factor theory) distinguishes between what 2 factors?",
+    "choices": {
+      "a": "Intrinsic and extrinsic rewards.",
+      "b": "Motivators and hygiene factors (KITA factors).",
+      "c": "Physiological and safety needs.",
+      "d": "Effort and performance."
+    },
+    "answer": "b",
+    "explanation": "Herzberg's theory separates factors that cause satisfaction (motivators, like achievement) from factors that prevent dissatisfaction (hygiene factors, like salary and working conditions)."
+  },
+  {
+    "question": "What does SAV-T stand for?",
+    "choices": {
+      "a": "Safety, Awareness, Vigilance, Training",
+      "b": "Stop, Assess, Verify, Tell",
+      "c": "Scheduling, Authority, Valuables, Taking Care of Others",
+      "d": "System, Action, Verification, Tactic"
+    },
+    "answer": "c",
+    "explanation": "SAV-T is an acronym for assessing risk factors in workplace aggression, focusing on Scheduling (e.g., working alone at night), Authority, Valuables, and Taking Care of Others (e.g., in healthcare)."
+  },
+  {
+    "question": "What are the three parts of the ISD training model?",
+    "choices": {
+      "a": "planning, implementation, review",
+      "b": "assessment, development, deployment",
+      "c": "needs analysis, training design and delivery, training evaluation",
+      "d": "analyze, design, develop, implement, evaluate"
+    },
+    "answer": "c",
+    "explanation": "The Instructional Systems Design (ISD) model is a systematic process for creating effective training. Its three core phases are analyzing the needs, designing and delivering the training to meet those needs, and evaluating the results."
+  }
+]
