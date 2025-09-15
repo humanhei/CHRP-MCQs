@@ -1,0 +1,662 @@
+[
+  {
+    "question": "When a manager routinely belittles employees who make mistakes, what type of workplace injustice is occurring?",
+    "choices": {
+      "a": "Procedural",
+      "b": "Distributive",
+      "c": "Interactional",
+      "d": "Systemic"
+    },
+    "answer": "c",
+    "explanation": "Interactional justice refers to the fairness of interpersonal treatment. Belittling and disrespecting employees is a direct violation of this principle."
+  },
+  {
+    "question": "What are the 3 basic occupational health and safety rights of all employees?",
+    "choices": {
+      "a": "The right to fair pay, the right to breaks, and the right to vacation.",
+      "b": "The right to know, the right to participate, and the right to refuse unsafe work.",
+      "c": "The right to unionize, the right to strike, and the right to picket.",
+      "d": "The right to privacy, the right to free speech, and the right to due process."
+    },
+    "answer": "b",
+    "explanation": "These three fundamental rights—to know about hazards, participate in safety activities, and refuse dangerous work—are the cornerstone of Canadian occupational health and safety legislation."
+  },
+  {
+    "question": "What are the 4 categories of stress-induced strain reaction?",
+    "choices": {
+      "a": "Acute, chronic, episodic, and systemic.",
+      "b": "Emotional, intellectual, social, and financial.",
+      "c": "Psychological, physical, behavioural, and organizational.",
+      "d": "Cognitive, affective, physiological, and relational."
+    },
+    "answer": "c",
+    "explanation": "Strain is the negative consequence of stress. It manifests in these four ways: psychologically (e.g., anxiety), physically (e.g., headaches), behaviourally (e.g., substance abuse), and organizationally (e.g., absenteeism)."
+  },
+  {
+    "question": "An organization is charged with a safety offence and defends itself on the grounds that it took all reasonable steps to avoid the particular event. What is this defence known as?",
+    "choices": {
+      "a": "Reasonable accommodation",
+      "b": "Corporate negligence",
+      "c": "Due diligence",
+      "d": "Strict liability"
+    },
+    "answer": "c",
+    "explanation": "The due diligence defence requires an employer to prove they took every precaution reasonable in the circumstances to protect the health and safety of their workers, fulfilling their legal duty of care."
+  },
+  {
+    "question": "Which of the following best describes 'general adaptation syndrome'?",
+    "choices": {
+      "a": "The process of learning a new job skill.",
+      "b": "A model for managing workplace change.",
+      "c": "A fight or flight reaction to stress.",
+      "d": "An employee's adjustment to a new organizational culture."
+    },
+    "answer": "c",
+    "explanation": "General adaptation syndrome, developed by Hans Selye, describes the body's three-stage physiological response to stress: alarm (fight or flight), resistance, and exhaustion."
+  },
+  {
+    "question": "Which of the following is an engineering intervention in a health and safety program?",
+    "choices": {
+      "a": "Providing personal protective equipment.",
+      "b": "Modifying work processes and equipment.",
+      "c": "Conducting safety training sessions.",
+      "d": "Implementing a wellness program."
+    },
+    "answer": "b",
+    "explanation": "Engineering interventions are the most preferred method in the hierarchy of controls. They involve physically changing the work environment or equipment to eliminate or reduce hazards at their source."
+  },
+  {
+    "question": "At what stage of a fire are flames first visible?",
+    "choices": {
+      "a": "Incipient stage",
+      "b": "Smoldering stage",
+      "c": "Decay stage",
+      "d": "Free-burning stage"
+    },
+    "answer": "d",
+    "explanation": "During the free-burning (or growth) stage, the fire has established itself and is consuming more fuel, causing it to intensify and spread. This is the stage where flames become clearly visible."
+  },
+  {
+    "question": "The electrical wires in a photocopier catch fire. What class of fire is this?",
+    "choices": {
+      "a": "Class A",
+      "b": "Class B",
+      "c": "Class C",
+      "d": "Class D"
+    },
+    "answer": "c",
+    "explanation": "Class C fires involve energized electrical equipment. Using a non-conductive extinguishing agent is crucial to prevent the risk of electric shock."
+  },
+  {
+    "question": "What would a power failure that causes an accident be classified as?",
+    "choices": {
+      "a": "A human factor.",
+      "b": "A situational factor.",
+      "c": "An environmental factor.",
+      "d": "A systemic factor."
+    },
+    "answer": "b",
+    "explanation": "Situational factors are unsafe conditions within the work environment that are directly linked to an accident. A power failure is a condition related to the immediate work situation and equipment."
+  },
+  {
+    "question": "What accommodation would an employer provide to a worker who has experienced a permanent disability?",
+    "choices": {
+      "a": "Early retirement.",
+      "b": "A severance package.",
+      "c": "A leave of absence.",
+      "d": "Supported work."
+    },
+    "answer": "d",
+    "explanation": "Supported work is an accommodation that may include modifying job duties, providing assistive devices, or offering flexible arrangements to enable an employee with a permanent disability to continue working productively."
+  },
+  {
+    "question": "Which of the following could reduce the risk of repetitive strain injuries (RSIs)?",
+    "choices": {
+      "a": "Ergonomics",
+      "b": "Increased work hours",
+      "c": "Performance-based pay",
+      "d": "Stricter deadlines"
+    },
+    "answer": "a",
+    "explanation": "Ergonomics is the science of designing the job, equipment, and workplace to fit the worker. Applying ergonomic principles helps reduce physical stress and the risk of musculoskeletal injuries like RSIs."
+  },
+  {
+    "question": "What type of controls are employee training, employee rotation, and medical surveillance to protect workers from hazards?",
+    "choices": {
+      "a": "Engineering controls",
+      "b": "Personal protective equipment",
+      "c": "Administrative controls",
+      "d": "Procedural controls"
+    },
+    "answer": "c",
+    "explanation": "Administrative controls are changes to work procedures and policies, such as scheduling, training, and job rotation, designed to reduce the duration, frequency, and severity of exposure to hazards."
+  },
+  {
+    "question": "The statement 'every incident is a result of a series of events' demonstrates which analysis model?",
+    "choices": {
+      "a": "Swiss cheese model",
+      "b": "Fishbone diagram",
+      "c": "Root cause analysis",
+      "d": "Domino theory"
+    },
+    "answer": "d",
+    "explanation": "The domino theory posits that accidents result from a chain reaction of sequential events. The theory suggests that removing any one of the 'dominos' (like an unsafe act or condition) can prevent the accident."
+  },
+  {
+    "question": "What is required after an employee refuses unsafe work?",
+    "choices": {
+      "a": "The employee is immediately sent home without pay.",
+      "b": "A supervisor and a worker representative must conduct a joint investigation.",
+      "c": "The employer can discipline the employee for insubordination.",
+      "d": "Work in the entire facility must cease until the issue is resolved."
+    },
+    "answer": "b",
+    "explanation": "OH&S legislation mandates a specific procedure following a work refusal, which begins with an internal investigation by the supervisor and a worker representative to resolve the safety concern."
+  },
+  {
+    "question": "Which of the following is an after-effect of eustress?",
+    "choices": {
+      "a": "Exhaustion",
+      "b": "Anxiety",
+      "c": "Exhilaration",
+      "d": "Burnout"
+    },
+    "answer": "c",
+    "explanation": "Eustress is positive or 'good' stress that is perceived as challenging but manageable. Successfully meeting the challenge often results in feelings of exhilaration, satisfaction, and achievement."
+  },
+  {
+    "question": "What health condition can segmental vibration cause?",
+    "choices": {
+      "a": "Hearing loss",
+      "b": "Respiratory illness",
+      "c": "Tissue decay",
+      "d": "Vision impairment"
+    },
+    "answer": "c",
+    "explanation": "Segmental vibration, often from hand-held power tools, can lead to Hand-Arm Vibration Syndrome (HAVS), which includes conditions like 'white finger disease' where blood vessels and nerves are damaged, potentially causing tissue decay."
+  },
+  {
+    "question": "Which of the following control methods is best for preventing poor air quality from becoming worse?",
+    "choices": {
+      "a": "Administrative control",
+      "b": "Personal protective equipment",
+      "c": "Point-of-contact control",
+      "d": "Worker rotation"
+    },
+    "answer": "c",
+    "explanation": "Point-of-contact control, also known as source control, involves capturing or eliminating the hazard at its source before it can contaminate the air. An example is a local exhaust ventilation system."
+  },
+  {
+    "question": "Which formula estimates an organization's human capital return on investment (HCROI)?",
+    "choices": {
+      "a": "Total Revenue / Total Number of Employees",
+      "b": "Net Profit / Total Assets",
+      "c": "(Total revenue - [Operating expenses - Total compensation costs]) ÷ Total compensation costs",
+      "d": "Total Compensation Costs / Total Revenue"
+    },
+    "answer": "c",
+    "explanation": "This formula calculates how much value is generated by each dollar invested in employee compensation, after accounting for all other operating expenses."
+  },
+  {
+    "question": "A test yields the same results over repeated applications. What quality measure has the test achieved?",
+    "choices": {
+      "a": "Validity",
+      "b": "Accuracy",
+      "c": "Reliability",
+      "d": "Objectivity"
+    },
+    "answer": "c",
+    "explanation": "Reliability refers to the consistency of a measurement. A reliable test will produce stable and consistent results over time."
+  },
+  {
+    "question": "Which of the following measures an organization's demand for labour?",
+    "choices": {
+      "a": "Unemployment rates",
+      "b": "Employee satisfaction surveys",
+      "c": "Exit interview data",
+      "d": "Management forecasts"
+    },
+    "answer": "d",
+    "explanation": "Management forecasts, which consider factors like business strategy and sales projections, are a primary tool for estimating an organization's future need for employees (labour demand)."
+  },
+  {
+    "question": "During an interview, what type of reliability is measured by asking multiple questions to assess the same skill?",
+    "choices": {
+      "a": "Inter-rater reliability.",
+      "b": "Test-retest reliability.",
+      "c": "Internal consistency reliability.",
+      "d": "Criterion reliability."
+    },
+    "answer": "c",
+    "explanation": "Internal consistency reliability measures whether different questions that propose to measure the same general construct produce similar scores."
+  },
+  {
+    "question": "Which of the following is a direct cost of a training program?",
+    "choices": {
+      "a": "Lost productivity while employees are in training.",
+      "b": "The salary of the training department manager.",
+      "c": "Refreshments provided during the training.",
+      "d": "Administrative overhead."
+    },
+    "answer": "c",
+    "explanation": "Direct costs are expenses directly attributable to a specific program. The cost of refreshments, materials, and the instructor's fee for a particular session are all direct costs."
+  },
+  {
+    "question": "Which of the following will increase the cost of benefits to employers?",
+    "choices": {
+      "a": "Moving to a defined-benefit pension plan.",
+      "b": "Increasing the employee's share of premium costs.",
+      "c": "Implementing a healthcare spending account.",
+      "d": "Switching to a defined-contribution pension plan."
+    },
+    "answer": "a",
+    "explanation": "In a defined-benefit plan, the employer bears the investment risk to ensure a predetermined payout, which is typically more costly and less predictable than a defined-contribution plan where the employer's cost is fixed."
+  },
+  {
+    "question": "What term describes the percentage of job candidates who make it to the next stage in the selection process?",
+    "choices": {
+      "a": "Selection ratio",
+      "b": "Success ratio",
+      "c": "Turnover rate",
+      "d": "Yield ratio"
+    },
+    "answer": "d",
+    "explanation": "A yield ratio compares the number of candidates at one stage of the recruiting process to the number who moved to the next, helping to measure the efficiency of recruitment sources and methods."
+  },
+  {
+    "question": "What process identifies all the direct and indirect expenditures of a program?",
+    "choices": {
+      "a": "Auditing",
+      "b": "Costing",
+      "c": "Budgeting",
+      "d": "Forecasting"
+    },
+    "answer": "b",
+    "explanation": "Costing is the specific process of determining the total cost of a program or activity by identifying all associated direct and indirect expenditures."
+  },
+  {
+    "question": "Which of the following describes a 'real' wage increase?",
+    "choices": {
+      "a": "Any increase to an employee's base pay.",
+      "b": "An increase greater than the cost of living.",
+      "c": "A one-time bonus payment.",
+      "d": "An increase negotiated by a union."
+    },
+    "answer": "b",
+    "explanation": "A 'real' wage increase occurs when a pay raise outpaces the rate of inflation, meaning the employee's purchasing power has genuinely increased."
+  },
+  {
+    "question": "When is the four-fifths rule applied?",
+    "choices": {
+      "a": "When measuring adverse impact in employment selection rates.",
+      "b": "When calculating employee turnover ratios.",
+      "c": "During pay equity analysis.",
+      "d": "In the final step of a grievance procedure."
+    },
+    "answer": "a",
+    "explanation": "The four-fifths (or 80%) rule is a guideline used to determine if a selection procedure has an adverse impact on a protected group by comparing the selection rates of different groups."
+  },
+  {
+    "question": "A job applicant scored very poorly on a selection test, but then scored very high 4 weeks later. What can be concluded about the selection test?",
+    "choices": {
+      "a": "It has high validity.",
+      "b": "It has low reliability.",
+      "c": "It is culturally biased.",
+      "d": "It has low face validity."
+    },
+    "answer": "b",
+    "explanation": "Reliability refers to the consistency of a measure. A test that produces vastly different results for the same person in a short period lacks test-retest reliability."
+  },
+  {
+    "question": "Which of the following is a key metric of HR program effectiveness?",
+    "choices": {
+      "a": "The number of HR staff per employee.",
+      "b": "Total cost of the HR department.",
+      "c": "Employee engagement survey results.",
+      "d": "Time taken to process payroll."
+    },
+    "answer": "c",
+    "explanation": "Employee engagement is a crucial outcome that reflects the overall effectiveness of various HR programs on the workforce's commitment, motivation, and satisfaction."
+  },
+  {
+    "question": "Which of the following is a key effect that an HR Information System (HRIS) has on an organization?",
+    "choices": {
+      "a": "It increases the amount of administrative work for HR professionals.",
+      "b": "It streamlines processes and refocuses HR efforts on organizational strategy.",
+      "c": "It eliminates the need for HR professionals.",
+      "d": "It primarily serves as a digital filing cabinet with no strategic impact."
+    },
+    "answer": "b",
+    "explanation": "By automating routine administrative tasks, an HRIS frees up HR professionals' time, allowing them to focus on more strategic initiatives that align with and support organizational goals."
+  },
+  {
+    "question": "Among the following types of validity, which is the most critical for choosing a selection test for recruitment?",
+    "choices": {
+      "a": "Content validity",
+      "b": "Construct validity",
+      "c": "Face validity",
+      "d": "Criterion-related validity"
+    },
+    "answer": "d",
+    "explanation": "Criterion-related validity demonstrates a statistical relationship between test scores and actual job performance (the criterion), making it the most important factor for predicting a candidate's future success."
+  },
+  {
+    "question": "What is the term for a collection of tables that allows connections between the information in each table?",
+    "choices": {
+      "a": "Spreadsheet",
+      "b": "Relational database",
+      "c": "Flat file",
+      "d": "Data warehouse"
+    },
+    "answer": "b",
+    "explanation": "A relational database stores data in separate tables that are linked (related) by common fields, which allows for efficient data management and complex queries."
+  },
+  {
+    "question": "Which of the following describes assets?",
+    "choices": {
+      "a": "Things of value owned by an organization.",
+      "b": "Debts owed by an organization.",
+      "c": "The total revenue of an organization.",
+      "d": "The equity held by shareholders."
+    },
+    "answer": "a",
+    "explanation": "Assets are economic resources, such as cash, inventory, property, and equipment, that are owned by a company and are expected to provide future economic benefit."
+  },
+  {
+    "question": "What is an outcome of effective rights arbitration?",
+    "choices": {
+      "a": "A new collective agreement is signed.",
+      "b": "A grievance settlement is reached.",
+      "c": "A strike is averted.",
+      "d": "A union is certified."
+    },
+    "answer": "b",
+    "explanation": "Rights arbitration is used to resolve disputes over the interpretation or application of an existing collective agreement. The outcome is a final and binding decision that settles the grievance."
+  },
+  {
+    "question": "Which of the following is important for determining the composition of a bargaining unit?",
+    "choices": {
+      "a": "The employer's preference.",
+      "b": "The geographic location of employees.",
+      "c": "Community of interests.",
+      "d": "The average age of employees."
+    },
+    "answer": "c",
+    "explanation": "A 'community of interests' is the primary criterion used by labour relations boards. It involves grouping employees who share similar skills, working conditions, and interests to ensure effective collective bargaining."
+  },
+  {
+    "question": "What is the term for parties becoming overly reliant on arbitration to settle disputes?",
+    "choices": {
+      "a": "Chilling effect",
+      "b": "Narcotic effect",
+      "c": "Dependency effect",
+      "d": "Hawthorne effect"
+    },
+    "answer": "c",
+    "explanation": "The dependency effect (or narcotic effect) describes a situation where parties lose the ability or incentive to negotiate settlements on their own because they have become too reliant on a third-party arbitrator."
+  },
+  {
+    "question": "When can employees legally picket their employer?",
+    "choices": {
+      "a": "Any time they have a grievance.",
+      "b": "During a legal strike.",
+      "c": "During the union certification process.",
+      "d": "When a collective agreement is in force."
+    },
+    "answer": "b",
+    "explanation": "Picketing is a tool used during a legal labour dispute (a strike or lockout) to pressure the employer and inform the public. It is generally not permitted when a collective agreement is active."
+  },
+  {
+    "question": "Which of the following is a legal labour practice for an employer?",
+    "choices": {
+      "a": "Firing an employee for trying to organize a union.",
+      "b": "Refusing to bargain in good faith.",
+      "c": "Locking out employees during collective bargaining.",
+      "d": "Threatening employees with plant closure if they unionize."
+    },
+    "answer": "c",
+    "explanation": "A lockout is the employer's equivalent of a strike. It is a legal tool that can be used during collective bargaining after certain procedural requirements, such as reaching an impasse, have been met."
+  },
+  {
+    "question": "Which of the following is true of conciliation?",
+    "choices": {
+      "a": "It is a non-binding voluntary process.",
+      "b": "The conciliator can impose a settlement.",
+      "c": "It is the final step in the grievance process.",
+      "d": "It is required before a union can be certified."
+    },
+    "answer": "a",
+    "explanation": "Conciliation is a process where a neutral third party helps the union and employer reach a collective agreement. The conciliator facilitates discussion but cannot impose a settlement on the parties."
+  },
+  {
+    "question": "Which of the following is true of labour boards?",
+    "choices": {
+      "a": "They negotiate collective agreements on behalf of employers.",
+      "b": "They represent employees in grievance arbitrations.",
+      "c": "They are federal bodies that oversee all labour relations.",
+      "d": "They hear claims of illegal strikes and lockouts."
+    },
+    "answer": "d",
+    "explanation": "Labour relations boards are independent, quasi-judicial tribunals that interpret and apply labour laws. They rule on matters like unfair labour practices, certification applications, and the legality of strikes and lockouts."
+  },
+  {
+    "question": "If employees are picketing, what dispute resolution process is likely being used to resolve the new contract terms?",
+    "choices": {
+      "a": "Conciliation",
+      "b": "Mediation",
+      "c": "Grievance procedure",
+      "d": "Interest arbitration"
+    },
+    "answer": "d",
+    "explanation": "Picketing occurs during a strike or lockout over the inability to agree on a new contract. Interest arbitration is a method to resolve such an impasse where a neutral arbitrator decides the terms of the collective agreement."
+  },
+  {
+    "question": "Which of the following could lead to a constructive dismissal claim?",
+    "choices": {
+      "a": "A negative performance review.",
+      "b": "A lateral transfer to a different department.",
+      "c": "Demotion",
+      "d": "A minor change in job duties."
+    },
+    "answer": "c",
+    "explanation": "Constructive dismissal occurs when an employer makes a fundamental, unilateral change to an employment contract, such as a significant demotion or pay cut, effectively forcing the employee to resign."
+  },
+  {
+    "question": "What is the 'super seniority' clause in a collective agreement?",
+    "choices": {
+      "a": "The seniority granted to employees with the longest service.",
+      "b": "A clause that allows management to bypass seniority in promotions.",
+      "c": "The highest seniority granted to a union representative while in office.",
+      "d": "The seniority rights of employees in the event of a merger."
+    },
+    "answer": "c",
+    "explanation": "Super seniority protects union representatives (e.g., stewards) from layoff, regardless of their actual length of service. This ensures continuity of union representation in the workplace."
+  },
+  {
+    "question": "Which of the following is true of the Rand formula?",
+    "choices": {
+      "a": "All employees in the bargaining unit must become union members.",
+      "b": "Bargaining unit employees who choose not to join the union still pay union dues.",
+      "c": "Only union members are required to pay dues.",
+      "d": "It is a formula for calculating retroactive pay increases."
+    },
+    "answer": "b",
+    "explanation": "The Rand formula, a common union security clause, requires all employees in a bargaining unit to pay union dues, whether they are members or not, on the principle that everyone benefits from the collective agreement."
+  },
+  {
+    "question": "Which of the following is true of a union shop security clause?",
+    "choices": {
+      "a": "Employees are not required to join the union.",
+      "b": "New employees must be union members before being hired.",
+      "c": "The employer can only hire existing union members.",
+      "d": "Employees in the bargaining unit must join the union but only after a probationary period."
+    },
+    "answer": "d",
+    "explanation": "A union shop clause requires that all employees in the bargaining unit must become members of the union as a condition of continued employment, typically after a set period of time."
+  },
+  {
+    "question": "During a union certification drive, what is voluntary recognition?",
+    "choices": {
+      "a": "Employees voluntarily sign union authorization cards.",
+      "b": "The employer voluntarily recognizes the union as its employees' representative.",
+      "c": "The union voluntarily agrees to the employer's terms.",
+      "d": "The labour relations board voluntarily certifies the union."
+    },
+    "answer": "b",
+    "explanation": "Voluntary recognition is when an employer agrees to recognize and bargain with a union without requiring a formal certification vote, usually after the union demonstrates it has majority support."
+  },
+  {
+    "question": "What labour relations strategy aims to counteract the chilling effect?",
+    "choices": {
+      "a": "Conciliation",
+      "b": "Final offer arbitration",
+      "c": "Mediation",
+      "d": "Grievance arbitration"
+    },
+    "answer": "b",
+    "explanation": "The 'chilling effect' is when parties hesitate to make concessions, fearing it will weaken their position in arbitration. Final offer arbitration counteracts this by requiring the arbitrator to choose one party's entire final offer, incentivizing both sides to make reasonable proposals."
+  },
+  {
+    "question": "What training approach combines in-class lectures with on-the-job application?",
+    "choices": {
+      "a": "Job rotation",
+      "b": "E-learning",
+      "c": "Coaching",
+      "d": "Apprenticeship"
+    },
+    "answer": "d",
+    "explanation": "Apprenticeship is a structured training method that formally combines practical, on-the-job training with theoretical classroom instruction over a specified period."
+  },
+  {
+    "question": "How can an organization strengthen the training transfer climate of a management development program?",
+    "choices": {
+      "a": "Focus solely on theoretical knowledge during training.",
+      "b": "Provide post-training coaching on the job.",
+      "c": "Use a pass/fail grading system for the training.",
+      "d": "Make the training program voluntary."
+    },
+    "answer": "b",
+    "explanation": "A positive training transfer climate is supported by post-training reinforcement, such as manager support and coaching, which helps employees apply what they've learned back on the job."
+  },
+  {
+    "question": "Which of the following is an adult learning approach to training?",
+    "choices": {
+      "a": "Andragogy",
+      "b": "Pedagogy",
+      "c": "Epistemology",
+      "d": "Ontology"
+    },
+    "answer": "a",
+    "explanation": "Andragogy is the theory of adult learning. It emphasizes that adults are self-directed, bring life experiences to learning, and are problem-centered in their approach."
+  },
+  {
+    "question": "Assigning emerging managers a real supply chain problem to solve is an example of what type of development activity?",
+    "choices": {
+      "a": "Case study",
+      "b": "Role-playing",
+      "c": "Action learning",
+      "d": "Job shadowing"
+    },
+    "answer": "c",
+    "explanation": "Action learning involves tackling real-world business problems in small groups, focusing on both solving the problem and learning from the process."
+  },
+  {
+    "question": "Individuals who believe their success is the result of 'being in the right place at the right time' demonstrate what belief?",
+    "choices": {
+      "a": "Internal locus of control",
+      "b": "High self-efficacy",
+      "c": "External locus of control",
+      "d": "Growth mindset"
+    },
+    "answer": "c",
+    "explanation": "An external locus of control is the belief that outcomes are the result of external forces beyond one's personal control, such as luck, fate, or the actions of others."
+  },
+  {
+    "question": "What is the term for expanding a worker's role to include more responsibilities and decision-making power?",
+    "choices": {
+      "a": "Job enlargement",
+      "b": "Job rotation",
+      "c": "Job enrichment",
+      "d": "Job simplification"
+    },
+    "answer": "c",
+    "explanation": "Job enrichment (vertical loading) increases the depth of a job by adding responsibilities that require more autonomy, control, and decision-making power, which can increase motivation."
+  },
+  {
+    "question": "What concept describes the number of subordinates a manager can successfully supervise?",
+    "choices": {
+      "a": "Chain of command",
+      "b": "Unity of command",
+      "c": "Span of control",
+      "d": "Line of authority"
+    },
+    "answer": "c",
+    "explanation": "Span of control refers to the number of direct reports a manager has. A wide span of control means many reports, while a narrow span means few reports."
+  },
+  {
+    "question": "What is the first step in Kotter's 8-step model of change?",
+    "choices": {
+      "a": "Form a powerful guiding coalition.",
+      "b": "Create a vision for change.",
+      "c": "Establish a sense of urgency.",
+      "d": "Communicate the vision."
+    },
+    "answer": "c",
+    "explanation": "According to John Kotter, the first and most critical step in any successful change effort is to establish a strong sense of urgency to motivate people to get the change process started."
+  },
+  {
+    "question": "What is the study of population statistics called?",
+    "choices": {
+      "a": "Psychographics",
+      "b": "Ergonomics",
+      "c": "Demographics",
+      "d": "Economics"
+    },
+    "answer": "c",
+    "explanation": "Demographics is the statistical study of populations, including characteristics such as age, gender, race, income, and education levels."
+  },
+  {
+    "question": "A manager decides to stop interviewing female candidates of childbearing age after several employees go on maternity leave. What type of discrimination is this?",
+    "choices": {
+      "a": "Systemic discrimination",
+      "b": "Adverse effect discrimination",
+      "c": "Direct discrimination",
+      "d": "Constructive discrimination"
+    },
+    "answer": "c",
+    "explanation": "Direct discrimination is an intentional action or policy that openly treats a person or group unfavourably based on a protected ground, such as sex or family status."
+  },
+  {
+    "question": "What legal framework would apply to a managerial employee filing a wrongful dismissal suit?",
+    "choices": {
+      "a": "Labour Relations Act",
+      "b": "Employment Standards Act",
+      "c": "Common law",
+      "d": "Human Rights Code"
+    },
+    "answer": "c",
+    "explanation": "For non-union employees, particularly managers not covered by minimum standards for notice, the employment relationship is governed by common law (judge-made law), which determines reasonable notice for termination."
+  },
+  {
+    "question": "A pizza chain with its head office in Alberta has labour unrest at an Ontario location. Which legal body could become involved?",
+    "choices": {
+      "a": "Canada Industrial Relations Board",
+      "b": "Alberta Labour Relations Board",
+      "c": "Ontario Labour Relations Board",
+      "d": "Supreme Court of Canada"
+    },
+    "answer": "c",
+    "explanation": "Labour relations are primarily a matter of provincial jurisdiction. Since the location of the dispute is in Ontario, the Ontario Labour Relations Board would have authority."
+  },
+  {
+    "question": "Which project management tool tracks optimistic, probable, and pessimistic timelines?",
+    "choices": {
+      "a": "Gantt chart.",
+      "b": "Critical path method.",
+      "c": "Program evaluation and review technique (PERT).",
+      "d": "Work breakdown structure."
+    },
+    "answer": "c",
+    "explanation": "A PERT chart is specifically designed to handle uncertainty in project timelines by using a weighted average of optimistic, most likely (probable), and pessimistic estimates for each task."
+  }
+]
