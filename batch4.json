@@ -1,0 +1,442 @@
+[
+  {
+    "question": "What is the primary goal of employment equity?",
+    "choices": {
+      "a": "To ensure that all employees are paid the same wage, regardless of their job.",
+      "b": "The employment of individuals in a fair and nonbiased manner, including proactive programs to ensure the workforce is representative of the population.",
+      "c": "To provide additional vacation days for members of designated groups.",
+      "d": "To replace the principle of seniority with a merit-based system."
+    },
+    "answer": "b",
+    "explanation": "Employment equity is not just the absence of discrimination but also includes proactive programs to ensure that an organization’s workforce is representative of the population."
+  },
+  {
+    "question": "Which of the following is considered a 'bona fide occupational qualification' (BFOQ)?",
+    "choices": {
+      "a": "A customer preference for employees of a certain gender.",
+      "b": "A justifiable reason for discrimination based on business reasons of safety or effectiveness.",
+      "c": "A requirement for all employees to be of a certain height.",
+      "d": "A policy that excludes older workers to maintain a youthful company image."
+    },
+    "answer": "b",
+    "explanation": "A BFOQ is a justifiable reason for discrimination based on business reasons of safety or effectiveness, where it is not possible to accommodate the employee without causing undue hardship."
+  },
+  {
+    "question": "What is the main difference between pay equality and pay equity?",
+    "choices": {
+      "a": "Pay equality focuses on fair pay for entire occupations, while pay equity focuses on fair pay for individual women.",
+      "b": "Pay equality requires that women be paid the same as men for doing the same job, while pay equity requires equal pay for work of comparable value.",
+      "c": "Pay equality is voluntary, while pay equity is mandated by law.",
+      "d": "Pay equity applies only to the public sector, while pay equality applies to the private sector."
+    },
+    "answer": "b",
+    "explanation": "Pay equality means employers are required to pay women the same as men doing the same job. Pay equity is about fair pay for entire dissimilar occupations, based on the value of the job to the organization."
+  },
+  {
+    "question": "What does the term 'underutilization' refer to in an employment equity context?",
+    "choices": {
+      "a": "When employees are not working to their full potential.",
+      "b": "When a company has too many employees for the amount of work available.",
+      "c": "When designated groups are not represented in the employer’s workforce proportional to their numbers in the labour market.",
+      "d": "When an employee's skills are not being fully used in their current role."
+    },
+    "answer": "c",
+    "explanation": "Underutilization applies to designated groups that are not utilized or represented in the employer’s workforce proportional to their numbers in the labour market."
+  },
+  {
+    "question": "What is the primary purpose of a job analysis?",
+    "choices": {
+      "a": "To determine an employee's salary.",
+      "b": "To design a new company logo.",
+      "c": "To obtain objective and verifiable information about the actual requirements of a job.",
+      "d": "To create a schedule for employee shifts."
+    },
+    "answer": "c",
+    "explanation": "Job analysis is the process of obtaining information about jobs by determining the duties, tasks, or activities of those jobs. It is concerned with objective and verifiable information about the actual requirements of a job."
+  },
+  {
+    "question": "Which of the following is a key component of the job characteristics model?",
+    "choices": {
+      "a": "Compensation level",
+      "b": "Task significance",
+      "c": "Supervisory style",
+      "d": "Workplace location"
+    },
+    "answer": "b",
+    "explanation": "The job characteristics model includes five core job dimensions: skill variety, task identity, task significance, autonomy, and feedback."
+  },
+  {
+    "question": "What is 'job crafting'?",
+    "choices": {
+      "a": "A formal job redesign process initiated by management.",
+      "b": "A training program for new employees.",
+      "c": "A naturally occurring phenomenon whereby employees mould their tasks to fit their individual strengths, passions, and motives better.",
+      "d": "A method of creating artistic job descriptions."
+    },
+    "answer": "c",
+    "explanation": "Job crafting is a naturally occurring phenomenon whereby employees mould their tasks to better fit their individual strengths, passions, and motives better."
+  },
+  {
+    "question": "What is the main goal of employee empowerment?",
+    "choices": {
+      "a": "To reduce the number of managers in an organization.",
+      "b": "To grant employees power to initiate change, thereby encouraging them to take charge of what they do.",
+      "c": "To provide employees with more vacation time.",
+      "d": "To increase the workload of employees."
+    },
+    "answer": "b",
+    "explanation": "Employee empowerment is a technique of involving employees in their work through the process of inclusion, which encourages them to become innovators and managers of their own work."
+  },
+  {
+    "question": "What is a 'virtual team'?",
+    "choices": {
+      "a": "A team that only exists in a computer simulation.",
+      "b": "A team with widely dispersed members linked together through computer and telecommunications technology.",
+      "c": "A temporary team formed for a specific project.",
+      "d": "A team of employees who work in the same office but rarely interact in person."
+    },
+    "answer": "b",
+    "explanation": "Virtual teams use advanced computer and telecommunications technology to link team members who are geographically dispersed, often worldwide."
+  },
+  {
+    "question": "What is the main benefit of 'flextime' for employees?",
+    "choices": {
+      "a": "It reduces the total number of hours they have to work.",
+      "b": "It allows them to choose their daily starting and quitting times within a core period.",
+      "c": "It guarantees them a promotion within a year.",
+      "d": "It provides them with a company car."
+    },
+    "answer": "b",
+    "explanation": "Flextime permits employees the option of choosing daily starting and quitting times provided that they work a certain number of hours per day or week, with a 'core period' when all employees must be present."
+  },
+  {
+    "question": "What is 'branding' in the context of recruitment?",
+    "choices": {
+      "a": "Creating a logo for a new product.",
+      "b": "A company’s efforts to help existing and prospective workers understand why it is a desirable place to work.",
+      "c": "The process of interviewing candidates.",
+      "d": "A method for determining employee compensation."
+    },
+    "answer": "b",
+    "explanation": "Branding refers to a company’s efforts to help existing and prospective workers understand why it is a desirable place to work."
+  },
+  {
+    "question": "What is a '9-box grid' used for in career management?",
+    "choices": {
+      "a": "To track employee attendance.",
+      "b": "To calculate employee bonuses.",
+      "c": "A comparative diagram that includes appraisal and assessment data to allow managers to easily see an employee’s actual and potential performance.",
+      "d": "A tool for scheduling meetings."
+    },
+    "answer": "c",
+    "explanation": "A 9-box grid is a tool that helps managers assess appraisal and assessment data to see an employee’s actual and potential performance, aiding in developmental planning."
+  },
+  {
+    "question": "What are 'passive job seekers'?",
+    "choices": {
+      "a": "People who are actively looking for a new job.",
+      "b": "People who are not looking for jobs but could be persuaded to take new ones given the right opportunity.",
+      "c": "People who have recently retired.",
+      "d": "People who are unemployed."
+    },
+    "answer": "b",
+    "explanation": "Passive job seekers are people who are not looking for jobs but could be persuaded to take new ones given the right opportunity."
+  },
+  {
+    "question": "What is a 'career plateau'?",
+    "choices": {
+      "a": "The highest point in an employee's career.",
+      "b": "A situation in which, for either organizational or personal reasons, the probability of moving up the career ladder is low.",
+      "c": "A mandatory training program for senior executives.",
+      "d": "A type of bonus given for long service."
+    },
+    "answer": "b",
+    "explanation": "A career plateau is a situation in which, for either organizational or personal reasons, the probability of moving up the career ladder is low."
+  },
+  {
+    "question": "What is the primary role of 'mentors' in career development?",
+    "choices": {
+      "a": "To assign work tasks to employees.",
+      "b": "To evaluate the performance of employees for administrative purposes.",
+      "c": "Individuals who coach, advise, and encourage individuals of lesser rank.",
+      "d": "To enforce company policies and procedures."
+    },
+    "answer": "c",
+    "explanation": "Executives and managers who coach, advise, and encourage employees are called mentors."
+  },
+  {
+    "question": "What is the main objective of the employee selection process?",
+    "choices": {
+      "a": "To hire as many applicants as possible.",
+      "b": "To maximize 'hits' (accurate predictions of job success) and avoid 'misses' (inaccurate predictions).",
+      "c": "To choose the applicant who is willing to accept the lowest salary.",
+      "d": "To fill job openings as quickly as possible, regardless of qualifications."
+    },
+    "answer": "b",
+    "explanation": "The overall goal of selection is to maximize 'hits' and avoid 'misses'. Hits are accurate predictions, and misses are inaccurate ones."
+  },
+  {
+    "question": "In a behavioural description interview (BDI), what are applicants asked about?",
+    "choices": {
+      "a": "Their future career goals and aspirations.",
+      "b": "How they would respond to a hypothetical work situation.",
+      "c": "What they actually did in a given situation in the past.",
+      "d": "Their personal hobbies and interests."
+    },
+    "answer": "c",
+    "explanation": "A behavioural description interview (BDI) focuses on actual work incidents in the interviewee’s past. The BDI format asks the job applicant what he or she did in a given situation."
+  },
+  {
+    "question": "What is the main benefit of a 'panel interview'?",
+    "choices": {
+      "a": "It is less expensive to conduct than a one-on-one interview.",
+      "b": "It is less stressful for the applicant.",
+      "c": "It has higher reliability because it involves multiple inputs from different interviewers.",
+      "d": "It allows the applicant to ask questions to multiple people at once."
+    },
+    "answer": "c",
+    "explanation": "Panel interviews provide several significant advantages, including higher reliability because they involve multiple inputs from three to five interviewers."
+  },
+  {
+    "question": "Which of the following is a type of preemployment test that measures mental capabilities such as general intelligence and reasoning ability?",
+    "choices": {
+      "a": "Work sample test",
+      "b": "Physical ability test",
+      "c": "Cognitive ability test",
+      "d": "Personality test"
+    },
+    "answer": "c",
+    "explanation": "Cognitive ability tests measure mental capabilities such as general intelligence, verbal fluency, numerical ability, and reasoning ability."
+  },
+  {
+    "question": "What is a 'multiple hurdle model' in selection decision making?",
+    "choices": {
+      "a": "A model where a high score in one area can make up for a low score in another.",
+      "b": "A sequential strategy in which only the applicants with the highest scores at an initial test stage go on to subsequent stages.",
+      "c": "A model where all candidates are interviewed by a panel of managers.",
+      "d": "A model that requires an applicant to achieve a minimum level of proficiency on all selection dimensions."
+    },
+    "answer": "b",
+    "explanation": "The multiple hurdle model is a sequential decision strategy where candidates go through an initial evaluation stage, and only the ones who score well are provisionally accepted and assessed further at each successive stage."
+  },
+  {
+    "question": "What is a 'chief learning officer'?",
+    "choices": {
+      "a": "The head of a company's legal department.",
+      "b": "A high-ranking manager directly responsible for fostering employee learning and development within the firm.",
+      "c": "The lead instructor for new employee orientation.",
+      "d": "An external consultant hired to evaluate a company's training programs."
+    },
+    "answer": "b",
+    "explanation": "A chief learning officer is a top executive responsible for making certain that a company’s training is timely and focused on the firm’s top strategic issues."
+  },
+  {
+    "question": "What is 'behaviour modelling' as a training method?",
+    "choices": {
+      "a": "A computer simulation of employee behaviour.",
+      "b": "An approach that demonstrates desired behaviour and gives trainees the chance to practise and role-play those behaviours and receive feedback.",
+      "c": "A lecture-based method for teaching behavioural theories.",
+      "d": "A self-assessment tool for employees to evaluate their own behaviour."
+    },
+    "answer": "b",
+    "explanation": "Behaviour modelling consists of four basic components: learning points, modelling of desired behaviour, practice by trainees, and feedback and reinforcement."
+  },
+  {
+    "question": "What does 'transfer of training' refer to?",
+    "choices": {
+      "a": "The process of moving an employee from one training program to another.",
+      "b": "How well employees apply what they have learned in training to their jobs.",
+      "c": "The cost of a training program.",
+      "d": "The location where a training program is held."
+    },
+    "answer": "b",
+    "explanation": "The transfer of training refers to how well employees apply what they have learned to their jobs."
+  },
+  {
+    "question": "What is the primary objective of a 'return on investment' (ROI) calculation for a training program?",
+    "choices": {
+      "a": "To measure employee satisfaction with the training.",
+      "b": "To determine the number of employees who completed the training.",
+      "c": "To assess the benefits the company derives from training relative to its costs.",
+      "d": "To compare the training program to those of competitors."
+    },
+    "answer": "c",
+    "explanation": "A company’s ROI refers to the benefits it derives from training relative to what it costs. If the ROI is greater than 1, the training’s benefits exceed its cost."
+  },
+  {
+    "question": "What is the main difference between 'cross-training' and 'team training'?",
+    "choices": {
+      "a": "Cross-training is for individuals, while team training is for groups.",
+      "b": "Cross-training involves teaching employees how to do multiple jobs, while team training focuses on improving the interaction and functioning of team members.",
+      "c": "Cross-training is informal, while team training is formal.",
+      "d": "There is no difference between the two."
+    },
+    "answer": "b",
+    "explanation": "Cross-trained employees learn how to do different jobs within an organization. Team training focuses on skills like communication, conflict resolution, and group dynamics to help a team function effectively."
+  },
+  {
+    "question": "What is the purpose of performance management?",
+    "choices": {
+      "a": "To discipline employees for poor performance.",
+      "b": "To determine employee salaries once a year.",
+      "c": "The process of creating a work environment in which people can perform to the best of their abilities to meet a company’s goals.",
+      "d": "To track employee attendance and vacation time."
+    },
+    "answer": "c",
+    "explanation": "Performance management is the process of creating a work environment in which people can perform to the best of their abilities in order to meet a company’s goals. It is an entire work system that flows from a company’s goals."
+  },
+  {
+    "question": "Which of the following is a primary reason why performance reviews can fail?",
+    "choices": {
+      "a": "The manager is too well-prepared.",
+      "b": "The performance standards are too clear.",
+      "c": "The manager has prepared inadequately or the performance standards are not clear.",
+      "d": "The employee is given too much feedback."
+    },
+    "answer": "c",
+    "explanation": "Reasons why performance reviews can fail include inadequate manager preparation, unclear performance standards, unclear objectives for the employee, and inconsistent ratings among supervisors."
+  },
+  {
+    "question": "What does the 'criterion deficiency' of a performance standard refer to?",
+    "choices": {
+      "a": "When a performance standard is too difficult to achieve.",
+      "b": "When a performance standard focuses on a single criterion to the exclusion of other important performance dimensions.",
+      "c": "When a performance standard is too easy to achieve.",
+      "d": "When a performance standard is not relevant to the company's strategic objectives."
+    },
+    "answer": "b",
+    "explanation": "When performance standards focus on a single criterion to the exclusion of other important but less quantifiable performance dimensions, then the performance management system is said to suffer from criterion deficiency."
+  },
+  {
+    "question": "What is the purpose of 'calibration' meetings in performance management?",
+    "choices": {
+      "a": "To calibrate the equipment used by employees.",
+      "b": "A process whereby managers meet to discuss the performance of individual employees to ensure their evaluations are in line with one another.",
+      "c": "To set the company's overall strategic goals for the year.",
+      "d": "To determine the budget for employee raises."
+    },
+    "answer": "b",
+    "explanation": "During calibration meetings, a group of supervisors, led by their managers and facilitated by an HR professional, discuss the performance of individual employees to ensure that all managers apply similar standards to all of the firm’s employees."
+  },
+  {
+    "question": "A performance rating error in which an appraiser inflates the evaluation of an employee because of a mutual personal connection (e.g., they went to the same school) is called:",
+    "choices": {
+      "a": "Halo error",
+      "b": "Contrast error",
+      "c": "Similar-to-me error",
+      "d": "Leniency error"
+    },
+    "answer": "c",
+    "explanation": "The similar-to-me error occurs when a supervisor inflates the evaluations of people with whom they have something in common."
+  },
+  {
+    "question": "Which of the following is NOT one of the five core job dimensions in the job characteristics model?",
+    "choices": {
+      "a": "Skill variety",
+      "b": "Task identity",
+      "c": "Job security",
+      "d": "Autonomy"
+    },
+    "answer": "c",
+    "explanation": "The five job characteristics are skill variety, task identity, task significance, autonomy, and feedback. Job security is not one of the core dimensions of this model."
+  },
+  {
+    "question": "What is the primary benefit of using an Applicant Tracking System (ATS)?",
+    "choices": {
+      "a": "It guarantees that only the most qualified candidates are hired.",
+      "b": "It helps recruiters electronically post openings, screen résumés, and track hiring metrics.",
+      "c": "It eliminates the need for employment interviews.",
+      "d": "It provides a platform for employees to network with each other."
+    },
+    "answer": "b",
+    "explanation": "An ATS enables recruiters to electronically post job openings, screen résumés, rank candidates, and contact them for interviews, while also tracking hiring time and costs."
+  },
+  {
+    "question": "According to the textbook, which training delivery method is still the most commonly used for formal training?",
+    "choices": {
+      "a": "E-learning",
+      "b": "Mobile devices",
+      "c": "Social media learning",
+      "d": "Classroom instruction"
+    },
+    "answer": "d",
+    "explanation": "Traditional classroom instruction delivered by lecturers continues to be the number one training delivery method for formally training employees."
+  },
+  {
+    "question": "What is a 'tell-and-sell' performance review meeting format?",
+    "choices": {
+      "a": "A collaborative meeting where the manager and employee solve problems together.",
+      "b": "A meeting where the manager tells the employee their performance rating and then sells them on a plan for improvement.",
+      "c": "A meeting where the manager tells the employee their rating and then listens to the employee's feelings about it.",
+      "d": "A meeting where the employee evaluates their own performance and tells the manager."
+    },
+    "answer": "b",
+    "explanation": "The tell-and-sell format requires the manager to persuade an employee to change his or her behaviour in a certain way, using motivational and persuasive techniques."
+  },
+  {
+    "question": "The process of familiarizing new employees with the organization, their jobs, and their work units is called:",
+    "choices": {
+      "a": "Onboarding",
+      "b": "Selection",
+      "c": "Performance appraisal",
+      "d": "Orientation"
+    },
+    "answer": "d",
+    "explanation": "Orientation is the formal process of familiarizing new employees with the organization, their jobs, and their work units."
+  },
+  {
+    "question": "A manager who rates all employees as 'average' is committing which type of distributional error?",
+    "choices": {
+      "a": "Leniency error",
+      "b": "Strictness error",
+      "c": "Error of central tendency",
+      "d": "Contrast error"
+    },
+    "answer": "c",
+    "explanation": "Raters who are reluctant to assign either extremely high or extremely low ratings commit the error of central tendency, where all employees are rated about average."
+  },
+  {
+    "question": "What is the primary benefit of a 'realistic job preview' (RJP) for an organization?",
+    "choices": {
+      "a": "It attracts a larger number of applicants.",
+      "b": "It ensures that only overqualified candidates apply.",
+      "c": "It can lead to better job satisfaction and lower turnover.",
+      "d": "It shortens the recruitment process."
+    },
+    "answer": "c",
+    "explanation": "Proponents of RJPs believe that applicants who are given realistic information regarding a position are more likely to remain on the job and be successful, leading to better job satisfaction and lower turnover."
+  },
+  {
+    "question": "Which of the following is a key element of the legal framework for employment equity in Canada?",
+    "choices": {
+      "a": "The North American Free Trade Agreement (NAFTA)",
+      "b": "The Canadian Charter of Rights and Freedoms",
+      "c": "The Canada Labour Code, Part I",
+      "d": "The Competition Act"
+    },
+    "answer": "b",
+    "explanation": "The Canadian Charter of Rights and Freedoms is the cornerstone of equity legislation, guaranteeing fundamental rights to every Canadian, including equality rights that prohibit discrimination."
+  },
+  {
+    "question": "An employee contributions technique where work functions are structured for groups rather than individuals is known as:",
+    "choices": {
+      "a": "Job enrichment",
+      "b": "Job sharing",
+      "c": "Employee teams",
+      "d": "Flextime"
+    },
+    "answer": "c",
+    "explanation": "An employee team is a group of individuals working together toward a common purpose, where work functions are structured for the group rather than for individuals."
+  },
+  {
+    "question": "What is the primary purpose of a career self-management training program?",
+    "choices": {
+      "a": "To teach employees job-specific skills.",
+      "b": "To prepare employees for a specific promotion.",
+      "c": "To help employees learn to continuously gather feedback about their careers and prepare for mobility.",
+      "d": "To help employees plan for retirement."
+    },
+    "answer": "c",
+    "explanation": "Career self-management training focuses on helping employees learn to continuously gather feedback and information about their careers and encouraging them to prepare for mobility."
+  }
+]
