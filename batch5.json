@@ -1,0 +1,486 @@
+[
+  {
+    "question": "What is the primary purpose of a performance management system?",
+    "choices": {
+      "a": "To only provide an annual rating for salary purposes.",
+      "b": "To create a work environment where people can perform to the best of their abilities to meet company goals.",
+      "c": "To track employee sick days and vacation time.",
+      "d": "To replace the need for regular manager-employee communication."
+    },
+    "answer": "b",
+    "explanation": "Performance management is the process of creating a work environment in which people can perform to the best of their abilities in order to meet a company’s goals. It is an entire work system that flows from a company’s goals."
+  },
+  {
+    "question": "What are SMART goals in the context of performance standards?",
+    "choices": {
+      "a": "Goals that are Simple, Meaningful, Achievable, Relevant, and Time-bound.",
+      "b": "Goals that are Strategic, Motivational, Ambitious, Realistic, and Traceable.",
+      "c": "Goals that are Specific, Measurable, Attainable, Realistic, and Time-based.",
+      "d": "Goals that are Superior, Market-driven, Accountable, Rewarding, and Transparent."
+    },
+    "answer": "c",
+    "explanation": "SMART goals are goals that are specific, measurable, attainable, realistic, and time-based. Establishing SMART goals can be very helpful for setting clear performance standards."
+  },
+  {
+    "question": "Which performance appraisal method requires a rater to choose from statements designed to distinguish between successful and unsuccessful performance, often without knowing which statement is which?",
+    "choices": {
+      "a": "Graphic rating scale method",
+      "b": "Forced-choice method",
+      "c": "Essay method",
+      "d": "Management by Objectives (MBO)"
+    },
+    "answer": "b",
+    "explanation": "The forced-choice method requires the rater to choose from statements that appear equally favorable or unfavorable but are designed to distinguish between successful and unsuccessful performance."
+  },
+  {
+    "question": "What is 'wage-rate compression'?",
+    "choices": {
+      "a": "A general decrease in wages across an entire industry.",
+      "b": "When a company pays all employees the same wage regardless of their job.",
+      "c": "When less experienced, often junior, employees earn as much as or more than experienced employees.",
+      "d": "A government-mandated cap on executive salaries."
+    },
+    "answer": "c",
+    "explanation": "Wage-rate compression occurs when less experienced, often junior, employees earn as much as or more than experienced employees due to high starting salaries for new employees."
+  },
+  {
+    "question": "What is the primary characteristic of a 'point system' for job evaluation?",
+    "choices": {
+      "a": "It ranks jobs based on the subjective opinion of a single manager.",
+      "b": "It groups jobs into pre-established grades based on general descriptions.",
+      "c": "It determines a job’s relative value by calculating the total points assigned to it based on compensable factors.",
+      "d": "It compares a job's salary to those in the external market."
+    },
+    "answer": "c",
+    "explanation": "The point system is a quantitative job evaluation procedure that determines a job’s relative value by calculating the total points assigned to it based on compensable factors like skill, effort, and responsibility."
+  },
+  {
+    "question": "Which of the following is an example of an 'enterprise incentive plan'?",
+    "choices": {
+      "a": "Piecework",
+      "b": "Merit pay",
+      "c": "Sales commission",
+      "d": "Profit sharing"
+    },
+    "answer": "d",
+    "explanation": "Enterprise incentive plans reward employees on the basis of the success of the organization as a whole. Common examples include profit sharing and employee stock ownership plans (ESOPs)."
+  },
+  {
+    "question": "What are 'perquisites' or 'perks' in executive compensation?",
+    "choices": {
+      "a": "The executive's base salary.",
+      "b": "Performance-based cash bonuses.",
+      "c": "Special nonmonetary rewards given to executives, such as a company car or club membership.",
+      "d": "Long-term stock options."
+    },
+    "answer": "c",
+    "explanation": "Perquisites are special nonmonetary rewards given to executives. They are a means of demonstrating the executive’s importance to the organization."
+  },
+  {
+    "question": "What is the main advantage of a 'team incentive plan'?",
+    "choices": {
+      "a": "It encourages individual competition among team members.",
+      "b": "It is simple to administer, regardless of team structure.",
+      "c": "It establishes a psychological climate that fosters cooperation and a collective desire to fulfill organizational goals.",
+      "d": "It guarantees a payout to all team members, regardless of performance."
+    },
+    "answer": "c",
+    "explanation": "Team incentive plans reward team members when agreed-on performance standards are met, seeking to foster cooperation and a collective desire to fulfill organizational goals."
+  },
+  {
+    "question": "Which legally required benefit is funded jointly by employees and employers to provide retirement, disability, and survivor benefits?",
+    "choices": {
+      "a": "Workers' Compensation Insurance",
+      "b": "Employment Insurance (EI)",
+      "c": "Canada and Quebec Pension Plans (CPP/QPP)",
+      "d": "Provincial Medical Services"
+    },
+    "answer": "c",
+    "explanation": "The Canada and Quebec Pension Plans (CPP/QPP) cover almost all Canadian employees and require employers to match the contributions made by employees to pay for retirement, disability, and survivor benefits."
+  },
+  {
+    "question": "What is the principle behind 'workers' compensation insurance'?",
+    "choices": {
+      "a": "Employees should be required to bear the full cost of their work-related injuries.",
+      "b": "Compensation for work-related accidents and illnesses should be considered one of the costs of doing business.",
+      "c": "It is a voluntary insurance plan that employees can purchase.",
+      "d": "It provides benefits only for injuries that occur outside the workplace."
+    },
+    "answer": "b",
+    "explanation": "Workers’ compensation insurance is based on the theory that compensation for work-related accidents and illnesses should be considered one of the costs of doing business, with employers sharing collective liability."
+  },
+  {
+    "question": "What is the purpose of the Workplace Hazardous Materials Information System (WHMIS)?",
+    "choices": {
+      "a": "To set minimum wage rates for workers handling hazardous materials.",
+      "b": "To provide a common information system for labeling hazardous substances, including MSDSs and worker training.",
+      "c": "To prohibit the use of all chemicals in the workplace.",
+      "d": "To provide insurance for workers injured by hazardous materials."
+    },
+    "answer": "b",
+    "explanation": "WHMIS is based on three elements: labels to alert workers, Material Safety Data Sheets (MSDSs) with detailed information, and training for workers on safe handling procedures."
+  },
+  {
+    "question": "What is 'burnout'?",
+    "choices": {
+      "a": "A positive form of stress that accompanies achievement.",
+      "b": "The most severe stage of distress, manifesting itself in depression, frustration, and loss of productivity.",
+      "c": "A temporary feeling of fatigue after a long workday.",
+      "d": "A physical injury caused by overexertion."
+    },
+    "answer": "b",
+    "explanation": "Burnout is the most severe stage of distress. It generally occurs when a person begins questioning his or her own personal values and no longer feels their work is important."
+  },
+  {
+    "question": "What is 'progressive discipline'?",
+    "choices": {
+      "a": "A system where employees are punished with increasing severity for each offense.",
+      "b": "The application of corrective measures by increasing degrees, designed to motivate an employee to correct their misconduct voluntarily.",
+      "c": "A one-time warning for any type of misconduct.",
+      "d": "A system that focuses on rewarding good behavior rather than punishing bad behavior."
+    },
+    "answer": "b",
+    "explanation": "Progressive discipline is the application of corrective measures by increasing degrees, with the goal of correcting misconduct voluntarily. The typical procedure includes an oral warning, a written warning, a suspension, and ultimately, discharge."
+  },
+  {
+    "question": "What is the primary role of an 'ombudsperson' in dispute resolution?",
+    "choices": {
+      "a": "To make a final and binding decision on a complaint.",
+      "b": "To represent the employer in a legal dispute.",
+      "c": "To act as a designated individual from whom employees may seek counsel for the resolution of their complaints, seeking an equitable solution.",
+      "d": "To investigate employee misconduct and recommend disciplinary action."
+    },
+    "answer": "c",
+    "explanation": "An ombudsperson listens to an employee’s complaint and attempts to resolve it by seeking an equitable solution between the employee and the supervisor, working cooperatively with both sides."
+  },
+  {
+    "question": "What is a 'union shop' agreement?",
+    "choices": {
+      "a": "A provision that requires employees to join the union as a condition of their employment.",
+      "b": "A workplace where union membership is strictly voluntary.",
+      "c": "A company that is owned and operated by a union.",
+      "d": "A store that only sells union-made products."
+    },
+    "answer": "a",
+    "explanation": "A union shop is a provision of the collective agreement that requires employees to join the union as a condition of employment, often within a specified period after being hired."
+  },
+  {
+    "question": "What is the 'bargaining zone' in collective negotiations?",
+    "choices": {
+      "a": "The physical location where negotiations take place.",
+      "b": "The period of time during which negotiations are allowed.",
+      "c": "The area within which the union and the employer are willing to concede to reach an agreement.",
+      "d": "A specific set of topics that are legally required to be discussed."
+    },
+    "answer": "c",
+    "explanation": "The area within which the limits of the union and the employer are willing to accept is known as the bargaining zone. An agreement is reached when the final terms fall within this zone."
+  },
+  {
+    "question": "What is 'codetermination' as practiced in Germany?",
+    "choices": {
+      "a": "A system where unions and management jointly determine employee wages.",
+      "b": "The representation of labour on the board of directors of a company, as required by law.",
+      "c": "A type of collective bargaining that is voluntary for both parties.",
+      "d": "A government agency that oversees labour relations."
+    },
+    "answer": "b",
+    "explanation": "Codetermination is the representation of labour on the board of directors of a company, which is required by law in Germany. Shareholders and employees are represented in equal numbers on supervisory boards."
+  },
+  {
+    "question": "What is the purpose of a PEST analysis in international HRM?",
+    "choices": {
+      "a": "To analyze the performance, efficiency, skills, and training of employees.",
+      "b": "To audit a company’s environmental influences (Political, Economic, Sociocultural, Technological) to help determine its strategy.",
+      "c": "To assess the personality, experience, stability, and teamwork of potential expatriates.",
+      "d": "To plan for parties, events, socials, and trips for employees."
+    },
+    "answer": "b",
+    "explanation": "A PEST analysis acts as an audit of a company’s environmental influences (political, economic, sociocultural, technological) to help it determine its strategy and HR response in a global setting."
+  },
+  {
+    "question": "A temporal (recency) error in performance appraisal occurs when:",
+    "choices": {
+      "a": "An employee's evaluation is biased because of comparison with another employee.",
+      "b": "The evaluation is based largely on the employee’s most recent behavior rather than on behavior throughout the evaluation period.",
+      "c": "The appraiser gives all employees an average rating.",
+      "d": "The appraiser inflates the evaluation of an employee because of a personal connection."
+    },
+    "answer": "b",
+    "explanation": "When the evaluation is based largely on the employee’s recent behaviour, good or bad, the rater has committed the temporal (recency) error."
+  },
+  {
+    "question": "A manager who requires employees to place a certain percentage of their team into categories such as 'excellent,' 'average,' and 'poor' is using which appraisal system?",
+    "choices": {
+      "a": "Management by Objectives (MBO)",
+      "b": "Graphic rating scale",
+      "c": "Forced distribution",
+      "d": "Behaviorally anchored rating scale (BARS)"
+    },
+    "answer": "c",
+    "explanation": "Managers appraising employees under a forced distribution system are required to place a certain percentage of employees into various performance categories."
+  },
+  {
+    "question": "The systematic process of determining the relative worth of jobs to establish which jobs should be paid more than others is called:",
+    "choices": {
+      "a": "Job analysis",
+      "b": "Performance appraisal",
+      "c": "Job evaluation",
+      "d": "Wage survey"
+    },
+    "answer": "c",
+    "explanation": "Job evaluation is the systematic process of determining the relative worth of jobs to establish which jobs should be paid more than others within the organization."
+  },
+  {
+    "question": "What is the purpose of 'broadbanding' in compensation structure?",
+    "choices": {
+      "a": "To create more salary grades with narrow ranges.",
+      "b": "To collapse many traditional salary grades into a few wide salary bands.",
+      "c": "To pay all employees the same salary.",
+      "d": "To link pay directly to the consumer price index."
+    },
+    "answer": "b",
+    "explanation": "Broadbanding simply collapses many traditional salary grades into a few wide salary bands, which encourages lateral skill building and provides more flexibility in pay."
+  },
+  {
+    "question": "What is a key difference between a 'bonus' and 'merit pay'?",
+    "choices": {
+      "a": "A bonus is typically a one-time payment not added to base pay, while merit pay is an increase added to base pay.",
+      "b": "A bonus is based on team performance, while merit pay is based on individual performance.",
+      "c": "Bonuses are only given to executives, while merit pay is for all employees.",
+      "d": "Merit pay is given in cash, while bonuses are always non-cash awards."
+    },
+    "answer": "a",
+    "explanation": "A bonus is an incentive payment given to an employee beyond their normal base wage and does not become part of base pay. A merit pay program links an increase in base pay to job performance."
+  },
+  {
+    "question": "What is the primary purpose of an Employee Stock Ownership Plan (ESOP)?",
+    "choices": {
+      "a": "To provide employees with a guaranteed annual bonus.",
+      "b": "To give employees an opportunity to acquire shares in the firm that employs them.",
+      "c": "To replace the company's pension plan.",
+      "d": "To provide a short-term incentive for meeting sales targets."
+    },
+    "answer": "b",
+    "explanation": "Employee stock ownership plans (ESOPs) are stock plans in which employees can acquire shares in the firm that employs them, intended to increase pride of ownership and incentivize productivity."
+  },
+  {
+    "question": "In what situation would an employer typically offer severance pay?",
+    "choices": {
+      "a": "When an employee voluntarily resigns.",
+      "b": "When an employee retires at the normal retirement age.",
+      "c": "When an employee is being terminated by the employer, often during downsizing.",
+      "d": "When an employee is promoted to a new position."
+    },
+    "answer": "c",
+    "explanation": "An employee who is being terminated is sometimes given a one-time payment known as severance pay. Employers that are downsizing often use severance pay to soften the impact of unexpected termination."
+  },
+  {
+    "question": "Which of the following is considered an 'occupational illness'?",
+    "choices": {
+      "a": "A cut or fracture resulting from a workplace accident.",
+      "b": "A sprain from slipping on a wet floor at work.",
+      "c": "An abnormal condition or disorder caused by exposure to environmental factors associated with employment.",
+      "d": "An injury sustained while commuting to work."
+    },
+    "answer": "c",
+    "explanation": "An occupational illness is any abnormal condition or disorder (other than one resulting from an occupational injury) caused by the work environment, such as through inhaling or absorbing an illness-causing agent."
+  },
+  {
+    "question": "What is 'positive discipline'?",
+    "choices": {
+      "a": "A system of discipline that uses only positive reinforcement and no corrective action.",
+      "b": "A system of discipline that focuses on early correction of employee misconduct, with the employee taking total responsibility for correcting the problem.",
+      "c": "A system of discipline that involves public reprimands to set an example for other employees.",
+      "d": "A system of discipline that is only used for minor infractions."
+    },
+    "answer": "b",
+    "explanation": "Positive, or nonpunitive, discipline is based on the concept that employees must assume responsibility for their personal conduct and job performance, focusing on joint problem solving and reminders rather than reprimands."
+  },
+  {
+    "question": "What is a 'grievance procedure' in a unionized workplace?",
+    "choices": {
+      "a": "An informal process for employees to complain about their coworkers.",
+      "b": "A formal procedure that provides for the union to represent members in processing a complaint that management has violated the collective agreement.",
+      "c": "A legal process for suing the employer in court.",
+      "d": "A method for employees to request a pay raise."
+    },
+    "answer": "b",
+    "explanation": "The grievance procedure typically provides for the union to represent the interests of its members in processing a grievance when it feels management has violated some article of the collective agreement."
+  },
+  {
+    "question": "What is the primary reason for the high failure rate of expatriate assignments?",
+    "choices": {
+      "a": "Lack of technical skills of the expatriate.",
+      "b": "Poor compensation packages.",
+      "c": "Personal and family stress, including the spouse's inability to adjust.",
+      "d": "Political instability in the host country."
+    },
+    "answer": "c",
+    "explanation": "One of the most frequent causes of an employee’s failure to complete an international assignment is personal and family stress, often stemming from culture shock and a spouse's inability to adjust."
+  },
+  {
+    "question": "A results appraisal method where employees establish objectives by consulting with their superiors and are then evaluated based on those objectives is called:",
+    "choices": {
+      "a": "Balanced Scorecard (BSC)",
+      "b": "Management by Objectives (MBO)",
+      "c": "Critical Incident Method",
+      "d": "Behavior Observation Scale (BOS)"
+    },
+    "answer": "b",
+    "explanation": "Management by objectives (MBO) is a system where employees establish objectives by consulting with their superiors and are then evaluated based on the achievement of those objectives."
+  },
+  {
+    "question": "The Hay profile method is a job evaluation technique primarily used for which type of positions?",
+    "choices": {
+      "a": "Entry-level clerical jobs",
+      "b": "Skilled trade and blue-collar jobs",
+      "c": "Executive and managerial positions",
+      "d": "Sales and customer service roles"
+    },
+    "answer": "c",
+    "explanation": "The Hay profile method is one of the better-known standardized job evaluation programs for evaluating executive, managerial, and professional positions, using factors like know-how, problem solving, and accountability."
+  },
+  {
+    "question": "What is a 'Scanlon Plan'?",
+    "choices": {
+      "a": "An individual piecework incentive system.",
+      "b": "A type of profit-sharing plan for executives.",
+      "c": "A gainsharing plan that emphasizes participative management and shares cost-reduction savings with employees.",
+      "d": "A bonus plan based on individual sales targets."
+    },
+    "answer": "c",
+    "explanation": "The Scanlon Plan is a type of gainsharing plan that emphasizes participative management and encourages cost reductions by sharing any resulting savings with employees."
+  },
+  {
+    "question": "Which of the following is NOT typically considered a family-friendly benefit?",
+    "choices": {
+      "a": "On-site childcare facilities",
+      "b": "Flexible work hours",
+      "c": "A company car for personal use",
+      "d": "Extended parental leave"
+    },
+    "answer": "c",
+    "explanation": "Family-friendly benefits are designed to help employees balance work and personal needs. Examples include childcare, flexible schedules, and parental leave. A company car is typically considered an executive perquisite."
+  },
+  {
+    "question": "The right of an employee to refuse unsafe work without fear of reprisal is a key component of:",
+    "choices": {
+      "a": "Employment standards legislation",
+      "b": "Occupational health and safety acts",
+      "c": "Human rights codes",
+      "d": "Collective agreements"
+    },
+    "answer": "b",
+    "explanation": "Workers have many rights under occupational health and safety acts, including the right to refuse unsafe work without fear of reprisal."
+  },
+  {
+    "question": "Which alternative dispute resolution (ADR) method involves a neutral third party who helps employees and managers reach a voluntary, compromise agreement?",
+    "choices": {
+      "a": "Arbitration",
+      "b": "Peer-review system",
+      "c": "Open-door policy",
+      "d": "Mediation"
+    },
+    "answer": "d",
+    "explanation": "Mediation employs a third-party neutral (a mediator) to help employees and managers reach a voluntary agreement acceptable to both parties. The essence of mediation is compromise."
+  },
+  {
+    "question": "What is the primary function of the Canadian Labour Congress (CLC)?",
+    "choices": {
+      "a": "To directly negotiate collective agreements for all unionized workers in Canada.",
+      "b": "To act as a central federation of unions that influences legislation and promotes programs of interest to labour.",
+      "c": "To provide strike pay to all striking workers.",
+      "d": "To certify new unions as bargaining agents."
+    },
+    "answer": "b",
+    "explanation": "The Canadian Labour Congress (CLC) is a central federation of unions. It attempts to influence legislation, resolve jurisdictional disputes, and provide education and research services to its member unions."
+  },
+  {
+    "question": "What is a 'multidomestic corporation' (MDC)?",
+    "choices": {
+      "a": "A firm that views the world as a single market and controls all operations centrally.",
+      "b": "A domestic firm that uses its existing capabilities to expand into foreign markets.",
+      "c": "A firm with independent business units operating in multiple countries.",
+      "d": "A firm that uses a network structure to balance global and local concerns."
+    },
+    "answer": "c",
+    "explanation": "A multidomestic corporation (MDC) is a complex form that usually has fully autonomous units operating in multiple countries, giving subsidiaries a great deal of latitude to address local issues."
+  },
+  {
+    "question": "An employee who receives an unusually high or low rating due to the appraiser's personal feelings or biases is likely a victim of which type of error?",
+    "choices": {
+      "a": "Criterion deficiency",
+      "b": "Leniency or strictness error",
+      "c": "Forced distribution",
+      "d": "Strategic relevance"
+    },
+    "answer": "b",
+    "explanation": "Leniency or strictness error occurs when some raters give unusually high or low ratings to all their employees."
+  },
+  {
+    "question": "Which type of sales incentive plan provides maximum incentive but may lead to neglect of customer service and fluctuations in earnings?",
+    "choices": {
+      "a": "Straight salary plan",
+      "b": "Salary plus bonus plan",
+      "c": "Straight commission plan",
+      "d": "Combined salary and commission plan"
+    },
+    "answer": "c",
+    "explanation": "The straight commission plan, based on a percentage of sales, provides maximum incentive but is limited by disadvantages such as potential neglect of customer service and wide fluctuations in earnings."
+  },
+  {
+    "question": "The Canada and Quebec Pension Plans (CPP/QPP) are examples of which type of benefit plan?",
+    "choices": {
+      "a": "Contributory plan",
+      "b": "Defined-benefit plan",
+      "c": "Flexible benefits plan",
+      "d": "Non-contributory plan"
+    },
+    "answer": "a",
+    "explanation": "Both CPP and QPP require employers to match the contributions made by employees, making them contributory plans."
+  },
+  {
+    "question": "Bill C-45, also known as the 'corporate killing law', allows for what?",
+    "choices": {
+      "a": "Increased fines for minor safety violations.",
+      "b": "Criminal charges to be brought against coworkers, supervisors, and executives when a worker is killed or injured on the job.",
+      "c": "The automatic closure of any company where a fatality occurs.",
+      "d": "The creation of a national database of workplace injuries."
+    },
+    "answer": "b",
+    "explanation": "Bill C-45 makes it possible for criminal charges to be brought against individuals and the organization when a worker is killed or injured on the job due to negligence."
+  },
+  {
+    "question": "Which of the following is a key difference between a unionized and nonunionized employee's right to be dismissed?",
+    "choices": {
+      "a": "Nonunionized employees cannot be dismissed for any reason.",
+      "b": "Unionized employers usually need 'just cause' to dismiss an employee, while nonunionized employers can dismiss for any reason with proper notice.",
+      "c": "Unionized employees are not entitled to severance pay.",
+      "d": "Nonunionized employers must get government approval before dismissing an employee."
+    },
+    "answer": "b",
+    "explanation": "A key difference is that collective agreements usually require the employer to have 'just cause' to dismiss an employee. A nonunion employer can dismiss an employee at any time for any reason (that is not a statutory violation) by providing the proper notice."
+  },
+  {
+    "question": "What is 'interest-based bargaining' (IBB)?",
+    "choices": {
+      "a": "A bargaining process where the party with more power always wins.",
+      "b": "Problem-solving bargaining based on a win-win philosophy and the identification and resolution of mutual interests.",
+      "c": "A type of bargaining where a third-party arbitrator makes the final decision.",
+      "d": "Bargaining that focuses only on financial interests like wages and bonuses."
+    },
+    "answer": "b",
+    "explanation": "Interest-based bargaining (IBB) is based on the identification and resolution of mutual interests rather than the resolve of specific bargaining demands, aiming to create effective solutions while improving the relationship."
+  },
+  {
+    "question": "What is the purpose of the 'balance sheet approach' to expatriate compensation?",
+    "choices": {
+      "a": "To pay expatriates the same as local employees in the host country.",
+      "b": "To minimize the total cost of an international assignment.",
+      "c": "To equalize the purchasing power of employees at comparable positions living overseas and in the home country.",
+      "d": "To provide expatriates with a large cash bonus upon completion of their assignment."
+    },
+    "answer": "c",
+    "explanation": "The balance sheet approach is a system designed to equalize the purchasing power of employees at comparable positions living overseas and in the home country, ensuring they neither gain nor lose purchasing power."
+  }
+]
