@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The fundamental rethinking and radical redesign of business processes to achieve dramatic improvements in cost, quality, service, and speed is known as:",
+    "choices": {
+      "a": "Downsizing",
+      "b": "Outsourcing",
+      "c": "Reengineering",
+      "d": "Six Sigma"
+    },
+    "answer": "c",
+    "explanation": "Reengineering has been described as 'the fundamental rethinking and radical redesign of business processes to achieve dramatic improvements in cost, quality, service, and speed'."
+  },
+  {
+    "question": "According to the Human Resource Competency Model, which competency involves understanding the business of the organization, its economic and financial capabilities, and its customers?",
+    "choices": {
+      "a": "HR Mastery",
+      "b": "Change Mastery",
+      "c": "Personal Credibility",
+      "d": "Business Mastery"
+    },
+    "answer": "d",
+    "explanation": "Business mastery requires HR professionals to know the business of their organization thoroughly, including its economic and financial capabilities, to help develop the firm's strategic direction."
+  },
+  {
+    "question": "What is a 'Markov analysis' used for in HR forecasting?",
+    "choices": {
+      "a": "To predict future sales based on economic trends.",
+      "b": "To track the pattern of employee movements through various jobs from one year to the next.",
+      "c": "To survey managers for their opinions on future employment needs.",
+      "d": "To create a graphic representation of all organizational jobs."
+    },
+    "answer": "b",
+    "explanation": "Markov analysis shows the percentage and actual number of employees who remain in each of a firm's jobs from one year to the next, as well as proportions of those promoted, demoted, transferred, or who exit."
+  },
+  {
+    "question": "What is the legal principle that allows employers to discriminate if employment preferences are based on a bona fide occupational requirement (BFOR)?",
+    "choices": {
+      "a": "The employer can establish that the requirement is a business necessity for the safe and efficient operation of the organization.",
+      "b": "The employer can prove that customers prefer employees with certain characteristics.",
+      "c": "The requirement has been used by the company for many years.",
+      "d": "The majority of current employees meet the requirement."
+    },
+    "answer": "a",
+    "explanation": "A BFOR is justified if the employer can establish necessity for business operations, meaning the requirement is essential for the safe and efficient operation of the organization."
+  },
+  {
+    "question": "What is the primary characteristic of the 'critical incident method' of job analysis?",
+    "choices": {
+      "a": "It uses a standardized questionnaire to quantify job tasks.",
+      "b": "It involves observing employees and recording their activities on a standardized form.",
+      "c": "It identifies important job tasks and responsibilities that lead to job success.",
+      "d": "It requires jobholders to keep a diary of their work activities."
+    },
+    "answer": "c",
+    "explanation": "The objective of the critical incident method is to identify critical job tasks, which are those important duties and job responsibilities performed by the jobholder that lead to job success."
+  },
+  {
+    "question": "An arrangement where two part-time employees perform a job that would otherwise be held by one full-time employee is called:",
+    "choices": {
+      "a": "Telecommuting",
+      "b": "Flextime",
+      "c": "A compressed workweek",
+      "d": "Job sharing"
+    },
+    "answer": "d",
+    "explanation": "Job sharing is the arrangement whereby two part-time employees perform a job that otherwise would be held by one full-time employee."
+  },
+  {
+    "question": "What is the term for the lines of advancement in an occupational field within an organization?",
+    "choices": {
+      "a": "Job progressions",
+      "b": "Career paths",
+      "c": "Job families",
+      "d": "Career plateaus"
+    },
+    "answer": "b",
+    "explanation": "Career paths are the lines of advancement within an organization for individuals, often developed based on job progressions."
+  },
+  {
+    "question": "What is a major drawback of relying heavily on employee referrals for recruitment?",
+    "choices": {
+      "a": "The quality of referred applicants is usually low.",
+      "b": "It is the most expensive recruitment method.",
+      "c": "It can lead to a lack of diversity or corporate 'inbreeding'.",
+      "d": "Referred employees tend to have higher turnover rates."
+    },
+    "answer": "c",
+    "explanation": "Employers who rely heavily on employee referrals to fill job openings may intentionally or unintentionally screen out protected classes, as employees tend to refer people with similar backgrounds."
+  },
+  {
+    "question": "A test that requires an applicant to perform tasks that are actually part of the work required on the job is known as a:",
+    "choices": {
+      "a": "Cognitive ability test",
+      "b": "Personality test",
+      "c": "Work sample test",
+      "d": "Honesty test"
+    },
+    "answer": "c",
+    "explanation": "Work sample tests, or job sample tests, require the applicant to perform tasks that are part of the work required on the job and are considered content valid."
+  },
+  {
+    "question": "What is 'cross-validation' in the context of testing?",
+    "choices": {
+      "a": "Administering multiple different tests to the same applicant.",
+      "b": "Verifying test results by administering the test to a different sample of people from the same population.",
+      "c": "Having multiple raters score the same test.",
+      "d": "Comparing test scores with an employee's performance appraisal."
+    },
+    "answer": "b",
+    "explanation": "Cross-validation is a process in which a test or battery of tests is administered to a different sample of people (drawn from the same population) for the purpose of verifying the results obtained from the original validation study."
+  },
+  {
+    "question": "What is 'experiential learning'?",
+    "choices": {
+      "a": "Learning through lectures and reading materials.",
+      "b": "The process of learning by 'doing,' reflecting on it, critically analyzing it, and applying it in new situations.",
+      "c": "Learning that takes place exclusively online.",
+      "d": "A method where trainees watch videos of experts."
+    },
+    "answer": "b",
+    "explanation": "Experiential learning refers to the process of learning by experience or 'doing,' often outside the classroom. It involves not only engaging in an activity but also reflecting on and analyzing it."
+  },
+  {
+    "question": "What is the purpose of a 'learning management system' (LMS)?",
+    "choices": {
+      "a": "To manage the company's library of books and journals.",
+      "b": "An online system that provides a variety of assessment, communication, teaching, and learning opportunities.",
+      "c": "To track the educational background of job applicants.",
+      "d": "To schedule classroom-based training sessions."
+    },
+    "answer": "b",
+    "explanation": "A learning management system (LMS) combines a company’s e-learning, employee assessment tools, and other training functions into one electronic tool for managers and employees."
+  },
+  {
+    "question": "Which performance rating error occurs when a manager focuses on one negative aspect of an employee and generalizes it into an overall poor evaluation?",
+    "choices": {
+      "a": "Halo error",
+      "b": "Horn error",
+      "c": "Recency error",
+      "d": "Central tendency error"
+    },
+    "answer": "b",
+    "explanation": "The horn error is the opposite of the halo effect and occurs when a manager focuses on one negative aspect about an employee and generalizes it into an overall poor evaluation rating."
+  },
+  {
+    "question": "The 'Hay profile method' of job evaluation is primarily used for:",
+    "choices": {
+      "a": "Clerical and blue-collar jobs.",
+      "b": "Evaluating team performance.",
+      "c": "Entry-level positions.",
+      "d": "Executive, managerial, and professional positions."
+    },
+    "answer": "d",
+    "explanation": "The Hay profile method is one of the better-known standardized job evaluation programs for evaluating executive, managerial, and professional positions, using factors of knowledge, mental activity, and accountability."
+  },
+  {
+    "question": "A payment rate above the maximum of the pay range, often given to employees with high seniority when promotional opportunities are scarce, is called a:",
+    "choices": {
+      "a": "Red circle rate",
+      "b": "Benchmark rate",
+      "c": "Starting rate",
+      "d": "Competency-based rate"
+    },
+    "answer": "a",
+    "explanation": "Wages paid above the range maximum are called red circle rates. Employers often 'freeze' these rates until all ranges are shifted upward through market wage adjustments."
+  },
+  {
+    "question": "An incentive plan that sets rates based on the completion of a job in a predetermined standard time is known as a:",
+    "choices": {
+      "a": "Piecework plan",
+      "b": "Standard hour plan",
+      "c": "Merit pay program",
+      "d": "Profit-sharing plan"
+    },
+    "answer": "b",
+    "explanation": "The standard hour plan sets incentive rates on the basis of a predetermined 'standard time' for completing a job. If employees finish the work in less time, their pay is still based on the standard time."
+  },
+  {
+    "question": "What is the primary disadvantage of a straight commission plan for salespeople?",
+    "choices": {
+      "a": "It is difficult to compute and understand.",
+      "b": "It does not provide a strong incentive to maximize sales.",
+      "c": "Earnings can fluctuate widely, and customer service after the sale may be neglected.",
+      "d": "It requires a large base salary component."
+    },
+    "answer": "c",
+    "explanation": "The straight commission plan is limited by disadvantages such as the potential for neglecting customer service, stressing high-priced products, and having earnings that fluctuate widely between good and poor business periods."
+  },
+  {
+    "question": "What is the main purpose of an 'escalator clause' in a collective agreement?",
+    "choices": {
+      "a": "To provide for automatic promotions based on seniority.",
+      "b": "To provide for quarterly cost-of-living adjustments (COLAs) in wages based on changes in the CPI.",
+      "c": "To outline the procedure for filing a grievance.",
+      "d": "To specify the rules for using company elevators."
+    },
+    "answer": "b",
+    "explanation": "Escalator clauses in collective agreements provide for cost-of-living adjustments (COLAs) in wages based on changes in the consumer price index (CPI)."
+  },
+  {
+    "question": "The benefit that provides income to claimants who are unemployed and actively seeking employment is called:",
+    "choices": {
+      "a": "Canada Pension Plan (CPP)",
+      "b": "Workers' Compensation",
+      "c": "Employment Insurance (EI)",
+      "d": "Severance Pay"
+    },
+    "answer": "c",
+    "explanation": "Employment insurance (EI) benefits are payable to claimants who are unemployed and are actively seeking employment, providing basic income support."
+  },
+  {
+    "question": "Which of the following is NOT one of the three regimes of employment law in Canada?",
+    "choices": {
+      "a": "The common law of employment",
+      "b": "Statutory employment regulation",
+      "c": "International trade law",
+      "d": "Collective bargaining and arbitration law"
+    },
+    "answer": "c",
+    "explanation": "The three different legal regimes that govern the employment relationship are the common law, statutory regulation, and collective bargaining and arbitration law."
+  },
+  {
+    "question": "Which piece of federal legislation regulates an employer's collection and dissemination of information about employees and applies to federally regulated workplaces?",
+    "choices": {
+      "a": "The Canada Labour Code",
+      "b": "The Canadian Human Rights Act (CHRA)",
+      "c": "The Personal Information Protection and Electronic Documents Act (PIPEDA)",
+      "d": "The Employment Equity Act"
+    },
+    "answer": "c",
+    "explanation": "The federal Personal Information Protection and Electronic Documents Act (PIPEDA) regulates an employer’s collection and dissemination of information about employees, as well as the right of employees to access their personnel files in some circumstances."
+  },
+  {
+    "question": "What is the term for a group of two or more employees who share common employment interests and may be grouped together for collective bargaining?",
+    "choices": {
+      "a": "A focus group",
+      "b": "A bargaining unit",
+      "c": "An employee association",
+      "d": "A management team"
+    },
+    "answer": "b",
+    "explanation": "A bargaining unit is a group of two or more employees who share common employment interests and conditions and may reasonably be grouped together for the purposes of collective bargaining."
+  },
+  {
+    "question": "What is a 'lockout' in the context of labour relations?",
+    "choices": {
+      "a": "When a union refuses to perform their jobs.",
+      "b": "A bargaining strategy where the employer denies employees the opportunity to work by closing its operations.",
+      "c": "A security measure to protect company property.",
+      "d": "When employees work slower than usual to protest working conditions."
+    },
+    "answer": "b",
+    "explanation": "The lockout is a bargaining strategy by which the employer denies employees the opportunity to work by closing its operations. It is a form of management bargaining power."
+  },
+  {
+    "question": "What is the key difference between an 'interest arbitrator' and a 'rights arbitrator'?",
+    "choices": {
+      "a": "An interest arbitrator resolves disputes about contract interpretation, while a rights arbitrator determines the settlement for a new contract.",
+      "b": "An interest arbitrator determines the settlement for a new contract during a deadlock, while a rights arbitrator provides a solution to a grievance during the life of a contract.",
+      "c": "Interest arbitrators are used in the public sector, while rights arbitrators are used in the private sector.",
+      "d": "There is no difference; the terms are interchangeable."
+    },
+    "answer": "b",
+    "explanation": "An interest arbitrator determines what the settlement between parties should be when they are deadlocked in negotiating a new contract. A rights arbitrator provides the solution to a grievance that arises during the administration of an existing agreement."
+  },
+  {
+    "question": "A domestic firm that builds on its existing capabilities to penetrate overseas markets is known as a(n):",
+    "choices": {
+      "a": "Multidomestic corporation (MDC)",
+      "b": "Global corporation",
+      "c": "Transnational corporation",
+      "d": "International corporation"
+    },
+    "answer": "d",
+    "explanation": "The international corporation is essentially a domestic firm that builds on its existing capabilities to penetrate overseas markets, often by adapting existing products."
+  },
+  {
+    "question": "What is 'criterion contamination' in performance standards?",
+    "choices": {
+      "a": "When standards do not capture the full range of an employee's performance.",
+      "b": "When factors outside an employee’s control can influence his or her performance.",
+      "c": "When performance standards are not related to the organization's strategic goals.",
+      "d": "When performance measures are inconsistent over time."
+    },
+    "answer": "b",
+    "explanation": "Criterion contamination occurs when there are factors outside an employee’s control that can influence his or her performance, such as some employees having newer equipment than others."
+  },
+  {
+    "question": "A quantitative job evaluation procedure that determines a job's relative value by calculating the total points assigned to it is the:",
+    "choices": {
+      "a": "Job ranking system",
+      "b": "Job classification system",
+      "c": "Point system",
+      "d": "Hay profile method"
+    },
+    "answer": "c",
+    "explanation": "The point system is a quantitative job evaluation procedure that determines a job’s relative value by calculating the total points assigned to it based on compensable factors."
+  },
+  {
+    "question": "A bonus given 'on the spot' for an employee's effort that is not directly tied to an established performance standard is a:",
+    "choices": {
+      "a": "Merit raise",
+      "b": "Spot bonus",
+      "c": "Profit share",
+      "d": "Commission"
+    },
+    "answer": "b",
+    "explanation": "A spot bonus is an unplanned bonus given for some employee effort not directly tied to an established performance standard, such as for working long hours to fill a new customer's large order."
+  },
+  {
+    "question": "A pension plan in which contributions are made solely by the employer is known as a:",
+    "choices": {
+      "a": "Contributory plan",
+      "b": "Defined-contribution plan",
+      "c": "Non-contributory plan",
+      "d": "Defined-benefit plan"
+    },
+    "answer": "c",
+    "explanation": "In a non-contributory plan, the contributions are made solely by the employer. In a contributory plan, contributions are made jointly by employees and employers."
+  },
+  {
+    "question": "Which of the following is NOT one of the three elements of the Workplace Hazardous Materials Information System (WHMIS)?",
+    "choices": {
+      "a": "Labels",
+      "b": "Material Safety Data Sheets (MSDSs)",
+      "c": "Mandatory drug testing",
+      "d": "Training"
+    },
+    "answer": "c",
+    "explanation": "WHMIS is based on three elements: labels to alert workers, Material Safety Data Sheets (MSDSs) to provide detailed information, and training for workers on how to handle hazardous substances safely."
+  },
+  {
+    "question": "What is the final step in the conventional step-review system for resolving employee complaints?",
+    "choices": {
+      "a": "A peer-review committee",
+      "b": "An external mediator",
+      "c": "The employee's immediate supervisor",
+      "d": "Top management (e.g., CEO or HR director)"
+    },
+    "answer": "d",
+    "explanation": "In most step-review systems, the president, chief executive officer, vice president, or HR director acts as the final authority, and this person’s decision is not appealable."
+  },
+  {
+    "question": "What is the primary function of the Canada Industrial Relations Board (CIRB)?",
+    "choices": {
+      "a": "To provide unemployment benefits to workers.",
+      "b": "To administer and enforce the Canada Labour Code for federally regulated industries.",
+      "c": "To set minimum wage rates for all provinces.",
+      "d": "To negotiate collective agreements on behalf of unions."
+    },
+    "answer": "b",
+    "explanation": "The Canada Industrial Relations Board (CIRB) was established to administer and enforce the Canada Labour Code. Its duties include hearing complaints, supervising strike votes, and remedying violations of labour legislation."
+  },
+  {
+    "question": "What is the purpose of a 'repatriation program'?",
+    "choices": {
+      "a": "To train employees for an international assignment.",
+      "b": "To help employees make the transition back home after an international assignment.",
+      "c": "To provide compensation to expatriates.",
+      "d": "To recruit host-country nationals."
+    },
+    "answer": "b",
+    "explanation": "Repatriation programs are designed to prepare employees for adjusting to life at home, which can sometimes be more difficult than adjusting to a foreign assignment."
+  },
+  {
+    "question": "The process of collapsing many traditional salary grades into a few wide salary bands to encourage lateral skill building is known as:",
+    "choices": {
+      "a": "Broadbanding",
+      "b": "Job evaluation",
+      "c": "Wage compression",
+      "d": "Pay equity"
+    },
+    "answer": "a",
+    "explanation": "Broadbanding collapses many traditional salary grades into a few wide salary bands to encourage lateral skill building and provide greater flexibility in pay."
+  },
+  {
+    "question": "Which of the following is NOT a common reason for employees to unionize?",
+    "choices": {
+      "a": "Economic need and dissatisfaction with wages.",
+      "b": "Dissatisfaction with managerial practices and favouritism.",
+      "c": "A desire for a stronger personal relationship with their direct manager.",
+      "d": "To fulfill social needs and gain recognition."
+    },
+    "answer": "c",
+    "explanation": "Employees typically unionize due to economic needs, dissatisfaction with management, and social/leadership concerns. A desire for a better relationship with a manager is usually addressed individually, not through collective action."
+  },
+  {
+    "question": "What is the primary difference between a 'tell-and-listen' and a 'problem-solving' performance review format?",
+    "choices": {
+      "a": "The tell-and-listen format is longer.",
+      "b": "The problem-solving format does not allow the employee to speak.",
+      "c": "The tell-and-listen format explores the employee's feelings, while the problem-solving format seeks the employee's buy-in on a mutually agreed-upon solution.",
+      "d": "The tell-and-listen format is only for positive feedback, while problem-solving is for negative feedback."
+    },
+    "answer": "c",
+    "explanation": "The tell-and-listen format involves communicating strong/weak points and then exploring the employee's feelings. The problem-solving format is more proactive, seeking to obtain the employee’s buy-in for a mutually agreed-upon way to overcome obstacles and improve performance."
+  },
+  {
+    "question": "A program where younger employees are called on to mentor older employees and executives about social media and new technology is called:",
+    "choices": {
+      "a": "Reverse mentoring",
+      "b": "E-mentoring",
+      "c": "Peer mentoring",
+      "d": "Group mentoring"
+    },
+    "answer": "a",
+    "explanation": "Reverse mentoring is a program whereby younger employees are called on to mentor older employees and executives about social media trends, new technology, and marketplace trends."
+  },
+  {
+    "question": "What is a major advantage of using an 'assessment centre' for selection?",
+    "choices": {
+      "a": "It is the least expensive selection method.",
+      "b": "It can be completed quickly online.",
+      "c": "It evaluates candidates as they participate in a series of simulations that resemble what they might handle on the job.",
+      "d": "It primarily measures an applicant's personality."
+    },
+    "answer": "c",
+    "explanation": "An assessment centre test is used to evaluate candidates as they participate in a series of situations that resemble what they might handle on the job, providing a realistic view of their capabilities."
+  },
+  {
+    "question": "Which principle of learning is applied when a complex task is broken down into a sequence of smaller parts for a trainee?",
+    "choices": {
+      "a": "Modelling",
+      "b": "Whole-versus-part learning",
+      "c": "Active practice and repetition",
+      "d": "Goal setting"
+    },
+    "answer": "b",
+    "explanation": "In whole-versus-part learning, if a task can be broken down successfully into discrete steps (like selling a product), it probably should be to facilitate learning."
+  },
+  {
+    "question": "The process of identifying 'best practices' in a given area and then comparing your practices and performance to those of other companies is known as:",
+    "choices": {
+      "a": "SWOT analysis",
+      "b": "Environmental scanning",
+      "c": "Benchmarking",
+      "d": "Job evaluation"
+    },
+    "answer": "c",
+    "explanation": "Benchmarking is the process of identifying 'best practices' in a given area—for example, productivity, logistics, brand management, and training—and then comparing your practices and performance to those of other companies."
+  },
+  {
+    "question": "What is the primary function of a 'job specification'?",
+    "choices": {
+      "a": "To describe the tasks, duties, and responsibilities of a job.",
+      "b": "To state the needed knowledge, skills, and abilities of the person who is to perform the job.",
+      "c": "To outline the compensation and benefits for a job.",
+      "d": "To detail the reporting structure of a job."
+    },
+    "answer": "b",
+    "explanation": "A job specification is a statement of the knowledge, skills, and abilities (KSAOs) required of the person performing the job. It establishes the qualifications required of applicants."
+  },
+  {
+    "question": "Which of the following would NOT be considered a form of workplace violence?",
+    "choices": {
+      "a": "Verbal abuse, including swearing and insults.",
+      "b": "A manager providing constructive feedback during a performance review.",
+      "c": "Threatening behavior, such as shaking fists.",
+      "d": "Harassment that demeans or embarrasses an employee."
+    },
+    "answer": "b",
+    "explanation": "Workplace violence includes threatening behavior, verbal/written threats, harassment, verbal abuse, and physical attacks. Constructive feedback, when delivered professionally, is a normal part of management and not considered violence."
+  },
+  {
+    "question": "What is the 'just cause' standard for dismissal in a unionized workplace?",
+    "choices": {
+      "a": "The employer can dismiss an employee for any reason at all.",
+      "b": "The employer must provide reasonable notice before dismissing an employee.",
+      "c": "The employer must have a valid, supportable reason to impose discipline or dismiss an employee.",
+      "d": "The employee must agree to the dismissal."
+    },
+    "answer": "c",
+    "explanation": "Unlike a nonunionized employer who can dismiss with notice, a unionized employer usually needs just cause to dismiss a worker. This means they need a valid reason that can be challenged by the union through a grievance procedure."
+  },
+  {
+    "question": "What is the purpose of an 'authorization card' in a union organizing campaign?",
+    "choices": {
+      "a": "It is an employee's application for a promotion.",
+      "b": "It is a card used to clock in and out of work.",
+      "c": "It is a statement signed by an employee authorizing a union to act as their representative for collective bargaining.",
+      "d": "It is a ballot used to vote in a union election."
+    },
+    "answer": "c",
+    "explanation": "An important task of the in-house organizing committee is to have employees sign an authorization card indicating their willingness to be represented by a union in collective bargaining."
+  },
+  {
+    "question": "Employees who are natives of a country other than the home country or the host country are referred to as:",
+    "choices": {
+      "a": "Expatriates",
+      "b": "Host-country nationals",
+      "c": "Guest workers",
+      "d": "Third-country nationals"
+    },
+    "answer": "d",
+    "explanation": "Third-country nationals are natives of a country other than the home country or the host country where an international operation is located."
+  },
+  {
+    "question": "What is a major criticism of trait-based performance appraisal methods?",
+    "choices": {
+      "a": "They are too expensive to develop.",
+      "b": "They are notoriously biased and subjective if not designed carefully.",
+      "c": "They take too long for managers to complete.",
+      "d": "They are not useful for promotion decisions."
+    },
+    "answer": "b",
+    "explanation": "Trait approaches are popular because they are easy to develop, but if not designed carefully based on job analysis, they can be notoriously biased and subjective."
+  },
+  {
+    "question": "Which of these is NOT a legally required employee benefit in Canada?",
+    "choices": {
+      "a": "Employer contributions to CPP/QPP",
+      "b": "Employment Insurance (EI)",
+      "c": "A company-matched RRSP program",
+      "d": "Workers' Compensation Insurance"
+    },
+    "answer": "c",
+    "explanation": "Legally required benefits in Canada include employer contributions to Canada/Quebec Pension Plans, Employment Insurance, and Workers' Compensation. Company-matched RRSPs are a discretionary benefit."
+  },
+  {
+    "question": "The use of a third-party neutral to resolve a labor dispute by issuing a final and binding decision is known as:",
+    "choices": {
+      "a": "Mediation",
+      "b": "Conciliation",
+      "c": "Arbitration",
+      "d": "Collective bargaining"
+    },
+    "answer": "c",
+    "explanation": "Arbitration is performed by a neutral third party (an arbitrator) whose decision dictates how a grievance or dispute is to be settled. The decision is typically final and binding."
+  },
+  {
+    "question": "Which factor has been found to be the most significant reason for the failure of international assignments?",
+    "choices": {
+      "a": "The expatriate's lack of technical skills",
+      "b": "Low pay and benefits",
+      "c": "Family adjustment and lifestyle issues",
+      "d": "Lack of language skills"
+    },
+    "answer": "c",
+    "explanation": "The major causes of expatriate assignment failure are often related to family and lifestyle issues, including the inability of a spouse to adjust to the new surroundings."
+  },
+  {
+    "question": "A system where an employee is given a one-day paid leave to decide whether to commit to improving performance or to quit is a feature of:",
+    "choices": {
+      "a": "Progressive discipline",
+      "b": "Alternative dispute resolution (ADR)",
+      "c": "Positive discipline",
+      "d": "An employee assistance program (EAP)"
+    },
+    "answer": "c",
+    "explanation": "The third step of positive discipline is to give the employee a one-day decision-making leave (a paid leave) for the employee to decide whether he or she wishes to continue working for the organization with a total commitment to improve."
+  }
+]
